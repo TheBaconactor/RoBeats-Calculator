@@ -1,0 +1,866 @@
+Difficulty	Song Name	Link	Primary Color	Secondary Color	Total Notes	Last Note Time	Fever Fill	Fever Time	Long Notes
+39	sink to the deep sea world [EXTENDED CUT] (Hard) by Chroma	/scl/fi/8qfz2yig120pao6yhgwm3/sink-to-the-deep-sea-world-EXTENDED-CUT-Hard-by-Chroma.txt?rlkey=zzjypnb8mc1ljdnlo8j2wsjqn&dl=1	Beat	Beat	4773	238.724	1445	35.808600	435
+39	Scattered Faith (Full Version) [EXTENDED CUT] (Hard) by Kurokotei	/scl/fi/73ejz0g3kwy5m5y2ockdx/Scattered-Faith-Full-Version-EXTENDED-CUT-Hard-by-Kurokotei.txt?rlkey=4xia9lirsx2zocevem95opkb2&dl=1	Chill	Rush	6503	362.404	1818	54.360600	1046
+14	RAVE (Hard) by Dxrk	/scl/fi/ax10l0b4mcfjj7jzv7abu/RAVE-Hard-by-Dxrk.txt?rlkey=xx3oaltin038lglxkf4i3xfbj&dl=1	Chill	Chill	1030	159.695	304	23.954250	120
+36	Stargaze Station (Hard) by seatrus	/scl/fi/wzxekkkbl8wox8s1oiy9s/Stargaze-Station-Hard-by-seatrus.txt?rlkey=u52xe420fn7xueqtznhdnprn4&dl=1	Flow	Vibe	2566	140.583	800	21.087450	166
+15	Memory Reboot (Hard) by VOJ & Narvent	/scl/fi/tgs4emlmy7ntd11632atq/Memory-Reboot-Hard-by-VOJ-Narvent.txt?rlkey=45efg7e6708n3gtipof7ikxf9&dl=1	Beat	Beat	995	206.429	316	30.964350	48
+39	Tool-Assisted Speedcore (TQBF Frame Advance RMX) [EXTENDED CUT] (Hard) by Kobaryo	/scl/fi/ozy0x75gygaq6ei6opcz8/Tool-Assisted-Speedcore-TQBF-Frame-Advance-RMX-EXTENDED-CUT-Hard-by-Kobaryo.txt?rlkey=ertfom2tyjcxlbt8mbc741g23&dl=1	Beat	Flow	4346	250.022	1411	37.503300	109
+38	Attractor Dimension (Hard) by Laur [LAUR1200]	/scl/fi/7ndzmg8n4e74s7vyox4r0/Attractor-Dimension-Hard-by-Laur-LAUR1200.txt?rlkey=iy8l1kjqzcgdvjm4czmmna843&dl=1	Vibe	Rush	2704	151.010	874	22.651500	80
+37	Bermuda Triangle (Hard) by Camellia feat. The8BitDrummer	/scl/fi/ea049olema23j3ch5zost/Bermuda-Triangle-Hard-by-Camellia-feat.-The8BitDrummer.txt?rlkey=alf7ez10lnukqbmk4flom5oy4&dl=1	Rush	Beat	2384	124.577	680	18.686550	343
+38	BPM=RT (Hard) by t+pazolite	/scl/fi/a1un0nfcos38u1bk1l1my/BPM-RT-Hard-by-t-pazolite.txt?rlkey=e1siublwxdfgug3gmrmfk1tjl&dl=1	Rush	Rush	1979	129.176	648	19.376400	34
+37	Killing Me If You Can -Guitar Instrumental- (Hard) by UNDEAD CORPORATION	/scl/fi/cehhp0xc8lwq1dsogf1zs/Killing-Me-If-You-Can-Guitar-Instrumental-Hard-by-UNDEAD-CORPORATION.txt?rlkey=bm42web8kr0fq4omh8pq8a57e&dl=1	Rush	Beat	2155	130.748	697	19.612200	62
+37	M1LLI0N PP (Full Version) [EXTENDED CUT] (Hard) by Camellia	/scl/fi/szjmj8vj1mim29s3ycm2y/M1LLI0N-PP-Full-Version-EXTENDED-CUT-Hard-by-Camellia.txt?rlkey=bcc0x3ayabv0qic65xssjwmp0&dl=1	Beat	Rush	7027	407.631	2038	61.144650	909
+37	MONONOKE (Hard) by seatrus	/scl/fi/qut6w5qsih9fyazfjmjxt/MONONOKE-Hard-by-seatrus.txt?rlkey=mku9vivj6h3ryko8hyxgjoen0&dl=1	Flow	Rush	2204	142.611	703	21.391650	94
+36	Celestial Scars! (Hard) by ZirconEscalus	/scl/fi/7a3ho0pl1l73e99th2cuw/Celestial-Scars-Hard-by-ZirconEscalus.txt?rlkey=69nvtmt8dksevgir1bh97511u&dl=1	Flow	Flow	2703	162.005	811	24.300750	269
+36	FREEDOM DiVE (Koneko's Hardmode) [EXTENDED CUT] (Hard) by xi (xi_com_giko_31)	/scl/fi/2o4ymituxswrwl0xnvq86/FREEDOM-DiVE-Koneko-s-Hardmode-EXTENDED-CUT-Hard-by-xi-xi_com_giko_31.txt?rlkey=wcacotghfqmo94atxsx3urz1c&dl=1	Vibe	Flow	4544	260.280	1451	39.042000	189
+36	Galaxy Collapse [EXTENDED CUT] (Hard) by Kurokotei	/scl/fi/1nqb6pyi98s07k94cjoqs/Galaxy-Collapse-EXTENDED-CUT-Hard-by-Kurokotei.txt?rlkey=u0bwkrcstm6v65ry63hyazs1u&dl=1	Rush	Rush	6307	401.608	1932	60.241200	507
+36	GHOUL (Hard) by Camellia	/scl/fi/dfat67iujbgdzm0fi8gli/GHOUL-Hard-by-Camellia.txt?rlkey=e807xpyumqs2ck4gfzyv1bwv1&dl=1	Beat	Beat	3427	199.304	1050	29.895600	275
+36	U Got Me (Hard) by Bossfight	/scl/fi/l81mcnxxzhkzx0p32twsa/U-Got-Me-Hard-by-Bossfight.txt?rlkey=wgowpszdz9k3uoy993tpz9opy&dl=1	Rush	Beat	2594	179.320	840	26.898000	73
+36	Viyella's Nightmare (Hard) by Laur [LAUR1200]	/scl/fi/0n38rg077q147lp7d0y5b/Viyella-s-Nightmare-Hard-by-Laur-LAUR1200.txt?rlkey=padn0rp6klj5zzvziaa6bznxh&dl=1	Rush	Flow	2666	153.802	742	23.070300	439
+35	Afflict (Hard) by Laur [LAUR1200] feat. Risa Yuzuki	/scl/fi/97wgl3vlxdt0xl4cp84l2/Afflict-Hard-by-Laur-LAUR1200-feat.-Risa-Yuzuki.txt?rlkey=wraui045ok754d6pomuqjpaf9&dl=1	Rush	Beat	2897	175.598	944	26.339700	63
+36	Balthazar [EXTENDED CUT] (Hard) by Juggernaut	/scl/fi/7t2hijotp3dcidipc55t9/Balthazar-EXTENDED-CUT-Hard-by-Juggernaut.txt?rlkey=0j5phe5kscxcscljnrrykn0pl&dl=1	Rush	Rush	4277	253.355	1124	38.003250	902
+35	Dark Desire of Ark Six (Hard) by Se-U-Ra	/scl/fi/gcrdnzedknpi49pqo0una/Dark-Desire-of-Ark-Six-Hard-by-Se-U-Ra.txt?rlkey=qgokuiql6j3fta7urlt7i073n&dl=1	Vibe	Chill	2104	110.361	592	16.554150	329
+36	The Daybreak Will Never Come Again ('rampagE' long vEr.) [EXTENDED CUT] (Hard) by seatrus	/scl/fi/9u8dvhowylqysxql04e5g/The-Daybreak-Will-Never-Come-Again-rampagE-long-vEr.-EXTENDED-CUT-Hard-by-seatrus.txt?rlkey=v3uk3gwz5d8kjn0dscdf0bls4&dl=1	Beat	Flow	4053	252.910	1185	37.936500	495
+35	Omega(x2)PARTS [EXTENDED CUT] (Hard) by Camellia	/scl/fi/8a0qetlml7hgfmjcmxkd8/Omega-x2-PARTS-EXTENDED-CUT-Hard-by-Camellia.txt?rlkey=2129o9wp5v9g9xan9uina8rze&dl=1	Flow	Flow	6029	402.980	1752	60.447000	770
+35	Exit This Earth's Atomosphere (Camellia's 'Planetary//200step' Remix) [EXTENDED CUT] (Hard) by Camellia	/scl/fi/pfk80wnpkpr7bzh5vct6i/Exit-This-Earth-s-Atomosphere-Camellia-s-Planetary200step-Remix-EXTENDED-CUT-Hard-by-Camellia.txt?rlkey=nu60x2vcy7cpuuf4podjgz2ie&dl=1	Rush	Chill	5993	401.687	1612	60.253050	1155
+35	Bookmaker (2D Version) (Hard) by Kobaryo	/scl/fi/eg2ss2qr06p2jsjujrvgl/Bookmaker-2D-Version-Hard-by-Kobaryo.txt?rlkey=azqhjohixt0llwfgwugdpj9xh&dl=1	Vibe	Beat	2491	145.441	730	21.816150	300
+35	Calamity Fortune [EXTENDED CUT] (Hard) by LeaF (7eaF)	/scl/fi/qqpbi81gred6mm14iwmx1/Calamity-Fortune-EXTENDED-CUT-Hard-by-LeaF-7eaF.txt?rlkey=2u3q2nmlwqjl5bqwf3opv30un&dl=1	Rush	Chill	6843	377.469	2024	56.620350	765
+35	Cutter (Hard) by EmoCosine	/scl/fi/9t6gzvmj0li2bzr8c9j5d/Cutter-Hard-by-EmoCosine.txt?rlkey=dyg4gbw9jn1mg7ivtlvnn9rzr&dl=1	Rush	Rush	2297	139.387	606	20.908050	480
+35	Everything Will Freeze (Vocal) [EXTENDED CUT] (Hard) by UNDEAD CORPORATION	/scl/fi/9p0isp4n98gwh9guq0y7p/Everything-Will-Freeze-Vocal-EXTENDED-CUT-Hard-by-UNDEAD-CORPORATION.txt?rlkey=op7afr1xt3rzdpix2xte5mlwz&dl=1	Flow	Rush	4387	193.371	1190	29.005650	816
+35	The Empress (scream off version) (Hard) by UNDEAD CORPORATION	/scl/fi/7knam82zqkr5foquasv2g/The-Empress-scream-off-version-Hard-by-UNDEAD-CORPORATION.txt?rlkey=hfqn5xsqfczcpu5tlt7g8g33n&dl=1	Beat	Flow	2787	158.216	885	23.732400	131
+35	Flowering Night Fever -Guitar Instrumental- (Hard) by UNDEAD CORPORATION	/scl/fi/4uqbmczi16be51t7h2ww6/Flowering-Night-Fever-Guitar-Instrumental-Hard-by-UNDEAD-CORPORATION.txt?rlkey=4zslz64u6532bk23ascito2fl&dl=1	Beat	Flow	2858	144.235	939	21.635250	40
+34	BPM = RT (Hard) by Kurokotei	/scl/fi/9aj2uln7nnstkdjtdv9wk/BPM-RT-Hard-by-Kurokotei.txt?rlkey=oupcfm6u4dxg34djeh9x8b6lb&dl=1	Vibe	Flow	2351	155.442	707	23.316300	230
+35	Energy Of The Star (Hard) by BlackY & Yooh & nora2r & kanone	/scl/fi/d3mnvdmfdgzza5trn1j55/Energy-Of-The-Star-Hard-by-BlackY-Yooh-nora2r-kanone.txt?rlkey=3w3mirkpi64n0beqz914j4lcb&dl=1	Vibe	Beat	3292	176.614	846	26.492100	753
+34	Dark Sheep [EXTENDED CUT] (Hard) by Chroma	/scl/fi/pwuh6z17w26mvqbdo0l4m/Dark-Sheep-EXTENDED-CUT-Hard-by-Chroma.txt?rlkey=qjgsgr8dez4jznoblti8q0rz3&dl=1	Beat	Beat	4081	235.953	938	35.392950	1266
+35	galvanical onEshot (Hard) by seatrus	/scl/fi/y13olhgrp5dx9xow44oug/galvanical-onEshot-Hard-by-seatrus.txt?rlkey=57s7zio19ipougspqs1xomq8o&dl=1	Chill	Beat	2161	148.678	619	22.301700	305
+35	Revenant (Hard) by Juggernaut	/scl/fi/dac1vflr6hxbrs3h24o1g/Revenant-Hard-by-Juggernaut.txt?rlkey=32g86pqtke3ocenlameazpl99&dl=1	Rush	Beat	3255	183.754	841	27.563100	732
+35	Last Attack (Hard) by USAO & Massive New Krew	/scl/fi/f8ie2wzsn7dwv5mds717z/Last-Attack-Hard-by-USAO-Massive-New-Krew.txt?rlkey=pql4byrlgetd6fdsmau8fd7st&dl=1	Vibe	Rush	3271	182.283	974	27.342450	348
+34	Chroma 'Heavenly' Mashup [EXTENDED CUT] (Hard) by Chroma (Arranged by CosmosGalaxies & iiJohn0)	/scl/fi/i5e1vb6g519fq5xj7r3e4/Chroma-Heavenly-Mashup-EXTENDED-CUT-Hard-by-Chroma-Arranged-by-CosmosGalaxies-iiJohn0.txt?rlkey=d2lqsbtho4mveqqwqxgszfdd9&dl=1	Rush	Rush	4921	333.712	1217	50.056800	1267
+34	CICADA3302 [EXTENDED CUT] (Hard) by Camellia	/scl/fi/8sjq7711yavojc60cm3fn/CICADA3302-EXTENDED-CUT-Hard-by-Camellia.txt?rlkey=szzdw50svpfhjndq9dlvaask7&dl=1	Rush	Beat	6158	417.506	1814	62.625900	712
+34	FREEDOM DiVE[METAL DIMENSIONS] (Hard) by xi (xi_com_giko_31) remixed by cosMo@bousouP	/scl/fi/qeamijbhwp2o1fzej0gx7/FREEDOM-DiVE-METAL-DIMENSIONS-Hard-by-xi-xi_com_giko_31-remixed-by-cosMo-bousouP.txt?rlkey=er20r546v15qx7qvmwbd85vye&dl=1	Vibe	Flow	2714	148.935	840	22.340250	192
+34	LeaF Style Super * Mashup [EXTENDED CUT] (Hard) by LeaF (7eaF) (Arranged by SilentWuffer)	/scl/fi/fae5732p78swvxh5xszch/LeaF-Style-Super-Mashup-EXTENDED-CUT-Hard-by-LeaF-7eaF-Arranged-by-SilentWuffer.txt?rlkey=2s2jc8407cmefmazvcj1a43z7&dl=1	Beat	Chill	4048	261.015	1196	39.152250	459
+34	Soulless 5 (HalfDuck Cover) [EXTENDED CUT] (Hard) by ExileLord (Cover by HalfDuck)	/scl/fi/gyen0xocumodyzuj2zeg6/Soulless-5-HalfDuck-Cover-EXTENDED-CUT-Hard-by-ExileLord-Cover-by-HalfDuck.txt?rlkey=zkawm1lajsv5845t3uursm5m1&dl=1	Rush	Beat	6213	376.715	1813	56.507250	769
+34	The Best of Cametek Mashup [EXTENDED CUT] (Hard) by Camellia (Arranged by HimitsuHiketsu)	/scl/fi/utp0dapmd82g408atjzuz/The-Best-of-Cametek-Mashup-EXTENDED-CUT-Hard-by-Camellia-Arranged-by-HimitsuHiketsu.txt?rlkey=kusr50hgehttr501avap6cs6b&dl=1	Rush	Rush	6585	414.971	1726	62.245650	1402
+34	Amnehilesie (Hard) by MisomyL [MisoilePunch]	/scl/fi/io37a2apby057pahnuqc2/Amnehilesie-Hard-by-MisomyL-MisoilePunch.txt?rlkey=4glo5inm52b49r4nkpci3kepe&dl=1	Rush	Flow	2326	145.813	724	21.871950	153
+34	Beautiful Memories (Hard) by HyuN	/scl/fi/qlnjjfmegfn92fgjsqr1z/Beautiful-Memories-Hard-by-HyuN.txt?rlkey=1goss4186zti4qztlv7kfb7hu&dl=1	Chill	Flow	2185	126.647	551	18.997050	532
+34	Grace (Hard) by Laur [LAUR1200]	/scl/fi/4rd8o559w7f1vc6t56ezy/Grace-Hard-by-Laur-LAUR1200.txt?rlkey=nduwxahkpc5v9efc8wjji92mm&dl=1	Rush	Beat	2816	168.393	829	25.258950	327
+34	Perfect Neglect (Hard) by Kobaryo	/scl/fi/f5ric3bvqx38cxp3mnwx7/Perfect-Neglect-Hard-by-Kobaryo.txt?rlkey=cnjinkw2fjfu3cej1j1137t2z&dl=1	Beat	Rush	2419	139.936	787	20.990400	57
+34	Scattered Faith (Hard) by Kurokotei	/scl/fi/vxx77kjxzyyxi7fq9fphz/Scattered-Faith-Hard-by-Kurokotei.txt?rlkey=icsa4ltm06vl2ct2hfptvatoc&dl=1	Chill	Rush	1805	126.269	557	18.940350	134
+34	Villain Virus (Hard) by Kobaryo (feat. Cametek)	/scl/fi/8ixcgjq1zpihvqwie56k0/Villain-Virus-Hard-by-Kobaryo-feat.-Cametek.txt?rlkey=xq8drm3ost7xwml201tpswlue&dl=1	Beat	Chill	2414	164.371	716	24.655650	266
+34	Apocaliptix //-Another-// (Hard) by Juggernaut	/scl/fi/swrq1nt3nv209fg0xsait/Apocaliptix-Another-Hard-by-Juggernaut.txt?rlkey=gmini44k87urrbbxdxm67n3up&dl=1	Rush	Flow	2324	124.320	614	18.648000	481
+34	Ice Angel (Hard) by Yooh	/scl/fi/hh874636yv0s3qfzx2jei/Ice-Angel-Hard-by-Yooh.txt?rlkey=okh37dfudzqk44g4z2ju5dc8z&dl=1	Chill	Rush	2420	145.756	806	21.863400	0
+34	CRITICATION (Hard) by Kagetora	/scl/fi/6ublfyt6qxis7viu4e3hr/CRITICATION-Hard-by-Kagetora.txt?rlkey=hwaq2tx8nlgkldcekbxoiexnn&dl=1	Rush	Rush	3176	183.972	792	27.595800	798
+33	Traveler ~stand aloof~ (Hard) by Se-U-Ra	/scl/fi/woppu0l6288f734lka27k/Traveler-stand-aloof-Hard-by-Se-U-Ra.txt?rlkey=cra0su9j7pky23hn3jvs7wp3y&dl=1	Flow	Chill	1869	117.607	519	17.641050	312
+34	Hypervelocity [EXTENDED CUT] (Hard) by Synthion	/scl/fi/737omfss5syzuppov9me8/Hypervelocity-EXTENDED-CUT-Hard-by-Synthion.txt?rlkey=dwoobkb4bns3x534tkwryqbr2&dl=1	Flow	Chill	3802	280.893	1082	42.133950	553
+34	VIVIDVELOCITY (Hard) by Synthion	/scl/fi/84zqaz0pvdrvwrtn3f27i/VIVIDVELOCITY-Hard-by-Synthion.txt?rlkey=4bw5mmufxyjx2j7i3gxt669ib&dl=1	Rush	Flow	2033	126.545	507	18.981750	512
+33	Galaxy Collapse (Classic Map) [EXTENDED CUT] (Hard) by Kurokotei	/scl/fi/74zjakkkqxv0npcztvm4p/Galaxy-Collapse-Classic-Map-EXTENDED-CUT-Hard-by-Kurokotei.txt?rlkey=rwqpoz8bra3xztcec4vhcueq3&dl=1	Rush	Rush	2130	154.784	582	23.217600	383
+33	We Could Get More Machinegun Psystyle! (And More Genre Switches) (Hard) by Camellia	/scl/fi/2g2d7clphwrshjw0souko/We-Could-Get-More-Machinegun-Psystyle-And-More-Genre-Switches-Hard-by-Camellia.txt?rlkey=xi6nbqtsrj0ljhtv59eg1uk7m&dl=1	Vibe	Chill	2525	166.010	726	24.901500	346
+33	FREEDOM DiVE [METAL DIMENSIONS] (Classic Map) [EXTENDED CUT] (Hard) by xi (xi_com_giko_31) (Remixed by cosMo@BousouP)	/scl/fi/t5lnr7x2bhirxg0qq3ew3/FREEDOM-DiVE-METAL-DIMENSIONS-Classic-Map-EXTENDED-CUT-Hard-by-xi-xi_com_giko_31-Remixed-by-cosMo-BousouP.txt?rlkey=qe3ybzlzpa2br2ni0t2gpku7q&dl=1	Vibe	Flow	2105	148.927	575	22.339050	379
+33	GHOST (Hard) by Camellia	/scl/fi/jmt71fhhqg71iuf6649m8/GHOST-Hard-by-Camellia.txt?rlkey=k4zxeglo04841xw1tdtaamnl2&dl=1	Chill	Rush	2668	191.766	723	28.764900	498
+33	Kurokotei x Se-U-Ra Mashup: When Two Worlds Collide [EXTENDED CUT] (Hard) by Kurokotei and Se-U-Ra (Arranged by iiJohn0)	/scl/fi/xd9hrx8g7s0wknltm5qtg/Kurokotei-x-Se-U-Ra-Mashup-When-Two-Worlds-Collide-EXTENDED-CUT-Hard-by-Kurokotei-and-Se-U-Ra-Arranged-by-iiJohn0.txt?rlkey=bjefw1f46a7rkpkngdnjj1oqo&dl=1	Rush	Flow	4492	342.324	1387	51.348600	328
+33	Amatium (Hard) by HyuN	/scl/fi/sdg7nc08v2rl6uvtfs2x8/Amatium-Hard-by-HyuN.txt?rlkey=5ijk358kp2l1png97wtn43tum&dl=1	Chill	Beat	1960	118.181	491	17.727150	486
+33	RoBeats: The Light Speed Mashup [EXTENDED CUT] (Hard) by Various Artists (Arranged by ZirconEscalus and Got1Butter)	/scl/fi/91g220czhcegyvozceipo/RoBeats-The-Light-Speed-Mashup-EXTENDED-CUT-Hard-by-Various-Artists-Arranged-by-ZirconEscalus-and-Got1Butter.txt?rlkey=3qgj45r7bplwnn64ll29r9p5q&dl=1	Rush	Rush	5486	409.146	1630	61.371900	592
+33	Galaxy Friends [Game Edition] (Hard) by Kobaryo	/scl/fi/sbgi0s5dj0cri9ei53882/Galaxy-Friends-Game-Edition-Hard-by-Kobaryo.txt?rlkey=zfvb21i5ttogbyp808y5y77b8&dl=1	Flow	Rush	1983	124.500	564	18.675000	292
+33	Longinus (Hard) by xi (xi_com_giko_31)	/scl/fi/u1vy9v4ujuzxg3e7sjhpc/Longinus-Hard-by-xi-xi_com_giko_31.txt?rlkey=nffggw96u6um2to010wcj336j&dl=1	Vibe	Vibe	3100	184.528	1001	27.679200	94
+33	Restriction (Hard) by Team Grimoire	/scl/fi/vf922ys2uejejkyapdy11/Restriction-Hard-by-Team-Grimoire.txt?rlkey=1i4dkcy1hhrqe6am3krihc2an&dl=1	Beat	Vibe	2070	147.887	641	22.183050	148
+33	Overrrload!! (Hard) by MisoilePunch	/scl/fi/wqwbc3xwgs1totygzlven/Overrrload-Hard-by-MisoilePunch.txt?rlkey=f2ftm306ofeqds6ygprrh2yed&dl=1	Rush	Vibe	2209	130.400	677	19.560000	177
+33	We Magicians Still Alive in 2021 [EXTENDED CUT] (Hard) by Camellia	/scl/fi/degq52923v935d17af885/We-Magicians-Still-Alive-in-2021-EXTENDED-CUT-Hard-by-Camellia.txt?rlkey=4kpfr8wqi5k7f3yy2q2yrselk&dl=1	Flow	Rush	4200	319.952	1249	47.992800	452
+33	critical divEr (Hard) by seatrus (feat. Risa Yuzuki)	/scl/fi/fvshlfypbcqlrfrfpi9b8/critical-divEr-Hard-by-seatrus-feat.-Risa-Yuzuki.txt?rlkey=cd66jilt147aq5g354338anpp&dl=1	Vibe	Chill	1857	144.113	551	21.616950	205
+33	Devotion (Hard) by Juggernaut	/scl/fi/nfnpx5lgh0nsklqscm573/Devotion-Hard-by-Juggernaut.txt?rlkey=827y62ehezxpyf7jclmrthi04&dl=1	Rush	Rush	2088	123.555	604	18.533250	276
+33	Pixel Heart [EXTENDED CUT] (Hard) by EmoCosine	/scl/fi/v8fb3v0dvqg5c4stxgz7k/Pixel-Heart-EXTENDED-CUT-Hard-by-EmoCosine.txt?rlkey=o5827cmi5pqae607szuqtljao&dl=1	Beat	Rush	4368	276.785	1114	41.517750	1024
+33	OMG (Hard) by Halv	/scl/fi/t1zfll67r7325gaa1lka1/OMG-Hard-by-Halv.txt?rlkey=bexqjclz4hh5hy4teu7liq46p&dl=1	Flow	Flow	2481	138.560	617	20.784000	631
+33	Saturn V2 short ver. (Hard) by Egg Yolk	/scl/fi/03eeycliixj1s9vkm2znf/Saturn-V2-short-ver.-Hard-by-Egg-Yolk.txt?rlkey=18fpvdn6z03rbfo41pm49b3v2&dl=1	Rush	Beat	1632	124.383	465	18.657450	237
+32	Devil's Palm (Hard) by Kurokotei	/scl/fi/fm508lrz8hc8vdlf7fum8/Devil-s-Palm-Hard-by-Kurokotei.txt?rlkey=hugvw9nrienxt43z8ce582opm&dl=1	Beat	Rush	1954	142.856	589	21.428400	187
+33	Sushi Tornado (Hard) by Halv	/scl/fi/r3plsj4ei9wlsp7blovbn/Sushi-Tornado-Hard-by-Halv.txt?rlkey=ttp0jgv8y3r0c5gxjp07j35i8&dl=1	Vibe	Beat	2105	126.705	560	19.005750	426
+32	Bad Elixir (Hard) by xi (xi_com_giko_31)	/scl/fi/vvi1n00kg38occdgr235m/Bad-Elixir-Hard-by-xi-xi_com_giko_31.txt?rlkey=zo18k6ribulbh4841estieara&dl=1	Vibe	Rush	1689	127.113	506	19.066950	172
+32	Blue Zenith (Hard) by xi (xi_com_giko_31)	/scl/fi/w88ptzg1vo0h3b79jz8tz/Blue-Zenith-Hard-by-xi-xi_com_giko_31.txt?rlkey=pnxa17ivemk0bmqp1c3bmqq69&dl=1	Chill	Chill	2553	182.350	767	27.352500	250
+32	Doppelganger (Hard) by LeaF (7eaF)	/scl/fi/tfbalthlctrceagihsdnb/Doppelganger-Hard-by-LeaF-7eaF.txt?rlkey=mto1hsd52l8b6wzm4hlrt1b8p&dl=1	Beat	Rush	2423	144.131	640	21.619650	503
+32	Speedrun (Hard) by AmyKawashima	/scl/fi/bcxlkc0nxfbh5gukp942j/Speedrun-Hard-by-AmyKawashima.txt?rlkey=0g7gdkd8r95ul2p2vbdb9nj1m&dl=1	Chill	Chill	1799	128.161	600	19.224150	0
+32	Alteregoism (Hard) by Laur [LAUR1200]	/scl/fi/2b2witovu493musb8x2ky/Alteregoism-Hard-by-Laur-LAUR1200.txt?rlkey=8dyh8hc3kswogx7f9fvaw1kh3&dl=1	Chill	Beat	2182	150.518	677	22.577700	150
+32	The Silentroom Collection [EXTENDED CUT] (Hard) by Silentroom (Arranged by radioactive_am0 and poscle)	/scl/fi/3nnyetqi17tj0vyisouja/The-Silentroom-Collection-EXTENDED-CUT-Hard-by-Silentroom-Arranged-by-radioactive_am0-and-poscle.txt?rlkey=e9jba8apoj2df46x6axhyl47n&dl=1	Rush	Rush	3906	271.172	1075	40.675800	680
+32	Calamity Fortune (Hard) by LeaF (7eaF)	/scl/fi/c0ng5n0t9nin0awxxu6ik/Calamity-Fortune-Hard-by-LeaF-7eaF.txt?rlkey=abxtinmjdntdbmlo155xb4avx&dl=1	Rush	Chill	2240	133.171	720	19.975650	79
+32	Dark Dungeon (Hard) by Ardolf	/scl/fi/9i3aaxrhuecd3jiu5nxze/Dark-Dungeon-Hard-by-Ardolf.txt?rlkey=89iyw2ghcwt8054eiv1oha2iu&dl=1	Rush	Flow	2141	135.192	606	20.278800	322
+32	Embraced by the Flame (English version) (Hard) by UNDEAD CORPORATION	/scl/fi/k88dok5bsvdztas8kk2lj/Embraced-by-the-Flame-English-version-Hard-by-UNDEAD-CORPORATION.txt?rlkey=ii4yma4ktcflsm66lej2i2nl7&dl=1	Rush	Beat	2434	143.983	760	21.597450	152
+32	Last Judgement (Hard) by Laur [LAUR1200] vs Juggernaut	/scl/fi/yq4fstxksljz1crmi9xbj/Last-Judgement-Hard-by-Laur-LAUR1200-vs-Juggernaut.txt?rlkey=p4tv0lvcti1oe8vp2249rksbj&dl=1	Chill	Beat	2032	138.314	619	20.747100	175
+32	Grimoire (Hard) by Gardens [Sound Space]	/scl/fi/tfr9qrettugkms1julce6/Grimoire-Hard-by-Gardens-Sound-Space.txt?rlkey=juziuaftrr3jgx2v79o9kam74&dl=1	Beat	Chill	2346	183.242	703	27.486300	237
+32	Viyella's Destiny (Hard) by Laur [LAUR1200]	/scl/fi/msx10r0xl6x09sbsr9zvx/Viyella-s-Destiny-Hard-by-Laur-LAUR1200.txt?rlkey=r4vwq50wso6lefhmlz5p9l1j9&dl=1	Rush	Flow	2571	153.226	703	22.983900	460
+32	Crunchy Crown Coaster (Hard) by Kobaryo	/scl/fi/0b59y2y39yujp7f89nlxk/Crunchy-Crown-Coaster-Hard-by-Kobaryo.txt?rlkey=6zrtn1uyk6yu22cfomtfdo42r&dl=1	Rush	Rush	2007	117.936	564	17.690400	314
+32	iRELLiA (Hard) by HyuN	/scl/fi/ft5rkldqc5okd9aya1wby/iRELLiA-Hard-by-HyuN.txt?rlkey=ixohkp7uqv28ox808t4vzouhx&dl=1	Rush	Chill	1728	122.154	545	18.323100	94
+32	Melty Lover (Hard) by seatrus	/scl/fi/ha5bqtv4n2mgmkmvvatq2/Melty-Lover-Hard-by-seatrus.txt?rlkey=velxdebxb1ahl3254xsz5y810&dl=1	Flow	Beat	1830	102.643	500	15.396450	331
+32	Spooky Dance Party (Hard) by seatrus	/scl/fi/sxqzaovug9q65na9iekjr/Spooky-Dance-Party-Hard-by-seatrus.txt?rlkey=rgynszi29fhoi39y2st4jn51t&dl=1	Flow	Rush	2027	124.346	576	18.651900	299
+32	permitted (Hard) by seatrus	/scl/fi/edk2tbkp0xs89xf3aq7mr/permitted-Hard-by-seatrus.txt?rlkey=tyzxo6ir1vgboq1mnxzoo48af&dl=1	Beat	Vibe	1693	120.534	484	18.080100	242
+32	%UnDeciphered-CryptoGraph in the Edifice% (Hard) by seatrus	/scl/fi/yoqxpxc5eoz0rmp7z6gfr/UnDeciphered-CryptoGraph-in-the-Edifice-Hard-by-seatrus.txt?rlkey=g062uycwbpl58jmzdubmjcia2&dl=1	Rush	Flow	2025	121.183	569	18.177450	319
+32	Glorious (Hard) by Kagetora & Ashrount	/scl/fi/6432ulxd17ngrhph7s591/Glorious-Hard-by-Kagetora-Ashrount.txt?rlkey=rp6ijzpf27wjdae33qs9eyvzv&dl=1	Flow	Chill	2272	136.217	558	20.432550	597
+32	Mirror Of Silent (Hard) by HyuN	/scl/fi/9wf6z3bm5w55aj5qqyg13/Mirror-Of-Silent-Hard-by-HyuN.txt?rlkey=gphcpngh9pyrch44819k719ei&dl=1	Rush	Flow	1897	140.238	597	21.035700	105
+32	NeruNeru-Chan travels to the Luminous Stars! (Hard) by Halv	/scl/fi/tbmia6950iv1iw719a9q6/NeruNeru-Chan-travels-to-the-Luminous-Stars-Hard-by-Halv.txt?rlkey=2xlqonpt21glcnsuqnbrqpoo6&dl=1	Beat	Beat	2620	192.276	689	28.841400	553
+32	Nobody can stop me [EXTENDED CUT] (Hard) by Kagetora	/scl/fi/ddv55n5ubz9is1tt92hat/Nobody-can-stop-me-EXTENDED-CUT-Hard-by-Kagetora.txt?rlkey=1491igluoy4lh3tf5xik1dnd2&dl=1	Rush	Vibe	4544	327.919	1393	49.187850	362
+32	Overdose (Hard) by Bossfight (feat. Philip Strand)	/scl/fi/5w8i3aj7i94dmwx6jfrae/Overdose-Hard-by-Bossfight-feat.-Philip-Strand.txt?rlkey=z4trryyjq5hnnnuv2l05a5t36&dl=1	Vibe	Flow	2608	216.114	664	32.417100	616
+31	Insight (1NS1GHTFUL Remix) (Hard) by Haywyre (Remixed by Fritzy)	/scl/fi/4bild2xz5xtaxqujr4zke/Insight-1NS1GHTFUL-Remix-Hard-by-Haywyre-Remixed-by-Fritzy.txt?rlkey=88wd7b4s503k6m7gp03rvfxp4&dl=1	Vibe	Flow	2042	114.754	637	17.213100	131
+31	Astar (Hard) by Kurokotei	/scl/fi/180e7v4zu59lco9lss132/Astar-Hard-by-Kurokotei.txt?rlkey=gtzzq1z05pmd8hsje5eqpe17f&dl=1	Rush	Rush	1730	124.908	532	18.736200	133
+31	E-Lectixilent (E-xtended Mix) [EXTENDED CUT] (Hard) by Se-U-Ra	/scl/fi/sq3moyhk2b31lu0jpaisr/E-Lectixilent-E-xtended-Mix-EXTENDED-CUT-Hard-by-Se-U-Ra.txt?rlkey=1oixc1n0lg4jk8a3ib2lslbrg&dl=1	Chill	Rush	6172	363.598	1571	54.539700	1455
+31	Insight (Johno's Hell Remix) (Hard) by Haywyre (Remixed by iiJohn0)	/scl/fi/8oc86hz6fupgb1yn8ry52/Insight-Johno-s-Hell-Remix-Hard-by-Haywyre-Remixed-by-iiJohn0.txt?rlkey=8v0dvuwtwsa0lftkm3hfrc75i&dl=1	Chill	Chill	1683	98.603	512	14.790450	147
+31	MARENOL (Hard) by LeaF (7eaF)	/scl/fi/sds0hpd1m9sxc1nxtr7mr/MARENOL-Hard-by-LeaF-7eaF.txt?rlkey=l8h029ks3x46shhbqhv51ccy3&dl=1	Flow	Flow	1739	142.315	458	21.347250	364
+31	GHOST (2020 Halloween+++++++++ VIP) (Hard) by Camellia	/scl/fi/8kp6n1fy6w0wz0xv1ifv3/GHOST-2020-Halloween-VIP-Hard-by-Camellia.txt?rlkey=ofra0gdcri6nt4mmp4qoeq8t4&dl=1	Chill	Rush	2012	143.101	648	21.465150	69
+31	L-Uxor (Hard) by Se-U-Ra	/scl/fi/4dkbnul28vtg3amswdngb/L-Uxor-Hard-by-Se-U-Ra.txt?rlkey=rwpg71t32pzlr5vpkoxbu3rdd&dl=1	Vibe	Beat	1836	118.064	515	17.709600	292
+31	Agartha (Hard) by xi (xi_com_giko_31)	/scl/fi/iovaqk5hq1skh8ol6rtqw/Agartha-Hard-by-xi-xi_com_giko_31.txt?rlkey=2jw93k1xj8gh77q48tgv5iqfm&dl=1	Vibe	Chill	2154	166.638	683	24.995700	103
+31	Buzzbox76 (Hard) by Camellia	/scl/fi/fvobsxce4ts5uca33c7qr/Buzzbox76-Hard-by-Camellia.txt?rlkey=pp868aj057w2rst8gm5v4cst3&dl=1	Beat	Beat	2339	154.616	726	23.192400	160
+31	Enter This Earth Atomosphere (Hard) by Egg Yolk	/scl/fi/ulr50uxg5x8xifwehvvlu/Enter-This-Earth-Atomosphere-Hard-by-Egg-Yolk.txt?rlkey=zd6hxe4wfmst1c2bhaetir972&dl=1	Rush	Rush	2077	151.175	469	22.676250	669
+31	Labyrinth in Kowloon: Walled World (Hard) by Camellia	/scl/fi/n9bdy31lvd6s49vy1wuks/Labyrinth-in-Kowloon-Walled-World-Hard-by-Camellia.txt?rlkey=n2033y6dy23r4w34wg7pxb45j&dl=1	Chill	Beat	1927	127.232	502	19.084800	422
+31	Mystery Circles Ultra / U.U.F.O. (Hard) by Camellia	/scl/fi/dew9r6vtpc220spzpw6kd/Mystery-Circles-Ultra-U.U.F.O.-Hard-by-Camellia.txt?rlkey=4x22zjvxry7dzg1403px0g5i0&dl=1	Beat	Rush	2261	173.048	666	25.957200	262
+31	Double Helix (Hard) by xi (xi_com_giko_31)	/scl/fi/o0ea4xgj22xujnxx9zgkb/Double-Helix-Hard-by-xi-xi_com_giko_31.txt?rlkey=ir4vhply5xqrxqageixsigdp4&dl=1	Vibe	Vibe	2112	154.633	692	23.194950	36
+31	Catalinesie (Hard) by MisomyL [MisoilePunch]	/scl/fi/k19w8ouch4ut9gj4fo6ls/Catalinesie-Hard-by-MisomyL-MisoilePunch.txt?rlkey=mruy0a1c7fjkcfkfjd4r2mpl2&dl=1	Rush	Rush	1772	150.148	533	22.522200	174
+31	Christmas Frenzy (Hard) by Egg Yolk	/scl/fi/iajmuo61xn7suvh1rqfaf/Christmas-Frenzy-Hard-by-Egg-Yolk.txt?rlkey=9tzszxymq58plyxzb9b11ut4r&dl=1	Rush	Vibe	2084	152.264	598	22.839600	289
+31	FREEDOM DiVE (Hard) by xi (xi_com_giko_31)	/scl/fi/prwbtm3gj7ouj96yjg3na/FREEDOM-DiVE-Hard-by-xi-xi_com_giko_31.txt?rlkey=2d7ptbsnzt135bpb9ty05d2yw&dl=1	Vibe	Flow	2621	149.061	793	22.359150	240
+31	Mesheer (Hard) by MisoilePunch	/scl/fi/z78tros0jloz67ok0p45v/Mesheer-Hard-by-MisoilePunch.txt?rlkey=61tyez3fn9ojguj0ztu8nidjh&dl=1	Rush	Chill	1920	126.521	579	18.978150	184
+31	Galaxy Collapse (Hard) by Kurokotei	/scl/fi/n2p2ryvtbb7nwuru1lf7u/Galaxy-Collapse-Hard-by-Kurokotei.txt?rlkey=61p7h84j04fjuuaz9f8qap29o&dl=1	Rush	Rush	1882	117.536	578	17.630400	149
+31	put' l'da [EXTENDED CUT] (Hard) by Camellia	/scl/fi/esmsptbl871eb2tbzvbkl/put-l-da-EXTENDED-CUT-Hard-by-Camellia.txt?rlkey=vntjr2oh8ba5m27al7jp4xje5&dl=1	Vibe	Rush	3178	278.551	981	41.782650	233
+31	Area XVIII (Hard) by Ardolf vs. Egg Yolk	/scl/fi/qyak6mj6rsp2ksiav8nvw/Area-XVIII-Hard-by-Ardolf-vs.-Egg-Yolk.txt?rlkey=gsewaiikr3vg5z0x7hor62cmu&dl=1	Flow	Beat	2271	157.932	645	23.689800	337
+31	Happy Lucky --> Injection!! (Hard) by brz1128	/scl/fi/nywjasdo9h1ro3cxstz1l/Happy-Lucky-Injection-Hard-by-brz1128.txt?rlkey=vt5jqwcqrqeb251we8e2u55zf&dl=1	Rush	Vibe	1858	116.843	566	17.526450	161
+31	ouroVoros (Hard) by Team Grimoire	/scl/fi/q1eofmbp49sh1t3tjgvo4/ouroVoros-Hard-by-Team-Grimoire.txt?rlkey=n5pe037ygmuuon2m0324qbqrq&dl=1	Flow	Beat	1720	145.953	512	21.892950	185
+31	Overkill (Hard) by RIOT [Monstercat]	/scl/fi/n67wxui8d082hjxeb4hto/Overkill-Hard-by-RIOT-Monstercat.txt?rlkey=3qcznynods2yru9gqapkpakw2&dl=1	Rush	Vibe	2483	176.469	666	26.470350	486
+31	Glitched Character (Hard) by Kobaryo	/scl/fi/8oe12czf1odfbxsxeerch/Glitched-Character-Hard-by-Kobaryo.txt?rlkey=3457r0afay77kp8y2xtpwmrxn&dl=1	Flow	Chill	2713	173.701	727	26.055150	531
+31	Sound Chimera (Game Edition) (Hard) by Laur [LAUR1200]	/scl/fi/87ner8iufmg42kukkhcf4/Sound-Chimera-Game-Edition-Hard-by-Laur-LAUR1200.txt?rlkey=v00y3eo0275k0posjnns3ue9j&dl=1	Rush	Rush	2066	133.907	613	20.086050	227
+31	Grimoire of Darkness (Hard) by Team Grimoire	/scl/fi/vduzsum00jl8s7qbbyalx/Grimoire-of-Darkness-Hard-by-Team-Grimoire.txt?rlkey=lupt15dk9gp9fj84lfr1va6zq&dl=1	Flow	Flow	1686	129.732	510	19.459800	156
+31	Insane (Hard) by Sound Space [Sound Space]	/scl/fi/qjorsttrljomdnf9mdr29/Insane-Hard-by-Sound-Space-Sound-Space.txt?rlkey=tjnxpxqbbck5blmpruvmltb75&dl=1	Rush	Beat	1726	125.377	551	18.806550	72
+31	The Observer's Story (Hard) by Chroma	/scl/fi/2606s3e7ybpgut6mm6bxc/The-Observer-s-Story-Hard-by-Chroma.txt?rlkey=8pty0fz17f4i6kkflr38udfsm&dl=1	Vibe	Rush	1972	121.774	467	18.266100	571
+31	Work (Hard) by Bossfight	/scl/fi/sma6mh4f8y90pwnic3e1h/Work-Hard-by-Bossfight.txt?rlkey=ios65ea1aie93wkk7cp0rhbq5&dl=1	Flow	Flow	2797	203.483	731	30.522450	602
+31	Running Through the Sky are the Wings of a Girl Who Hopes (Hard) by seatrus	/scl/fi/t9wq7u6pjxcjlfvj0lq1k/Running-Through-the-Sky-are-the-Wings-of-a-Girl-Who-Hopes-Hard-by-seatrus.txt?rlkey=qj979qfz84alcw1ok4bef3a4h&dl=1	Chill	Rush	2089	134.385	566	20.157750	392
+31	HYPER4ID (Hard) by t+pazolite	/scl/fi/myzkgc8dv3a0zgho31hr8/HYPER4ID-Hard-by-t-pazolite.txt?rlkey=up0pljo5kbvoomakfllwuljys&dl=1	Flow	Beat	1663	115.835	404	17.375250	452
+31	Brilliant & Shining! (Hard) by Halv	/scl/fi/97g1peijekvxu0k106kp9/Brilliant-Shining-Hard-by-Halv.txt?rlkey=cpo3e9j548o3c79f2yq7v1abt&dl=1	Rush	Vibe	1954	125.518	519	18.827700	397
+31	Infinity Heaven (Hard) by HyuN	/scl/fi/3oh4ebeglyj5kdoxfgnnu/Infinity-Heaven-Hard-by-HyuN.txt?rlkey=1tic6bivtex8t6k55h1qarhwb&dl=1	Flow	Chill	1553	147.559	480	22.133850	112
+31	THE SERVANT OF EVIL (Hard) by HyuN vs JP-8 Eater	/scl/fi/1rtoar87f9z6savhscpxa/THE-SERVANT-OF-EVIL-Hard-by-HyuN-vs-JP-8-Eater.txt?rlkey=od3893x5cx9r7nuhu3sp5cxxi&dl=1	Rush	Vibe	1446	123.620	445	18.543000	112
+31	Lapisalice (Hard) by Reku Mochizuki	/scl/fi/f9odvagn3l0vll16dz5t4/Lapisalice-Hard-by-Reku-Mochizuki.txt?rlkey=8x4uqvj4akqvlr204nduxg9uo&dl=1	Chill	Chill	2805	166.481	627	24.972150	923
+31	Twin Skies (Hard) by Synthion	/scl/fi/j29oeaf09yjo0i77dzpse/Twin-Skies-Hard-by-Synthion.txt?rlkey=yhtflrloewdkrngi29ilr20t6&dl=1	Beat	Chill	1907	159.549	477	23.932350	475
+31	kang-fu neko punch!! (Hard) by AAAA	/scl/fi/6azsn71v6ho1dr8dtp7bq/kang-fu-neko-punch-Hard-by-AAAA.txt?rlkey=exjrs5774292owtq1e1ykblck&dl=1	Rush	Vibe	2381	181.311	625	27.196650	505
+31	2NITE (Hard) by nanobii	/scl/fi/ldzofk416dzsb0rb672sa/2NITE-Hard-by-nanobii.txt?rlkey=o63mvwt9f4r6n1a36ebdviky5&dl=1	Flow	Beat	2312	181.111	644	27.166650	380
+31	ATENA (Hard) by Yooh	/scl/fi/wezw9923qtk9zdttbueo3/ATENA-Hard-by-Yooh.txt?rlkey=65mw342q7t0zvg9t1vi3a0gjw&dl=1	Beat	Chill	1893	136.370	628	20.455500	8
+31	Diva (Hard) by Juggernaut	/scl/fi/wsnpkrud86mykig09kfdx/Diva-Hard-by-Juggernaut.txt?rlkey=0bclw3kkj8l9o4ir5kjp5yfs2&dl=1	Beat	Rush	3525	195.779	932	29.366850	727
+30	Evanescent (Hard) by LeaF (7eaF)	/scl/fi/wj115t6eumig2oqhtmb22/Evanescent-Hard-by-LeaF-7eaF.txt?rlkey=p3n6kbs8gmhqrqgzky7zm6hma&dl=1	Vibe	Rush	1734	123.948	514	18.592200	193
+31	Moonflutter (Hard) by Reku Mochizuki	/scl/fi/f3ui1wwln438dcdzt3ohq/Moonflutter-Hard-by-Reku-Mochizuki.txt?rlkey=mfpvppted7xrojzsy1xlux25a&dl=1	Vibe	Vibe	3221	176.668	706	26.500200	1101
+30	Afterwars -Infection- (Hard) by Se-U-Ra	/scl/fi/bmda6k8x7o5f2y7ohhuac/Afterwars-Infection-Hard-by-Se-U-Ra.txt?rlkey=r3jvt8rog4r6wupt1xk46bfki&dl=1	Beat	Rush	1394	101.025	382	15.153750	249
+30	#include <signal.h> (Hard) by Kurokotei	/scl/fi/ur8axur7yitqcbfms79b8/include-signal.h-Hard-by-Kurokotei.txt?rlkey=wvi9z4lhmnmc81ygdxm9wldv9&dl=1	Vibe	Flow	2239	167.840	716	25.176000	90
+30	Aiyatvs (Hard) by Se-U-Ra	/scl/fi/49be4c9ifplxzmlhdwuxe/Aiyatvs-Hard-by-Se-U-Ra.txt?rlkey=kuoljz4twz1pzofadyzjzkkbk&dl=1	Vibe	Vibe	1555	110.790	482	16.618500	109
+30	F-Rozenette (Hard) by Se-U-Ra	/scl/fi/nwwpbzvita5wxpilvvpgj/F-Rozenette-Hard-by-Se-U-Ra.txt?rlkey=tttsw9eltekuupxl61qp0sz8r&dl=1	Flow	Rush	1939	128.338	532	19.250700	344
+30	Hold Me, Magic (Hard) by AKORINGO [Nash Music Library]	/scl/fi/z82k9iu33o34l2188nfzk/Hold-Me-Magic-Hard-by-AKORINGO-Nash-Music-Library.txt?rlkey=hq94lh7srwrcy2hlex965aieh&dl=1	Flow	Rush	2235	148.648	616	22.297200	386
+30	Everything Will Freeze (Classic Map) [EXTENDED CUT] (Hard) by UNDEAD CORPORATION	/scl/fi/5yjm7lpbth5jmhdgwjhc2/Everything-Will-Freeze-Classic-Map-EXTENDED-CUT-Hard-by-UNDEAD-CORPORATION.txt?rlkey=xhytlnggkq3ud9nhc7vfm1hk3&dl=1	Flow	Rush	2088	135.436	651	20.315400	135
+30	Lovely My Prince (Hard) by AKORINGO [Nash Music Library]	/scl/fi/jjjt3k9o7ff9bwc809eou/Lovely-My-Prince-Hard-by-AKORINGO-Nash-Music-Library.txt?rlkey=bsm53j6b7b70spbwctwjkbdu7&dl=1	Rush	Rush	2863	162.367	681	24.355050	818
+30	Chronostasis (Hard) by Kurokotei	/scl/fi/o3fcyczebabdjye4kp4jj/Chronostasis-Hard-by-Kurokotei.txt?rlkey=fu4oetinx4e7elydbim9xa8mf&dl=1	Vibe	Rush	1752	137.508	581	20.626200	9
+30	FREEDOM DiVE (Classic Map) [EXTENDED CUT] (Hard) by xi (xi_com_giko_31)	/scl/fi/0dr8tcybdkwxj1yef5oho/FREEDOM-DiVE-Classic-Map-EXTENDED-CUT-Hard-by-xi-xi_com_giko_31.txt?rlkey=w6n2jmda9akpluce3ryi3dirj&dl=1	Vibe	Flow	2329	146.842	744	22.026300	97
+30	HazArtOth (Hard) by Se-U-Ra	/scl/fi/lcr4lq27p9vca02486ugn/HazArtOth-Hard-by-Se-U-Ra.txt?rlkey=yzhvx8ky43e15uthejm31iue4&dl=1	Chill	Vibe	1861	123.888	525	18.583200	286
+30	supernova (Hard) by matthieumusic	/scl/fi/lccl1z9hk38yr2n97sb87/supernova-Hard-by-matthieumusic.txt?rlkey=en0f71l7bgv98m092jybvft7v&dl=1	Vibe	Beat	2119	142.668	664	21.400200	127
+30	Poison AND/OR Affection (Hard) by LeaF (7eaF)	/scl/fi/pcyp9s076eg95xctqjsle/Poison-ANDOR-Affection-Hard-by-LeaF-7eaF.txt?rlkey=y44l5i9cog0jdiykgakyigknl&dl=1	Flow	Flow	1745	123.656	483	18.548400	297
+30	Kyouki Ranbu (Hard) by LeaF (7eaF)	/scl/fi/jn12jyj0zhf8y6ea1qcz8/Kyouki-Ranbu-Hard-by-LeaF-7eaF.txt?rlkey=4gdcur2kpbambajb55dxqzspz&dl=1	Flow	Chill	2407	153.630	672	23.044500	390
+30	M1LLI0N PP (Hard) by Camellia	/scl/fi/p6qcs3en0id96nht3d5fo/M1LLI0N-PP-Hard-by-Camellia.txt?rlkey=1dgch3r6petyska6jl3ah06c7&dl=1	Beat	Rush	2339	164.792	643	24.718800	409
+30	Artificial Intelligence Bomb (Egg Yolk Remix) (Hard) by Egg Yolk (Original song by naruto2413)	/scl/fi/tn2yrv6nyp2wpgmikzkmx/Artificial-Intelligence-Bomb-Egg-Yolk-Remix-Hard-by-Egg-Yolk-Original-song-by-naruto2413.txt?rlkey=6iwljhdif1t05j0ov57i3riq0&dl=1	Rush	Beat	1889	149.831	606	22.474650	70
+30	Rebound (Hard) by Egg Yolk	/scl/fi/28p3qwqjgm48d54lcara9/Rebound-Hard-by-Egg-Yolk.txt?rlkey=8daytsxqkd2e1rzm22lzqxo5c&dl=1	Rush	Beat	2529	177.208	523	26.581200	959
+30	On Channel 13: The tv room Mashup [EXTENDED CUT] (Hard) by tv room (Arranged by Arctificial)	/scl/fi/sv25rggd9hip0bfg43jfk/On-Channel-13-The-tv-room-Mashup-EXTENDED-CUT-Hard-by-tv-room-Arranged-by-Arctificial.txt?rlkey=h6eyvcy1ahbg5u0o3zdngvut5&dl=1	Vibe	Vibe	4328	377.671	1131	56.650650	933
+30	retro raceway (Hard) by matthieumusic	/scl/fi/rf074d49z0ritq5969a77/retro-raceway-Hard-by-matthieumusic.txt?rlkey=opygduubewmp871ucws318kbl&dl=1	Vibe	Beat	2187	146.037	543	21.905550	558
+30	Halcyon (Hard) by xi (xi_com_giko_31)	/scl/fi/jg9si6n1iverqa5erzhn4/Halcyon-Hard-by-xi-xi_com_giko_31.txt?rlkey=dt7ss977k5mrch1ueficf4z5n&dl=1	Vibe	Beat	2333	192.000	677	28.800000	301
+30	Ludicrous Speed (Hard) by F-777	/scl/fi/4zadniywd2n1r05a88rvg/Ludicrous-Speed-Hard-by-F-777.txt?rlkey=41w4agk8oakfciusvvldu6s4z&dl=1	Chill	Rush	2126	132.428	514	19.864200	584
+30	Myths You Forgot (Hard) by Camellia feat. Toby Fox	/scl/fi/f82go9tq88u4ixmt839nr/Myths-You-Forgot-Hard-by-Camellia-feat.-Toby-Fox.txt?rlkey=9p4u0seawnm61zob4v7r8muve&dl=1	Chill	Vibe	2244	179.833	620	26.974950	385
+30	RoBeats Halloween 2021 Mashup! [EXTENDED CUT] (Hard) by Various artists (Arranged by poscle and ZirconEscalus)	/scl/fi/467tuexny9b8amks0vr9h/RoBeats-Halloween-2021-Mashup-EXTENDED-CUT-Hard-by-Various-artists-Arranged-by-poscle-and-ZirconEscalus.txt?rlkey=vceacwb4hz50pah98z1jp6cm7&dl=1	Flow	Beat	4449	409.149	1208	61.372350	822
+30	SPEEDCORE BOMB (Hard) by oatsig & got1butter (Original song by naruto2413)	/scl/fi/nb3o5sh6oma7n66uvcjgv/SPEEDCORE-BOMB-Hard-by-oatsig-got1butter-Original-song-by-naruto2413.txt?rlkey=4kg8wc110374lzsidyj8qlhm5&dl=1	Beat	Flow	2452	195.213	817	29.281950	1
+30	Arcology On Permafrost [EXTENDED CUT] (Hard) by Camellia	/scl/fi/zp4m6b1fgp86ht3yr4xid/Arcology-On-Permafrost-EXTENDED-CUT-Hard-by-Camellia.txt?rlkey=r7yo4yfq2gs8bhsjnxm1qg93b&dl=1	Chill	Chill	3381	268.017	1008	40.202550	354
+30	Armageddon (Hard) by LeaF (7eaF)	/scl/fi/237gdyfxmsowdwy8gbdj7/Armageddon-Hard-by-LeaF-7eaF.txt?rlkey=5cyxw8g5juwitu2pjf1d197q5&dl=1	Rush	Beat	2247	146.443	654	21.966450	284
+30	Daydream (Album Extended ver.) [EXTENDED CUT] (Hard) by RiraN	/scl/fi/1crlt3km1khqhkfc8z7zq/Daydream-Album-Extended-ver.-EXTENDED-CUT-Hard-by-RiraN.txt?rlkey=xxgxy73b8wzqs01w3tqzvlukz&dl=1	Vibe	Vibe	3845	248.240	1041	37.236000	721
+30	Everything Will Freeze (Hard) by UNDEAD CORPORATION	/scl/fi/1an668a9htaake4xdhs38/Everything-Will-Freeze-Hard-by-UNDEAD-CORPORATION.txt?rlkey=oc3xdb8ebr1xwp0qwcswxejrp&dl=1	Flow	Rush	3046	193.365	951	29.004750	192
+30	Find My Way (Hard) by Similar Outskirts	/scl/fi/j62lupo4hk8iifricknah/Find-My-Way-Hard-by-Similar-Outskirts.txt?rlkey=iokuianxd6p9bvu2z4dhfl60z&dl=1	Chill	Vibe	1349	107.493	409	16.123950	122
+30	Inferno City (Hard) by Ponchi feat. haxchi [MisoilePunch]	/scl/fi/i9h83vymwfzbzeaqmxhcm/Inferno-City-Hard-by-Ponchi-feat.-haxchi-MisoilePunch.txt?rlkey=04j14x03eql5rn9ialgcndc42&dl=1	Rush	Beat	1768	117.209	562	17.581350	83
+30	LosTear'n HeriX (Hard) by MisoilePunch ~with siromaru~	/scl/fi/4c33fxjv3olp5vzhrp2c0/LosTear-n-HeriX-Hard-by-MisoilePunch-with-siromaru.txt?rlkey=p15b7ojf29xewn18tvktk6hbj&dl=1	Beat	Beat	1818	130.767	531	19.615050	225
+30	MeTear'n TruX (Hard) by MisoilePunch ~with pan~	/scl/fi/d5r9vyycmxz6bqsnt26xw/MeTear-n-TruX-Hard-by-MisoilePunch-with-pan.txt?rlkey=lez0einvjv03kjju1ej9p72gj&dl=1	Beat	Vibe	2285	147.762	698	22.164300	191
+30	No Antidote (Hard) by UNDEAD CORPORATION	/scl/fi/6p7r0vd40h8sljteic7cv/No-Antidote-Hard-by-UNDEAD-CORPORATION.txt?rlkey=a10767eqdpu34k56znclrpidn&dl=1	Beat	Vibe	1647	97.983	504	14.697450	134
+30	Oceanus (Hard) by brz1128	/scl/fi/zlskuf3vsr8dp66muy1ti/Oceanus-Hard-by-brz1128.txt?rlkey=fqi3tg86fyg2a1retpuyb3j5h&dl=1	Chill	Beat	1498	108.876	447	16.331400	157
+30	Eternal Ending (Hard) by Kobaryo	/scl/fi/gt6b2bqq5fqn31k9bbx7g/Eternal-Ending-Hard-by-Kobaryo.txt?rlkey=dbx73qbsgjsqol9hvxwdr439k&dl=1	Chill	Rush	1666	118.297	470	17.744550	255
+30	stanciara (Hard) by brz1128 vs. M-UE	/scl/fi/dyix9u8gxf9xbhvo3rymz/stanciara-Hard-by-brz1128-vs.-M-UE.txt?rlkey=t6sj18zkh5u73nzfu0fjy2fhq&dl=1	Beat	Vibe	2004	125.612	550	18.841800	354
+30	Back Out (Hard) by RiraN	/scl/fi/xxrl0430y4z42vcvri9oz/Back-Out-Hard-by-RiraN.txt?rlkey=qkb43pka0im4cg5y8967gi1z8&dl=1	Rush	Flow	2210	131.002	584	19.650300	457
+30	G1ll35 D3 R415 (Hard) by Team Grimoire	/scl/fi/1rptqrkjn9mdbh2hed89r/G1ll35-D3-R415-Hard-by-Team-Grimoire.txt?rlkey=xbzqn1gvds4tx3y269bywhv80&dl=1	Rush	Rush	2030	149.208	632	22.381200	135
+30	Guardian Of The Flower Offering (Hard) by Chroma	/scl/fi/a9w41ec4m31397ujymwqj/Guardian-Of-The-Flower-Offering-Hard-by-Chroma.txt?rlkey=tm30xyc567hyg75cvksa3swrc&dl=1	Vibe	Beat	1457	115.670	427	17.350500	176
+30	SYSTEM ERROR (Hard) by Laur [LAUR1200]	/scl/fi/7stujwdwk6k4513de6srj/SYSTEM-ERROR-Hard-by-Laur-LAUR1200.txt?rlkey=kkao3dupu1m0eaiqxisyjkwey&dl=1	Vibe	Beat	1845	124.780	603	18.717000	37
+30	The City Where The Rainbow Ends [EXTENDED CUT] (Hard) by Silentroom & yadrigg	/scl/fi/tbxs1cs5slh7qcy6xfkk0/The-City-Where-The-Rainbow-Ends-EXTENDED-CUT-Hard-by-Silentroom-yadrigg.txt?rlkey=uzrjc54zzak0fcvqap54po2zf&dl=1	Vibe	Chill	3370	332.213	869	49.831950	762
+30	Viral Cleric (Hard) by seatrus	/scl/fi/3vzvhlod4ew4qkh3c3qfb/Viral-Cleric-Hard-by-seatrus.txt?rlkey=g9qhamincuwopoj8wv1h5iavi&dl=1	Chill	Vibe	2949	187.202	792	28.080300	573
+30	Oyasmy (Hard) by seatrus	/scl/fi/gpclyg47pqlijxcij6x84/Oyasmy-Hard-by-seatrus.txt?rlkey=h4bi522i52aclmad5e697tshd&dl=1	Flow	Beat	1815	136.622	510	20.493300	284
+30	Memory of Summer Days (Hard) by Halv	/scl/fi/9yt0nvcfuk0623qm0ax55/Memory-of-Summer-Days-Hard-by-Halv.txt?rlkey=qrvheofvpik6o8wyijlbdqwz9&dl=1	Chill	Beat	1912	138.010	567	20.701500	211
+30	This Club is Not 4 U (Hard) by EmoCosine	/scl/fi/vj80o94ie57m7cbngwm9t/This-Club-is-Not-4-U-Hard-by-EmoCosine.txt?rlkey=c5cl2cp46bc7734y5fzcp6npl&dl=1	Vibe	Beat	2000	132.010	526	19.801500	423
+30	Romanesque (Hard) by Halv	/scl/fi/oerjvhfzmitw85evnduha/Romanesque-Hard-by-Halv.txt?rlkey=z1svm5qmq74q83lra8f4fu4p3&dl=1	Rush	Flow	2201	137.410	617	20.611500	349
+30	Unlimited Power (Game Edition) (Hard) by USAO	/scl/fi/vbpzjiewv589xpl5wqjno/Unlimited-Power-Game-Edition-Hard-by-USAO.txt?rlkey=9upt3lhlo0zaui9s7tezeczl7&dl=1	Chill	Vibe	1947	123.785	523	18.567750	379
+29	Critical Fort-Less (Hard) by Se-U-Ra	/scl/fi/xt01xp5r7d10nztt2w5ez/Critical-Fort-Less-Hard-by-Se-U-Ra.txt?rlkey=qq4fgn5fmhn70mjmebtcrrp98&dl=1	Vibe	Flow	1706	109.311	434	16.396650	405
+29	Hate The Most (Hard) by RiraN	/scl/fi/ob0s5ycplepdncl94anig/Hate-The-Most-Hard-by-RiraN.txt?rlkey=oeyh7qdephxxbltt182tgstut&dl=1	Vibe	Rush	2234	151.431	585	22.714650	479
+30	LiFE Garden (Hard) by Yooh	/scl/fi/eiorxeqyajkf4xqw9dhff/LiFE-Garden-Hard-by-Yooh.txt?rlkey=hzeowll2cbry0k9lvp77yi0me&dl=1	Vibe	Rush	2705	174.957	901	26.243550	0
+30	LOLLY [EXTENDED CUT] (Hard) by you	/scl/fi/6dc4pb1fxrz8dl65oerdd/LOLLY-EXTENDED-CUT-Hard-by-you.txt?rlkey=1ewsamlbrc2sx2098puypvj3d&dl=1	Rush	Rush	3408	247.712	847	37.156800	865
+29	Lyrith (Hard) by LeaF (7eaF)	/scl/fi/sfulnyatttmzu37ubm3g9/Lyrith-Hard-by-LeaF-7eaF.txt?rlkey=5c8jfa5np0e9d15mf1a1pol99&dl=1	Vibe	Beat	1876	143.876	523	21.581400	306
+29	Report 4: New World (Hard) by coda	/scl/fi/azuwzdpgrdqu3tm0rm3qg/Report-4-New-World-Hard-by-coda.txt?rlkey=w6qntrvtszjtpsjpke8ngbc4y&dl=1	Chill	Chill	1583	127.062	485	19.059300	128
+29	AI Bomb on vocal (revision 2) (Hard) by naruto2413 (feat. Aya Majiro)	/scl/fi/ksx81f90qd5t4i2ilk1xp/AI-Bomb-on-vocal-revision-2-Hard-by-naruto2413-feat.-Aya-Majiro.txt?rlkey=txhez963rqz3tpzjx98tyhq8i&dl=1	Beat	Chill	2282	159.784	656	23.967600	315
+29	Be My Time Machine (Hard) by tv room	/scl/fi/07mows7o0t9uve9p2llfs/Be-My-Time-Machine-Hard-by-tv-room.txt?rlkey=utwzzwn5g5zud2ik2olzg7ug6&dl=1	Rush	Rush	1502	126.083	416	18.912450	255
+29	Will There Really Be A Morning? (Hard) by tv room	/scl/fi/w5rrrkqhajppv9wq7hh2f/Will-There-Really-Be-A-Morning-Hard-by-tv-room.txt?rlkey=f3uf0ipjavwxgd7u6y412kcsv&dl=1	Vibe	Chill	1683	129.975	472	19.496250	266
+29	brilliantly engineered explosive (Hard) by matthieumusic (Original song by naruto2413)	/scl/fi/cl2539yldogv493cz2s3k/brilliantly-engineered-explosive-Hard-by-matthieumusic-Original-song-by-naruto2413.txt?rlkey=ae62hdmpfnju3794bb0i5zub7&dl=1	Beat	Vibe	2502	169.048	794	25.357200	118
+30	Ops:Limone (Hard) by Reku Mochizuki	/scl/fi/eb7w1zwq97boiaew9dg4h/OpsLimone-Hard-by-Reku-Mochizuki.txt?rlkey=qduwoa6o1dnikoikpn29os3dq&dl=1	Beat	Beat	1726	131.325	453	19.698750	366
+29	Wings Of A Duck (Hard) by HalfDuck	/scl/fi/726yq83szktw2zmyw6rmo/Wings-Of-A-Duck-Hard-by-HalfDuck.txt?rlkey=bq3rtnvj9f5jjzt16qcgzt0k9&dl=1	Beat	Beat	2552	178.380	827	26.757000	69
+29	Parousia (Hard) by xi (xi_com_giko_31)	/scl/fi/mmpl5rqkcr0ug4m85qrvq/Parousia-Hard-by-xi-xi_com_giko_31.txt?rlkey=7nwblo6hy8u4510esciw1o4oq&dl=1	Chill	Chill	2394	200.162	663	30.024300	405
+29	Paradoxia (Hard) by Egg Yolk	/scl/fi/v3j784z58otrdosnm14oc/Paradoxia-Hard-by-Egg-Yolk.txt?rlkey=7lyryy6llb6g3wcurd022nr3g&dl=1	Beat	Vibe	1597	142.560	435	21.384000	292
+29	Retaliation (Hard) by Egg Yolk	/scl/fi/yyegp38s2b7dajeorrpvu/Retaliation-Hard-by-Egg-Yolk.txt?rlkey=3i6rtxrgiya6n3stf0q750u2g&dl=1	Rush	Rush	2027	126.298	479	18.944700	590
+29	Splatter Party (Hard) by Camellia	/scl/fi/3yvm9lbgedt90njkpsena/Splatter-Party-Hard-by-Camellia.txt?rlkey=uxehiogibr958kdqjlbxo105v&dl=1	Rush	Vibe	1885	157.890	580	23.683500	145
+29	sugar rush (Hard) by matthieumusic	/scl/fi/jvsk8jvf0ujkygbgym8ox/sugar-rush-Hard-by-matthieumusic.txt?rlkey=lee6lezqkczo3v5cvxgyy293t&dl=1	Flow	Flow	1509	117.347	467	17.602050	109
+29	Theme of SYMPOSIUM FC (NES) Version [EXTENDED CUT] (Hard) by naruto2413 (feat. Aya Majiro)	/scl/fi/yovjtfvv6pylgrr965e2y/Theme-of-SYMPOSIUM-FC-NES-Version-EXTENDED-CUT-Hard-by-naruto2413-feat.-Aya-Majiro.txt?rlkey=86b98fgwfsxoa40sgdc1iz1ra&dl=1	Beat	Beat	3576	260.911	1074	39.136650	351
+29	WHAT COULD HAVE BEEN [EXTENDED CUT] (Hard) by Various artists (Arranged by SilentWuffer)	/scl/fi/t1488g4e5ugypju9uwau6/WHAT-COULD-HAVE-BEEN-EXTENDED-CUT-Hard-by-Various-artists-Arranged-by-SilentWuffer.txt?rlkey=qzsagbf2fc6atmss67wlpm699&dl=1	Flow	Rush	4873	416.783	1301	62.517450	969
+29	Jack Out KIllER (Hard) by MisoilePunch ~with takenoko~	/scl/fi/0l7255255z2ncm2vcy118/Jack-Out-KIllER-Hard-by-MisoilePunch-with-takenoko.txt?rlkey=zah30oj2j8bzn9ciye7c3lr9m&dl=1	Beat	Flow	1787	132.437	586	19.865550	29
+29	liquated (Hard) by Camellia	/scl/fi/xz0djqj7hubqk8h0azwcd/liquated-Hard-by-Camellia.txt?rlkey=zdhbdh0jzxlf32lwcqg3hllbg&dl=1	Chill	Vibe	1886	151.115	451	22.667250	533
+29	Nacreous Snowmelt (Hard) by Camellia	/scl/fi/oa55ioy5ok2xbxftu9pgp/Nacreous-Snowmelt-Hard-by-Camellia.txt?rlkey=9llrk6cflfkj8rtuwiih5j2xs&dl=1	Chill	Beat	2001	168.294	589	25.244100	235
+29	Space Battle feat. RoBeats! Remix (Hard) by F-777 (Covered by FNF feat. RoBeats! Team)	/scl/fi/fdsf92s2yjktg3i3gjyyb/Space-Battle-feat.-RoBeats-Remix-Hard-by-F-777-Covered-by-FNF-feat.-RoBeats-Team.txt?rlkey=udnagc4bkh8z2ugsbcf6u612j&dl=1	Flow	Chill	1689	143.970	529	21.595500	102
+29	Teleport me to your soul (Hard) by Ardolf	/scl/fi/8am5xp1y0yabinxt7b9b6/Teleport-me-to-your-soul-Hard-by-Ardolf.txt?rlkey=4wapwu0lmut37hd45cfenvmr1&dl=1	Rush	Beat	1922	154.694	559	23.204100	246
+29	Varcolac (Hard) by Ardolf	/scl/fi/uobfbuzw11s7sx9bvzvnp/Varcolac-Hard-by-Ardolf.txt?rlkey=874lyn6rchnpajbb6v1gs5101&dl=1	Rush	Rush	1650	132.041	516	19.806150	103
+29	James Landino's Ultimate Gaming Mix [EXTENDED CUT] (Hard) by James Landino (Arranged by superboygamer1028)	/scl/fi/qywitb4vp2xm5i1cir09m/James-Landino-s-Ultimate-Gaming-Mix-EXTENDED-CUT-Hard-by-James-Landino-Arranged-by-superboygamer1028.txt?rlkey=77z0x0ja3y4j5jkzml5hrrbmb&dl=1	Chill	Rush	3811	328.922	1144	49.338300	377
+29	Delusional!! (Hard) by Ponchi feat. haxchi [MisoilePunch]	/scl/fi/nsfpck9o93o12bv72ecqy/Delusional-Hard-by-Ponchi-feat.-haxchi-MisoilePunch.txt?rlkey=bn201kctbf48b6l49yyavmgf9&dl=1	Rush	Flow	1445	107.118	463	16.067700	57
+29	Our Memories (Hard) by Ponchi feat.GUMI [MisoilePunch]	/scl/fi/pm51m7ezqthv7954x515l/Our-Memories-Hard-by-Ponchi-feat.GUMI-MisoilePunch.txt?rlkey=k0rre80tqw2kykfopwbwh04jm&dl=1	Chill	Beat	2319	176.467	731	26.470050	124
+29	Chase The Rabbit (Hard) by UNDEAD CORPORATION	/scl/fi/pvh5zp8lo9aokg7wlqkyz/Chase-The-Rabbit-Hard-by-UNDEAD-CORPORATION.txt?rlkey=b09z2m563vrufy3bnol07inyv&dl=1	Rush	Chill	1530	115.658	418	17.348700	276
+29	Primula (Hard) by brz1128	/scl/fi/j1hp9md4y4hne1khqx60i/Primula-Hard-by-brz1128.txt?rlkey=zdxmrzfg2jsipxoyf4espinru&dl=1	Vibe	Beat	1774	124.774	551	18.716100	120
+29	Wizdomiot (Hard) by LeaF (7eaF)	/scl/fi/echf5ox9sepa4fostc8yh/Wizdomiot-Hard-by-LeaF-7eaF.txt?rlkey=mr0fujrxpn9c6k9fz4fi0f1uf&dl=1	Rush	Vibe	2105	165.024	589	24.753600	339
+29	Brain Power (Cranky Remix) (Hard) by NOMA (Remixed by Cranky)	/scl/fi/wk5z08pcb7peya1jspz1b/Brain-Power-Cranky-Remix-Hard-by-NOMA-Remixed-by-Cranky.txt?rlkey=dc15pfp1lwd8qktbu6xqh6dui&dl=1	Flow	Beat	2762	186.681	801	28.002150	358
+29	COCA (Hard) by Team Grimoire	/scl/fi/sy4fgm8da43a4sm7c2w5p/COCA-Hard-by-Team-Grimoire.txt?rlkey=jpx19luklaettz3j7rni4da7z&dl=1	Vibe	Rush	1329	93.461	419	14.019150	73
+29	Plumage (Hard) by brz1128	/scl/fi/ejrsbspt7ep36wxfq1zd9/Plumage-Hard-by-brz1128.txt?rlkey=qfn2j3pzd7rauan1gpkcyayzq&dl=1	Beat	Chill	1891	141.557	572	21.233550	176
+29	Rattlesnake (Hard) by Rogue [Monstercat]	/scl/fi/jj8yzoa6vctb91vrrdxw0/Rattlesnake-Hard-by-Rogue-Monstercat.txt?rlkey=xupchc0ill8u6j400qkf9wmha&dl=1	Rush	Chill	2177	161.953	617	24.292950	327
+29	Splash Sunbeach (Hard) by brz1128	/scl/fi/1s06lef6cocd3w697sgo6/Splash-Sunbeach-Hard-by-brz1128.txt?rlkey=scd2znh2y1ops7x206zpe094g&dl=1	Chill	Rush	1621	119.181	463	17.877150	232
+29	Warp (Hard) by Bossfight [Monstercat]	/scl/fi/39j0dx43kp9y7upjd0ab0/Warp-Hard-by-Bossfight-Monstercat.txt?rlkey=ctte89uw158t5zj9n71kvz7xj&dl=1	Beat	Rush	1472	118.209	415	17.731350	226
+29	INFiNiTE ENERZY -Overdoze- (Hard) by Reku Mochizuki	/scl/fi/qpkud0dyajwltij9jsy02/INFiNiTE-ENERZY-Overdoze-Hard-by-Reku-Mochizuki.txt?rlkey=842wpkm0e6qlktxmpk3hpkxgv&dl=1	Beat	Rush	1510	112.478	475	16.871700	86
+29	Feel The Same (Hard) by Gardens [Sound Space]	/scl/fi/ozvy4ouxaauqhjn2435ef/Feel-The-Same-Hard-by-Gardens-Sound-Space.txt?rlkey=3vt7omtaeeqs3luyt4yxkwjfr&dl=1	Flow	Chill	2772	180.620	772	27.093000	454
+29	Delusion (Hard) by EmoCosine	/scl/fi/uoc596tkd9p1ukv9jpgxb/Delusion-Hard-by-EmoCosine.txt?rlkey=7t1z5ng0ip373xnwhe8dexlg5&dl=1	Beat	Rush	2519	170.950	634	25.642500	617
+29	Refactoring Travel (Hard) by t+pazolite feat. Nanahira	/scl/fi/namnq7qadvjor0wqfboox/Refactoring-Travel-Hard-by-t-pazolite-feat.-Nanahira.txt?rlkey=vf7nk5smvmn82fk0md631wycg&dl=1	Chill	Flow	2128	164.945	618	24.741750	275
+29	Sky Blue (Hard) by Synthion	/scl/fi/9o7vh6kg1txdfb7xwbc3x/Sky-Blue-Hard-by-Synthion.txt?rlkey=14kf2b7ldodjjbaa7v7p1eial&dl=1	Chill	Chill	1837	157.699	486	23.654850	379
+29	White Nights (Hard) by seatrus	/scl/fi/a1nngcg1xcy4zwzgjxvg9/White-Nights-Hard-by-seatrus.txt?rlkey=ih7wyhi2jgozntx4uzswfbej9&dl=1	Beat	Chill	2818	196.872	723	29.530800	649
+29	Psyched Fevereiro (Hard) by t+pazolite	/scl/fi/zf6zfyc1hcd1m9ks80l69/Psyched-Fevereiro-Hard-by-t-pazolite.txt?rlkey=11xgtv2iushkware27crw1l5e&dl=1	Vibe	Flow	2199	131.045	527	19.656750	619
+29	Endless Rain (Hard) by seatrus (feat. marumoko)	/scl/fi/tf3fmhrmavgg0lctgbwkz/Endless-Rain-Hard-by-seatrus-feat.-marumoko.txt?rlkey=y8at7a37eywipkwqwkwh93rdv&dl=1	Flow	Rush	2281	141.020	553	21.153000	621
+29	Let's Jump! (Hard) by you (feat. nayuta)	/scl/fi/93fhjbe66w4w90mjubmj8/Let-s-Jump-Hard-by-you-feat.-nayuta.txt?rlkey=jiwk579r0gpbr1tlecm4cbial&dl=1	Beat	Flow	2534	163.934	611	24.590100	702
+29	Midnight Challenge (Hard) by EmoCosine	/scl/fi/keif6lp41zda0jaxqmzyx/Midnight-Challenge-Hard-by-EmoCosine.txt?rlkey=60rpk296ybkkqg0r2srycnuru&dl=1	Chill	Rush	2399	163.632	582	24.544800	652
+29	NiRVANA (Hard) by Juggernaut	/scl/fi/i8kgbh81nuxdd9jrhuriq/NiRVANA-Hard-by-Juggernaut.txt?rlkey=bgfaqnq7toiy46jl7baijqo5i&dl=1	Flow	Rush	1781	135.815	489	20.372250	313
+29	SEviiN [EXTENDED CUT] (Hard) by Various artists (Arranged by Livium)	/scl/fi/atshnuy4ahkduc39wfqld/SEviiN-EXTENDED-CUT-Hard-by-Various-artists-Arranged-by-Livium.txt?rlkey=yh1fij69wtshuw1ioeeed38gv&dl=1	Flow	Flow	4078	320.600	1081	48.090000	832
+29	pastel planet (Hard) by AAAA	/scl/fi/q8xygobp59tgg7vpn4j6v/pastel-planet-Hard-by-AAAA.txt?rlkey=k3as490ukwabdzm4djs4mj04c&dl=1	Vibe	Beat	1796	112.471	441	16.870650	474
+26	00 (Hard) by garlagan	/scl/fi/hk3lhh8e76h575t3hug5p/00-Hard-by-garlagan.txt?rlkey=5ej6gczu5lcjho8rp3sgargey&dl=1	Rush	Rush	1190	143.187	322	21.478050	224
+28	Akanetsuki (Hard) by Reku Mochizuki & Seyakate Shousan Tarou	/scl/fi/kutni5qf6uy8x32t6ctok/Akanetsuki-Hard-by-Reku-Mochizuki-Seyakate-Shousan-Tarou.txt?rlkey=s8oqy1jzblekw610m9dkocs0n&dl=1	Rush	Beat	1644	138.721	527	20.808150	62
+28	A Starry Night and a Single Flower (Hard) by seatrus	/scl/fi/rgy50bhbi4yl7htl4y873/A-Starry-Night-and-a-Single-Flower-Hard-by-seatrus.txt?rlkey=lnzwsddkej4734xuvvlfmzgaj&dl=1	Flow	Flow	1621	165.399	494	24.809850	139
+26	About U (Hard) by Aiobahn & Vin [Monstercat]	/scl/fi/on2c8vzc7yiyo7oaw2gc6/About-U-Hard-by-Aiobahn-Vin-Monstercat.txt?rlkey=c17w6duwqfg6dbzr2zoubc9pd&dl=1	Beat	Flow	1945	174.852	456	26.227800	577
+28	Alice in Misanthrope (Hard) by LeaF (7eaF)	/scl/fi/qcepmy2gmuok8nv9hdrng/Alice-in-Misanthrope-Hard-by-LeaF-7eaF.txt?rlkey=hfxm8qpn7gatrtdbblazfews4&dl=1	Chill	Chill	1989	142.081	606	21.312150	172
+28	Anemone (Hard) by Ponchi feat. haxchi [MisoilePunch]	/scl/fi/nmq4cv03p1s99wv5399oi/Anemone-Hard-by-Ponchi-feat.-haxchi-MisoilePunch.txt?rlkey=7g5iw0ajfpc4fwpxfsc8uk2bb&dl=1	Chill	Vibe	1430	115.418	443	17.312700	102
+28	Antares FC (NES) Version (Hard) by naruto2413 (feat. Aya Majiro (Ex. Aya Futatsuki))	/scl/fi/j19gu8jjfsval50sd03fk/Antares-FC-NES-Version-Hard-by-naruto2413-feat.-Aya-Majiro-Ex.-Aya-Futatsuki.txt?rlkey=n3zum5cbz115w51dyufffku9o&dl=1	Flow	Beat	2542	176.613	832	26.491950	44
+27	At the Speed of Light [EXTENDED CUT] (Hard) by Dimrain47	/scl/fi/k3qckeqlamlqdfmy30mhg/At-the-Speed-of-Light-EXTENDED-CUT-Hard-by-Dimrain47.txt?rlkey=vo528i48qcff2qqmgtruuc0kj&dl=1	Rush	Vibe	3012	246.924	900	37.038600	312
+27	Artificial Intelligence Bomb (Hard) by naruto2413	/scl/fi/ss0uf84d1vt3fxgttbbk2/Artificial-Intelligence-Bomb-Hard-by-naruto2413.txt?rlkey=810yf0xtnmgistq4wbzwx0eom&dl=1	Vibe	Flow	1750	125.443	539	18.816450	133
+27	ATHAZA (Hard) by LeaF (7eaF)	/scl/fi/442nqnb746h85vr3jwm7d/ATHAZA-Hard-by-LeaF-7eaF.txt?rlkey=dw1w4kciyf6g5a3iacgbq7val&dl=1	Beat	Rush	1812	157.097	536	23.564550	204
+26	Bhutesha (Hard) by Silentroom	/scl/fi/8sd36d6u0msjtem3igs55/Bhutesha-Hard-by-Silentroom.txt?rlkey=jxfojzm4n97hrzya5w335zryc&dl=1	Flow	Chill	965	110.263	310	16.539450	37
+28	Buzztone Symphony (Hard) by Dimrain47	/scl/fi/enb2sxt476aix4w9tvpsu/Buzztone-Symphony-Hard-by-Dimrain47.txt?rlkey=mh11aj3s1wokqu2acjsmtalkh&dl=1	Flow	Vibe	2568	198.635	712	29.795250	430
+28	Blue future FC (NES) Version (Hard) by naruto2413 (feat. Aya Majiro)	/scl/fi/rupf5ssig3qv2q8vbkrxh/Blue-future-FC-NES-Version-Hard-by-naruto2413-feat.-Aya-Majiro.txt?rlkey=eriifqwdxs5rfyfmkfdmmnib8&dl=1	Chill	Beat	2398	163.941	715	24.591150	251
+26	Canneles au chocolat (Hard) by brz1128	/scl/fi/mfp747xxrjeer6e1pgpyw/Canneles-au-chocolat-Hard-by-brz1128.txt?rlkey=pegegl2jcl7vmen8ngxuu00yv&dl=1	Chill	Vibe	1365	119.207	425	17.881050	89
+26	Canon In D Major (EduTry Remix) (Hard) by Pachelbel (Remixed by EduTry)	/scl/fi/vpbsx98i7vqcyge77gert/Canon-In-D-Major-EduTry-Remix-Hard-by-Pachelbel-Remixed-by-EduTry.txt?rlkey=wew8yc0w1e4uvz661q7ygcfoa&dl=1	Vibe	Vibe	1441	152.566	414	22.884900	200
+28	Chipland (Hard) by nanobii	/scl/fi/lsy72gn3k6kx4ddof87bu/Chipland-Hard-by-nanobii.txt?rlkey=ojuu9sraa5fjy5vk1us5gkf7u&dl=1	Vibe	Flow	2246	184.636	519	27.695400	688
+28	Chironex (Hard) by Team Grimoire	/scl/fi/cu52jx8j3upboy5fyjcsh/Chironex-Hard-by-Team-Grimoire.txt?rlkey=o6qv0ghyo8tgpcnxrlbb8dde8&dl=1	Beat	Flow	1725	139.878	547	20.981700	85
+28	Chromatic (Hard) by Ardolf	/scl/fi/qt1r844el7jpemkzlh2iy/Chromatic-Hard-by-Ardolf.txt?rlkey=hz596wmijlari5br5fuvui8ev&dl=1	Flow	Beat	1940	141.372	559	21.205800	264
+26	Chronoto (Hard) by Se-U-Ra	/scl/fi/5t1p0rnpp3vrbu61blomm/Chronoto-Hard-by-Se-U-Ra.txt?rlkey=5ego5o4d02gqupa6b9tl081s8&dl=1	Beat	Rush	1577	117.362	443	17.604300	247
+28	Circle of Life (Hard) by AmyKawashima	/scl/fi/3tjhsternzze6dz1tssp2/Circle-of-Life-Hard-by-AmyKawashima.txt?rlkey=ryk249dacmfsdpuxjcom50ll8&dl=1	Chill	Vibe	1936	146.947	645	22.042050	2
+27	Crab Rave (Camellia Remix) [EXTENDED CUT] (Hard) by Noisestorm (Remixed by Camellia)	/scl/fi/93gb944ncfbeylwvab7xy/Crab-Rave-Camellia-Remix-EXTENDED-CUT-Hard-by-Noisestorm-Remixed-by-Camellia.txt?rlkey=ur9yka70fb0pbs6u9wt6488dr&dl=1	Beat	Chill	3645	237.247	931	35.587050	852
+28	CROSS OVER (Hard) by HyuN (feat. LyuU)	/scl/fi/1laxozk4rcal4v8axyaly/CROSS-OVER-Hard-by-HyuN-feat.-LyuU.txt?rlkey=mcdakmnecfqtv0nxbb7qaggsh&dl=1	Beat	Chill	1679	148.496	486	22.274400	221
+27	Crystallized Ignition (Hard) by Egg Yolk	/scl/fi/5j159a3xgnzf2k23k828k/Crystallized-Ignition-Hard-by-Egg-Yolk.txt?rlkey=7zt7i0a8t6gwbgk04cagz774m&dl=1	Chill	Chill	993	110.420	317	16.563000	44
+26	crystallized (Hard) by Camellia	/scl/fi/6ws1zz3cqevvp8728z2ob/crystallized-Hard-by-Camellia.txt?rlkey=v64ek5r7umalq349ou1i9jp59&dl=1	Beat	Rush	1260	121.452	373	18.217800	140
+28	Dark Sheep (Funkin' Remix) [EXTENDED CUT] (Hard) by Chroma (Covered by FNF feat. RoBeats! Team)	/scl/fi/u9rk3h2ql27v7o0il9ln0/Dark-Sheep-Funkin-Remix-EXTENDED-CUT-Hard-by-Chroma-Covered-by-FNF-feat.-RoBeats-Team.txt?rlkey=kplzz9x02l0e8lnkr2zv7jvmr&dl=1	Beat	Beat	3172	235.937	956	35.390550	302
+28	Determination (Hard) by Laur [LAUR1200] feat. Itsuki Natsume	/scl/fi/mdzhvi4wh0z8x4bpyjqkx/Determination-Hard-by-Laur-LAUR1200-feat.-Itsuki-Natsume.txt?rlkey=8qa85qvdl4ls2jdakfy0wj7mt&dl=1	Beat	Vibe	2174	173.935	635	26.090250	269
+27	Don't Stop The Rave (Hard) by RiraN	/scl/fi/nfyolyej1ezp8onee8cwz/Don-t-Stop-The-Rave-Hard-by-RiraN.txt?rlkey=duvemkmuooquz39mf8vru4lc6&dl=1	Vibe	Chill	2034	127.070	488	19.060500	571
+28	Dusk Till Dawn (Hard) by Halv	/scl/fi/el0q43h647v5posiuf05e/Dusk-Till-Dawn-Hard-by-Halv.txt?rlkey=pf4pfo3ui0eor3b168cxgbrho&dl=1	Flow	Chill	1718	124.808	415	18.721200	472
+27	Dreaming of Flying in the Night Sky (Hard) by Chroma (feat. mikanzil)	/scl/fi/v3kmco99c4hdpkbsupvso/Dreaming-of-Flying-in-the-Night-Sky-Hard-by-Chroma-feat.-mikanzil.txt?rlkey=2c22mofkp5heogrrks4oyf3bm&dl=1	Chill	Chill	1993	140.018	514	21.002700	451
+28	Escape Reality (Hard) by Ardolf	/scl/fi/4g60rlkm7wrd817g19t9y/Escape-Reality-Hard-by-Ardolf.txt?rlkey=yy1wjjf5fjnixvt1gkqfea588&dl=1	Flow	Chill	1959	127.779	533	19.166850	361
+26	Eternity Dedicated to Travelers (Hard) by Se-U-Ra	/scl/fi/bsdzp7qazqz6ryc7kslr5/Eternity-Dedicated-to-Travelers-Hard-by-Se-U-Ra.txt?rlkey=guucqwzg47tqrzejr6w7655zt&dl=1	Flow	Rush	1364	121.664	353	18.249600	306
+27	Exit This Earth's Atomosphere (Hard) by Camellia	/scl/fi/ssptfghv80hku3dyzgrrd/Exit-This-Earth-s-Atomosphere-Hard-by-Camellia.txt?rlkey=ltafmins66czyei771ccarr5t&dl=1	Rush	Rush	1878	158.453	539	23.767950	261
+29	Extra Mode (Hard) by USAO	/scl/fi/uk2dklgeaagt5dv66gh2z/Extra-Mode-Hard-by-USAO.txt?rlkey=2lcd2x1s1ylwz4ukal8vyik60&dl=1	Rush	Vibe	2118	143.178	492	21.476700	642
+28	Farewell, My Friend (Hard) by Chroma	/scl/fi/tydyybqeby2crn0p30l2q/Farewell-My-Friend-Hard-by-Chroma.txt?rlkey=6m1pt9wkw6mcpihq2my52ujlx&dl=1	Chill	Beat	1879	143.080	594	21.462000	96
+26	Feel Your Heart (Hard) by Protostar feat. Sam Tabor [Monstercat]	/scl/fi/ukk4xv5ubwbb8n3w2ks7d/Feel-Your-Heart-Hard-by-Protostar-feat.-Sam-Tabor-Monstercat.txt?rlkey=6nuzteton4guis4xcxmcydodt&dl=1	Vibe	Chill	1834	165.767	571	24.865050	120
+28	Flight of the Bumblebee (Hard) by Nikolai Rimsky-Korsakov (Performed by Rousseau)	/scl/fi/z8tx0pq0440ptoz8btgey/Flight-of-the-Bumblebee-Hard-by-Nikolai-Rimsky-Korsakov-Performed-by-Rousseau.txt?rlkey=kihokyivc3ppbbg5sc5o19lr6&dl=1	Beat	Beat	1124	76.564	373	11.484600	4
+28	Heaven's Gear (burying side) (Hard) by Se-U-Ra	/scl/fi/3disng4rkdku5uac7utvj/Heaven-s-Gear-burying-side-Hard-by-Se-U-Ra.txt?rlkey=gaflnmc0ufdmxgvuinnxemltz&dl=1	Flow	Chill	1703	120.940	452	18.141000	348
+28	Good Morning My Dearest Robot (Hard) by Chroma	/scl/fi/tsr9437qdiuzrc12tdgg7/Good-Morning-My-Dearest-Robot-Hard-by-Chroma.txt?rlkey=nt8lguzyb3k7xgsbnrm5o6bzt&dl=1	Chill	Beat	1859	180.050	457	27.007500	489
+28	Hide and Seek (Hard) by James Landino	/scl/fi/4ffjifjqj23ozl3rv9aiz/Hide-and-Seek-Hard-by-James-Landino.txt?rlkey=6ncmkyj1axdssq0w67hsmns1q&dl=1	Chill	Rush	1865	135.441	572	20.316150	150
+26	HOT CHOCOLATE (Hard) by dark cat	/scl/fi/jdddkpgkmkz6r397m33mw/HOT-CHOCOLATE-Hard-by-dark-cat.txt?rlkey=xxlrxw3g0xz3psl7phd9qficm&dl=1	Chill	Flow	1627	138.013	427	20.701950	347
+26	I don't care about Christmas though  (Hard) by Camellia feat. Nanahira	/scl/fi/fjlylp42unvu7r06hwcck/I-don-t-care-about-Christmas-though-Hard-by-Camellia-feat.-Nanahira.txt?rlkey=tlcfkg52rp44ab89xq9fu55vl&dl=1	Rush	Beat	2710	190.486	599	28.572900	914
+26	in your sight (matthieumusic's digifu-electrofunk-future bass remix) (Hard) by Haywyre (Remixed by matthieumusic)	/scl/fi/0qpnwe85861syqae448v2/in-your-sight-matthieumusic-s-digifu-electrofunk-future-bass-remix-Hard-by-Haywyre-Remixed-by-matthieumusic.txt?rlkey=8itayfb7lebbyjtf48a1jrifi&dl=1	Chill	Chill	2327	172.543	542	25.881450	701
+27	Insight (Himitsu's DnB Remix) (Hard) by Haywyre (Remixed by HimitsuHiketsu)	/scl/fi/iy8vkrdv3yi6c27ovi70t/Insight-Himitsu-s-DnB-Remix-Hard-by-Haywyre-Remixed-by-HimitsuHiketsu.txt?rlkey=ij4blwlyb1go2cckv5w0bbpof&dl=1	Rush	Rush	1380	109.419	393	16.412850	202
+27	Insight (Flynt Remix) (Hard) by Haywyre (Remixed by Flynt)	/scl/fi/1x9s1dhj7xsd9rlg2vpe7/Insight-Flynt-Remix-Hard-by-Haywyre-Remixed-by-Flynt.txt?rlkey=y530da7mbif9gr36w0kfa3oxc&dl=1	Beat	Rush	1875	162.842	578	24.426300	141
+26	Insight (Nyctophobe Remix) (Hard) by Haywyre (Remixed by Nyctophobe)	/scl/fi/xte4dax6xdughq9jj1762/Insight-Nyctophobe-Remix-Hard-by-Haywyre-Remixed-by-Nyctophobe.txt?rlkey=lqcsedvq9kd521aihmsjp3zik&dl=1	Chill	Chill	1521	132.102	484	19.815300	68
+27	Insight (ZirconEscalus's 8-Bit Remix) (Hard) by Haywyre (Remixed by ZirconEscalus)	/scl/fi/rz6uusgsolux7sgbq8e5c/Insight-ZirconEscalus-s-8-Bit-Remix-Hard-by-Haywyre-Remixed-by-ZirconEscalus.txt?rlkey=w2xwr4f43r10nsrw5bhg2v7w6&dl=1	Chill	Chill	1249	110.821	348	16.623150	204
+26	Joyride (Hard) by Egg Yolk	/scl/fi/5phwvhadrron3927yjiky/Joyride-Hard-by-Egg-Yolk.txt?rlkey=jcabcthj2uj5wzhi19owbyd8k&dl=1	Chill	Vibe	2135	191.684	599	28.752600	337
+28	insulated (Hard) by seatrus	/scl/fi/bkchcuociykswko0x5h31/insulated-Hard-by-seatrus.txt?rlkey=t76nur0sic40nkxn4oyc4cae6&dl=1	Beat	Vibe	2239	180.334	587	27.050100	479
+28	Kathastrophe (Hard) by Team Grimoire	/scl/fi/9rlbcphju3tdzc5yypijh/Kathastrophe-Hard-by-Team-Grimoire.txt?rlkey=id7qfzbttyuq1kmnovfoes9hb&dl=1	Beat	Rush	1165	113.586	350	17.037900	116
+27	Light it up (Hard) by Camellia	/scl/fi/bcg9rwfs72ui8d1suc9lb/Light-it-up-Hard-by-Camellia.txt?rlkey=qvb3cssbb73lz76rm4jwg4sxy&dl=1	Vibe	Chill	1803	160.692	488	24.103800	339
+27	LOA2 (Hard) by Se-U-Ra	/scl/fi/gzu1aknu7off2zdzddkwo/LOA2-Hard-by-Se-U-Ra.txt?rlkey=4nyo8aiuezaoosogg1ujoejph&dl=1	Flow	Rush	1602	117.788	444	17.668200	269
+27	Looking for Edge of Ground (Hard) by Camellia	/scl/fi/xksra5ewxev0to46orqzx/Looking-for-Edge-of-Ground-Hard-by-Camellia.txt?rlkey=msupdpzdbg8ef6rc2982aye0f&dl=1	Flow	Rush	1939	195.142	510	29.271300	409
+26	Machina (Hard) by Pixel Terror [Monstercat]	/scl/fi/911rbb9ai5hcffoffi9s4/Machina-Hard-by-Pixel-Terror-Monstercat.txt?rlkey=ay7eikhdyolbnnssyehokt0am&dl=1	Flow	Chill	1070	133.403	290	20.010450	202
+28	Manifest! Manifest! (Hard) by tv room	/scl/fi/84pdnibfovp1fk7hta25f/Manifest-Manifest-Hard-by-tv-room.txt?rlkey=xgr64gmcr2jk8ozkbr2cssx3z&dl=1	Beat	Vibe	1228	104.484	295	15.672600	345
+28	Meant To Be (Hard) by Slynk	/scl/fi/h2l825y6vzvqsupoa2j2u/Meant-To-Be-Hard-by-Slynk.txt?rlkey=wct995vv2a75hw4w3jtoe6yf7&dl=1	Vibe	Vibe	1425	122.741	423	18.411150	156
+28	Nasty * Nasty * Spell (Hard) by Camellia	/scl/fi/26i2mh97qqm98vgcnf7xi/Nasty-Nasty-Spell-Hard-by-Camellia.txt?rlkey=udxz2n1bepi49kgq5q8l74pkw&dl=1	Vibe	Beat	1836	145.775	447	21.866250	496
+28	Newspapers for Magicians (Hard) by Camellia	/scl/fi/sthk18fr5o1twt1fb2d1p/Newspapers-for-Magicians-Hard-by-Camellia.txt?rlkey=eee0af9vi3yiarrb63w620t0r&dl=1	Flow	Chill	1921	158.655	535	23.798250	316
+27	Nhelv (Hard) by Silentroom	/scl/fi/jdx08wie4mv693hcerf0b/Nhelv-Hard-by-Silentroom.txt?rlkey=0lex3u7nqsvwvkfrh0olt33uq&dl=1	Rush	Rush	1410	155.236	428	23.285400	127
+27	Neurotoxicity (Hard) by Kurokotei	/scl/fi/u6ojxm9x2upmh7qt24ipu/Neurotoxicity-Hard-by-Kurokotei.txt?rlkey=rfkq0rnlzt1w27ojixbey4e0h&dl=1	Vibe	Chill	1621	166.277	524	24.941550	48
+28	No More Shinikuen (Hard) by Korsio [Sound Space]	/scl/fi/4ogo5gx71gi08r8n284iv/No-More-Shinikuen-Hard-by-Korsio-Sound-Space.txt?rlkey=astb6a6fy78b5lqil09yt0y4u&dl=1	Beat	Flow	2217	149.343	622	22.401450	350
+28	NO STOPPING US (Similar Outskirts Remix) [EXTENDED CUT] (Hard) by dark cat feat. Jenny (Remixed by Similar Outskirts)	/scl/fi/0fad1lxyl1loomijiiafl/NO-STOPPING-US-Similar-Outskirts-Remix-EXTENDED-CUT-Hard-by-dark-cat-feat.-Jenny-Remixed-by-Similar-Outskirts.txt?rlkey=phsmpkjpecnyx54rt6pchvuay&dl=1	Chill	Flow	2427	257.878	647	38.681700	487
+28	Now I Do (Hard) by tv room	/scl/fi/sk4runbcacx1rt4yoy9l4/Now-I-Do-Hard-by-tv-room.txt?rlkey=p41cme79lb2376l5rdepipms1&dl=1	Flow	Beat	1379	121.340	441	18.201000	56
+29	Onigiri (Hard) by Project Skylate	/scl/fi/p81s1liljlh6nwvol3liv/Onigiri-Hard-by-Project-Skylate.txt?rlkey=vs7xl7lllgycffh0o5am563id&dl=1	Beat	Chill	1991	183.784	529	27.567600	404
+28	Operation: Evolution (Hard) by Dimrain47	/scl/fi/coxis6kw2i0as3icm9st3/Operation-Evolution-Hard-by-Dimrain47.txt?rlkey=lmovpg4jrc43hz450xsuc7gh2&dl=1	Rush	Vibe	2999	208.020	793	31.203000	620
+28	PHAZE UPPER (Hard) by Reku Mochizuki	/scl/fi/s9boi0xt0l24azpo66l8k/PHAZE-UPPER-Hard-by-Reku-Mochizuki.txt?rlkey=d0n4z1p3jvypluff3a7wjbg0h&dl=1	Beat	Beat	1631	127.317	436	19.097550	324
+28	PLANET//SHAPER (Hard) by Camellia	/scl/fi/h1funanbtpanm89lmh3ve/PLANETSHAPER-Hard-by-Camellia.txt?rlkey=7nexsx8xs17f6l4i4ktvdp9hx&dl=1	Beat	Rush	2306	189.352	681	28.402800	262
+28	Postliminium (Hard) by ARForest	/scl/fi/3517oqs47bwrr9et2zrrl/Postliminium-Hard-by-ARForest.txt?rlkey=fiza59us7oecqd4ypb0rxl1ur&dl=1	Flow	Chill	1390	139.603	399	20.940450	193
+28	Pyre (Hard) by Similar Outskirts	/scl/fi/ixofh90l7dh2opyenyt8k/Pyre-Hard-by-Similar-Outskirts.txt?rlkey=jiw08fatskwcnqec1fjrez8jf&dl=1	Rush	Rush	1258	108.822	355	16.323300	193
+28	Rainshower (Hard) by Silentroom	/scl/fi/efm1fleqr510qrs9svncn/Rainshower-Hard-by-Silentroom.txt?rlkey=gsme1s1aun871rlzolddpgstj&dl=1	Chill	Chill	2166	199.631	649	29.944650	219
+27	RB Battles 2020 - The Songs [EXTENDED CUT] (Hard) by Various Artists (Arranged by AdasiekCat)	/scl/fi/8vgvrpirmnboduqa2iw7d/RB-Battles-2020-The-Songs-EXTENDED-CUT-Hard-by-Various-Artists-Arranged-by-AdasiekCat.txt?rlkey=qf3x28r8nt1mrfkqsp2hjrnqr&dl=1	Rush	Chill	4360	373.898	1269	56.084700	551
+27	Ready For The Madness (Hard) by RiraN	/scl/fi/y7efng6ssu1y24gffv7u9/Ready-For-The-Madness-Hard-by-RiraN.txt?rlkey=48eic8rs5td1b9ntj99otsaix&dl=1	Chill	Rush	1525	114.541	404	17.181150	314
+28	RiraN Hardstyle Mashup [EXTENDED CUT] (Hard) by RiraN (Arranged by poscle & ZirconEscalus)	/scl/fi/d1t44y97567g31qduktz8/RiraN-Hardstyle-Mashup-EXTENDED-CUT-Hard-by-RiraN-Arranged-by-poscle-ZirconEscalus.txt?rlkey=2p6qqd5r2w6ed0asziswwbj8t&dl=1	Beat	Beat	4956	366.879	1305	55.031850	1039
+28	RoBeats Piano Mix [EXTENDED CUT] (Hard) by Various artists (Arranged by ZirconEscalus)	/scl/fi/i8bo2gxz0iwd2rg60ztco/RoBeats-Piano-Mix-EXTENDED-CUT-Hard-by-Various-artists-Arranged-by-ZirconEscalus.txt?rlkey=s2vf7vusvj1r4syscshcuvadi&dl=1	Flow	Flow	5367	416.088	1453	62.413200	1006
+28	Rockstar (Hard) by brz1128	/scl/fi/1cdyph3wnsc04okki6hq7/Rockstar-Hard-by-brz1128.txt?rlkey=cvl48v2htly85d8l7dwx8r0su&dl=1	Beat	Rush	1152	94.962	356	14.244300	85
+26	Rutra - Mashup (for Robeats) [EXTENDED CUT] (Hard) by Rutra	/scl/fi/mg76r3toourzl4vkdppn9/Rutra-Mashup-for-Robeats-EXTENDED-CUT-Hard-by-Rutra.txt?rlkey=m0cmw8x6h24bmloh2ljubi6qe&dl=1	Flow	Rush	4621	405.106	1204	60.765900	1006
+28	Sanctuary (Hard) by t+pazolite	/scl/fi/nxmk1j1xasgbp2eshepj8/Sanctuary-Hard-by-t-pazolite.txt?rlkey=h0nx0glaqap77bvvskfi5mb71&dl=1	Vibe	Rush	1994	145.727	582	21.859050	248
+28	Seamless (Hard) by xi (xi_com_giko_31)	/scl/fi/e2d0nvavgmx62qlqt932o/Seamless-Hard-by-xi-xi_com_giko_31.txt?rlkey=tr8mu72hlbs57ssx0e0xbeiak&dl=1	Vibe	Vibe	1964	158.155	644	23.723250	33
+26	shattered (Hard) by ARForest	/scl/fi/o4cl0d2h5z7ffpd510slv/shattered-Hard-by-ARForest.txt?rlkey=teo2gd4lm0dsccft0qwh7oew3&dl=1	Flow	Beat	1406	137.035	431	20.555250	112
+28	Sayonara (Hard) by Wanko Ni Mero Mero [Just Dance]	/scl/fi/91awaf3hvcuzpj0pylr6q/Sayonara-Hard-by-Wanko-Ni-Mero-Mero-Just-Dance.txt?rlkey=klwtuekl2j5nlga77oml0zcxz&dl=1	Chill	Chill	2683	187.241	834	28.086150	180
+26	Show Your Style (Hard) by ARForest	/scl/fi/eiam3q9c2w8h2u53izg3u/Show-Your-Style-Hard-by-ARForest.txt?rlkey=q2bspwor9s6jo5ao9hpzaqhne&dl=1	Beat	Flow	1707	135.084	443	20.262600	379
+28	Sounds of Beginning (Hard) by brz1128	/scl/fi/la9j84oszghbuytgsn57r/Sounds-of-Beginning-Hard-by-brz1128.txt?rlkey=4y8plifz1we2nytbpmduyu6i0&dl=1	Chill	Beat	1597	106.500	462	15.975000	211
+28	SMALL THEFT AUTO (Hard) by matthieumusic	/scl/fi/hu9jnz87cqd1zp7onbna3/SMALL-THEFT-AUTO-Hard-by-matthieumusic.txt?rlkey=fk18rvgc0bat2llib9u96fv54&dl=1	Flow	Chill	3109	185.488	805	27.823200	693
+28	Space Battle (D5wolf! Remix) [EXTENDED CUT] (Hard) by F-777 (Remixed by D5wolf!)	/scl/fi/u0ncx0wf25pbjkvjps2vy/Space-Battle-D5wolf-Remix-EXTENDED-CUT-Hard-by-F-777-Remixed-by-D5wolf.txt?rlkey=27r496f0n99wusa9yk1u4qgpq&dl=1	Flow	Chill	4412	372.021	1201	55.803150	808
+28	Space Battle (Hard) by F-777	/scl/fi/scxq9bbpdmsyo7k1mt1jy/Space-Battle-Hard-by-F-777.txt?rlkey=njnbl7z38bc5a6byfkyruak2x&dl=1	Flow	Chill	1591	144.000	524	21.600000	19
+26	Sprite (Hard) by Soupandreas [Monstercat]	/scl/fi/68irht7vjksarrflv67g7/Sprite-Hard-by-Soupandreas-Monstercat.txt?rlkey=vjqn4amsvb66xizslccqcopyk&dl=1	Flow	Rush	2427	189.751	652	28.462650	472
+28	Stardust (Hard) by AAAA	/scl/fi/4fg5wtcz5jecomhyo15o7/Stardust-Hard-by-AAAA.txt?rlkey=mm63r0okowmpucijve77ljlw2&dl=1	Beat	Vibe	1560	129.804	473	19.470600	140
+29	statemachine (Hard) by keisei (feat. Hatsune Miku)	/scl/fi/p652tqwr9jrzi90v0qpaj/statemachine-Hard-by-keisei-feat.-Hatsune-Miku.txt?rlkey=d2kkafqvqmouz3hggx67yy0qf&dl=1	Chill	Chill	1857	147.876	502	22.181400	352
+28	Summer Met With a Meteor Shower (Hard) by Chroma	/scl/fi/g94bn3u31kfb68qtxcemj/Summer-Met-With-a-Meteor-Shower-Hard-by-Chroma.txt?rlkey=h62yrnt02pyk4tamigghc7brx&dl=1	Vibe	Vibe	2021	160.410	531	24.061500	428
+28	Surface (Hard) by Dimrain47	/scl/fi/b1t9xfxfti7o9xqo4aw04/Surface-Hard-by-Dimrain47.txt?rlkey=wb7c6fhdgo26qw11s8dup873b&dl=1	Vibe	Beat	1842	155.394	548	23.309100	199
+26	Sus Funk (Hard) by James Landino	/scl/fi/8a7t1rsbpxvc3r9d5kubf/Sus-Funk-Hard-by-James-Landino.txt?rlkey=6ctbesj1h2gpqacbynhifq2es&dl=1	Vibe	Chill	2673	190.197	726	28.529550	495
+28	Sweat Around The World (Intense Mix) (Hard) by Just Sweat [Just Dance]	/scl/fi/4y8ami8zo6ur5705fb5dt/Sweat-Around-The-World-Intense-Mix-Hard-by-Just-Sweat-Just-Dance.txt?rlkey=ln7c3zrth41xflw1kx6y4dgqo&dl=1	Flow	Flow	1339	91.361	411	13.704150	105
+28	sweet dreams (Hard) by matthieumusic	/scl/fi/ayq06oci9okz6b86x1s2o/sweet-dreams-Hard-by-matthieumusic.txt?rlkey=vabehq26doz63l44xp4bexz1k&dl=1	Flow	Flow	2303	193.820	460	29.073000	924
+27	Take It Away (Hard) by ARForest	/scl/fi/n3ot8v09wagke2eaw9n92/Take-It-Away-Hard-by-ARForest.txt?rlkey=9xr4nnz00jfqfxr5n3gqmzoy8&dl=1	Flow	Rush	1485	148.828	382	22.324200	340
+26	The Falling Mysts (Hard) by Dimrain47	/scl/fi/arx1n07plnk4ynbav2o6m/The-Falling-Mysts-Hard-by-Dimrain47.txt?rlkey=ymvpt1x8m2h7t7ddw58orf5sw&dl=1	Chill	Vibe	2087	181.383	638	27.207450	172
+28	Time to beat the odds (Hard) by Kagetora	/scl/fi/3wv0kirew3zq8s9kyu58u/Time-to-beat-the-odds-Hard-by-Kagetora.txt?rlkey=0s16lkph0aelav18l8n00bacm&dl=1	Beat	Chill	1338	111.924	430	16.788600	48
+26	Unshakable (Hard) by RiraN	/scl/fi/c9a3lmctc64c6gffv79zc/Unshakable-Hard-by-RiraN.txt?rlkey=5pzn6ogzms0i4lqlv8zquno7f&dl=1	Vibe	Rush	1166	108.423	320	16.263450	208
+28	vix (Hard) by matthieumusic	/scl/fi/3uq3eh17fbopv1q3hmi0j/vix-Hard-by-matthieumusic.txt?rlkey=ihq6da8uxa7b4vjrpx43dkeq2&dl=1	Beat	Beat	1923	152.550	552	22.882500	268
+26	VR in the Virtual World (Hard) by ARForest	/scl/fi/nts4o95pe48mv64t0a1sh/VR-in-the-Virtual-World-Hard-by-ARForest.txt?rlkey=asnr4nuc895ulufi1rbe6j73s&dl=1	Vibe	Flow	1197	127.865	370	19.179750	86
+26	What You Love (Hard) by garlagan	/scl/fi/xyyuhextseen7kjnt7rg2/What-You-Love-Hard-by-garlagan.txt?rlkey=fwhrzng97frxzf150er3vgxwe&dl=1	Rush	Vibe	1408	152.094	413	22.814100	170
+28	What You Really Want (Hard) by garlagan	/scl/fi/znyck5tiz51do9jjxd9pf/What-You-Really-Want-Hard-by-garlagan.txt?rlkey=iqhawdpm693zroy2jovvgm9qi&dl=1	Rush	Flow	1615	177.279	500	26.591850	116
+28	Worth The Lie (Hard) by MUZZ & Koven & Feint [Monstercat]	/scl/fi/73sgbwcdqwxyv0uyl3vee/Worth-The-Lie-Hard-by-MUZZ-Koven-Feint-Monstercat.txt?rlkey=px0q4wiz911v42qtdecfcenou&dl=1	Beat	Flow	1046	115.504	307	17.325600	127
+27	Chartreuse Green (Hard) by t+pazolite	/scl/fi/ouxakylfse9y4nf365td5/Chartreuse-Green-Hard-by-t-pazolite.txt?rlkey=znbi9wvzmvp39l2xbrum8pzcc&dl=1	Vibe	Beat	1829	130.378	490	19.556700	360
+27	Brain Power (Hard) by NOMA	/scl/fi/wsnv88xhvemqfht2kkgjp/Brain-Power-Hard-by-NOMA.txt?rlkey=aiocvjtudup6dhfxkvnlkryi1&dl=1	Beat	Flow	1337	108.710	406	16.306500	119
+26	Beyond Black (Hard) by naruto2413 (feat. Aya Majiro)	/scl/fi/h4mw0io1nl8w3pus3f8sl/Beyond-Black-Hard-by-naruto2413-feat.-Aya-Majiro.txt?rlkey=dyc94z7isv9pap0nc8f4ltnd1&dl=1	Beat	Flow	1838	172.871	524	25.930650	266
+27	Chiwawa (Hard) by Wanko Ni Mero Mero [Just Dance]	/scl/fi/48rwts5kk7a7d5tixt5gr/Chiwawa-Hard-by-Wanko-Ni-Mero-Mero-Just-Dance.txt?rlkey=neia9vkd6kxfn73f1hlfsurod&dl=1	Rush	Rush	2623	166.829	489	25.024350	1156
+26	Clutterfunk (Hard) by Waterflame	/scl/fi/7lmvu1jv27gmam98qz7mi/Clutterfunk-Hard-by-Waterflame.txt?rlkey=pd06f8cqglz3qx4aivm4wk3ww&dl=1	Flow	Vibe	1994	165.857	559	24.878550	316
+27	Cosmic Blaster (Hard) by F-777	/scl/fi/80pyjxybzz8kn3wnshuz7/Cosmic-Blaster-Hard-by-F-777.txt?rlkey=gwby5rmwxsn82fcofie0ezhx6&dl=1	Rush	Chill	1539	132.553	498	19.882950	45
+26	Crystallized Snow (Hard) by BrayanKitsn	/scl/fi/ici8x7oinu1cejmwehtpb/Crystallized-Snow-Hard-by-BrayanKitsn.txt?rlkey=0fz0z8jn537ubbzi1m6zirf17&dl=1	Flow	Vibe	1577	142.779	513	21.416850	37
+26	Duality (Hard) by Dimrain47	/scl/fi/ewfeqzbiozprl9lqtyq2a/Duality-Hard-by-Dimrain47.txt?rlkey=lu9r58t08guu2evna7y93p3cc&dl=1	Beat	Vibe	1581	130.434	424	19.565100	308
+27	Dear Pet Rock (Hard) by tv room	/scl/fi/0m6ky9ka6jjusv7tbz91l/Dear-Pet-Rock-Hard-by-tv-room.txt?rlkey=ghpdasmd1p8m97tbrj9o7ltgt&dl=1	Vibe	Vibe	1034	89.972	220	13.495800	375
+27	ELINE (Hard) by dark cat	/scl/fi/oau0xa5c259l0h9vu7j4s/ELINE-Hard-by-dark-cat.txt?rlkey=9mtrnebno6ejcmx1a14iermcr&dl=1	Chill	Chill	1501	123.979	380	18.596850	362
+27	ELYXiVN ELYXiUM (Hard) by Reku Mochizuki	/scl/fi/ge09h9ng1njrxzz951v9i/ELYXiVN-ELYXiUM-Hard-by-Reku-Mochizuki.txt?rlkey=7e3p8xv6ripfqjkfu22174mra&dl=1	Rush	Chill	1792	131.842	457	19.776300	422
+27	Endless Oceans (Hard) by HalfDuck	/scl/fi/61598f8l35clizqu9jiln/Endless-Oceans-Hard-by-HalfDuck.txt?rlkey=x7mo42ckqlharasaylhptf6bn&dl=1	Chill	Chill	3116	257.585	957	38.637750	243
+27	For You (Hard) by Xeon Diversity [Sound Space]	/scl/fi/buto8ei1piulrc72k5f0r/For-You-Hard-by-Xeon-Diversity-Sound-Space.txt?rlkey=8vticxb5mpc19qacu1o0fq53s&dl=1	Chill	Rush	2623	186.009	640	27.901350	703
+27	Flipper Frenzy (Hard) by HalfDuck	/scl/fi/7f56o96w40ooi4krkiwko/Flipper-Frenzy-Hard-by-HalfDuck.txt?rlkey=94lvlpl6l7dov8wnet0cqlbx4&dl=1	Beat	Beat	1611	140.641	499	21.096150	114
+27	Fractal construction (Hard) by Kagetora & ikaruga_nex	/scl/fi/roc95bgvh1mpg26u5y0c7/Fractal-construction-Hard-by-Kagetora-ikaruga_nex.txt?rlkey=r3tn28zr5f9b0pmbjkrxexl9p&dl=1	Beat	Rush	1571	141.119	502	21.167850	65
+27	Grimoire of Crimson (Hard) by Team Grimoire	/scl/fi/igf2cz8sat5dha3zz8pm5/Grimoire-of-Crimson-Hard-by-Team-Grimoire.txt?rlkey=ishvfotw8xp1r3rkadh7rxi9h&dl=1	Rush	Chill	1654	169.523	425	25.428450	380
+27	Ginsekai -Alternative- (Hard) by Halv	/scl/fi/5dw9cas94i4b99bgntj2z/Ginsekai-Alternative-Hard-by-Halv.txt?rlkey=scdg5ptoqt85ncdmoai1jcjyj&dl=1	Vibe	Beat	1378	139.151	439	20.872650	60
+26	Hit That (Hard) by James Landino	/scl/fi/gp573le1pb0qefyv55249/Hit-That-Hard-by-James-Landino.txt?rlkey=v1otfubzr14lf68jayrxbdwh1&dl=1	Chill	Beat	1592	122.694	410	18.404100	361
+27	In The Moment (Hard) by Similar Outskirts	/scl/fi/tjequcnoad9cihmchli4g/In-The-Moment-Hard-by-Similar-Outskirts.txt?rlkey=2lp4j4kysdbvwwcg6eq8epoye&dl=1	Rush	Chill	1182	108.770	308	16.315500	259
+26	Insight [EXTENDED CUT] (Hard) by Haywyre	/scl/fi/wdlkto33bb8vs8fwr86sv/Insight-EXTENDED-CUT-Hard-by-Haywyre.txt?rlkey=axjf6vy2vj93qqfvk4cqwrs9v&dl=1	Vibe	Chill	2370	218.591	742	32.788650	144
+27	Lake Attitash (Hard) by tv room	/scl/fi/8dsppkxolmqqhmu0gxt13/Lake-Attitash-Hard-by-tv-room.txt?rlkey=l5amwedvy1sise8h87vw2msvh&dl=1	Vibe	Flow	1390	130.451	371	19.567650	278
+27	Kowloon of the Kijoh (Hard) by t+pazolite	/scl/fi/0bdrviwg4icbssd1wddef/Kowloon-of-the-Kijoh-Hard-by-t-pazolite.txt?rlkey=ljw43hnvi1oohqo7yoqfyk9f9&dl=1	Chill	Rush	2365	167.745	626	25.161750	486
+27	Landscape (Hard) by Juggernaut	/scl/fi/6zhp0gqw4elnqt0u549uj/Landscape-Hard-by-Juggernaut.txt?rlkey=ofa0z5ijvns8it8pgneuurtyl&dl=1	Rush	Chill	1291	124.545	381	18.681750	148
+27	Light Years Away (Hard) by Synthion	/scl/fi/qcfbz5kj6wr5ym0dcrqw6/Light-Years-Away-Hard-by-Synthion.txt?rlkey=qwiu4uejx1n3tjufw3yiinzu7&dl=1	Beat	Vibe	2010	169.370	574	25.405500	289
+26	Nana (Hard) by Geoxor	/scl/fi/gnn7kisf1p5zh9ixb3xuf/Nana-Hard-by-Geoxor.txt?rlkey=xxjbu17n8hav2suovk0202q0o&dl=1	Flow	Beat	1186	138.136	294	20.720400	304
+27	Niflheimr (Hard) by xi (xi_com_giko_31)	/scl/fi/ycaekpkbc8qhyzbw8o84b/Niflheimr-Hard-by-xi-xi_com_giko_31.txt?rlkey=byrlsbd2vdhwigrdfciglyxmh&dl=1	Chill	Vibe	1553	159.224	483	23.883600	104
+27	One More Dream (Hard) by EmoCosine	/scl/fi/k9bpibdana3lulasyniup/One-More-Dream-Hard-by-EmoCosine.txt?rlkey=it22pt5ujylv25tjw1wj688gs&dl=1	Flow	Chill	1542	135.068	437	20.260200	232
+27	Paradise (Hard) by Project Skylate	/scl/fi/5zztid8xc8zbwzyr92xph/Paradise-Hard-by-Project-Skylate.txt?rlkey=sonr0iuzx5wfddfjmtgott7n6&dl=1	Chill	Chill	2130	193.160	539	28.974000	513
+26	People Get Up (Hard) by Slynk & Granular Sumo	/scl/fi/xoii0sfdx1fcms5t30xll/People-Get-Up-Hard-by-Slynk-Granular-Sumo.txt?rlkey=ytbcgxhhgqmgp1t4s3h0b4q68&dl=1	Rush	Vibe	1737	160.000	579	24.000000	0
+27	Pinball (Hard) by Tobu	/scl/fi/28dfn6eb86qavxjya1mqo/Pinball-Hard-by-Tobu.txt?rlkey=nifdkzachj811ou6dx7bb7poj&dl=1	Rush	Rush	1596	149.091	493	22.363650	117
+27	Rainbow Raceway (Hard) by Ardolf	/scl/fi/50nfsdfn5c9lixah0dkh4/Rainbow-Raceway-Hard-by-Ardolf.txt?rlkey=5jw82hjzf7zrulhdaz4ffe6qo&dl=1	Rush	Vibe	2210	158.493	577	23.773950	478
+27	Remember (Hard) by Juggernaut	/scl/fi/38xcni7e0317evl65ugob/Remember-Hard-by-Juggernaut.txt?rlkey=jdozd3n2p4thqnrz57vksjbjd&dl=1	Rush	Flow	1622	134.191	478	20.128650	189
+27	Shooting Star (Hard) by Hyper Potions & Skye Rocket	/scl/fi/3s2u9lwjhsfj64z48llyu/Shooting-Star-Hard-by-Hyper-Potions-Skye-Rocket.txt?rlkey=xsctslw1so7gvdqnnezndtakg&dl=1	Rush	Chill	1579	122.757	434	18.413550	277
+27	sp0M0ky (Hard) by garlagan	/scl/fi/q8i1q98cohb981qly6z2p/sp0M0ky-Hard-by-garlagan.txt?rlkey=u6i2xkenwbcct9q3v32gr2ltw&dl=1	Rush	Chill	2153	155.021	549	23.253150	507
+27	Speed Future Zone (Hard) by James Landino	/scl/fi/rkdmbk6nnfo15e4utcrc7/Speed-Future-Zone-Hard-by-James-Landino.txt?rlkey=eolftk8zkqfnzc9m72sbhopkz&dl=1	Chill	Vibe	2046	144.491	543	21.673650	418
+26	Squid Rave (Hard) by James Landino	/scl/fi/duxxly66nwpo6ionqd95p/Squid-Rave-Hard-by-James-Landino.txt?rlkey=94rqhvq67jji96li9kuxo2qt3&dl=1	Chill	Flow	1767	146.365	472	21.954750	351
+26	Stay Close to Me -I love you- (Hard) by naruto2413 (feat. Aya Mashiro)	/scl/fi/05hh0v4iuby5fivmc5zie/Stay-Close-to-Me-I-love-you-Hard-by-naruto2413-feat.-Aya-Mashiro.txt?rlkey=ve750tskxh79xps93731y97os&dl=1	Beat	Beat	1146	116.353	319	17.452950	191
+27	Summer (Hard) by Juggernaut	/scl/fi/xnchhohskn7b5llh9wb2e/Summer-Hard-by-Juggernaut.txt?rlkey=ufd7dcv1vpr9tajgufgpb06mc&dl=1	Rush	Chill	1689	133.331	478	19.999650	254
+27	the battle to save the world or whatever (Hard) by matthieumusic	/scl/fi/m5jpv3noxegktxrqfplai/the-battle-to-save-the-world-or-whatever-Hard-by-matthieumusic.txt?rlkey=cmzgcxprit3sjui7axo1pch2k&dl=1	Vibe	Beat	1664	124.046	517	18.606900	112
+27	The Last Page (Hard) by ARForest	/scl/fi/koo6ix3gw11h8zdaofsfa/The-Last-Page-Hard-by-ARForest.txt?rlkey=3gstd4fww1ncrkk98erqwj906&dl=1	Flow	Vibe	1534	130.360	483	19.554000	86
+26	The Warrior's Quack (Hard) by HalfDuck	/scl/fi/3k8xer2hxggejno08twyh/The-Warrior-s-Quack-Hard-by-HalfDuck.txt?rlkey=lbx1n5h3ytcwru9fimqg9z805&dl=1	Rush	Rush	1801	139.830	455	20.974500	435
+26	The World of Kepo's 2-Sided Mix [EXTENDED CUT] (Hard) by KepoWorld (Arranged by poscle)	/scl/fi/hrm86ka55rjt0itag931d/The-World-of-Kepo-s-2-Sided-Mix-EXTENDED-CUT-Hard-by-KepoWorld-Arranged-by-poscle.txt?rlkey=t1r7hkztmndb9bhbaqkzd8i6k&dl=1	Flow	Rush	2941	326.195	751	48.929250	688
+27	There For Me (Hard) by Synthion	/scl/fi/gg4ud68inszf6ejpxi0zp/There-For-Me-Hard-by-Synthion.txt?rlkey=q47c6jbtvwpuofmfijhcoofvp&dl=1	Flow	Beat	1691	131.477	447	19.721550	351
+27	Toy Factory (Hard) by F-777	/scl/fi/wiovmf1xde5tv809ydzjf/Toy-Factory-Hard-by-F-777.txt?rlkey=690a2yybqlnw92fysf35tl594&dl=1	Chill	Beat	1945	152.555	524	22.883250	373
+27	TRICKY_TRIPPER (Hard) by brz1128	/scl/fi/t3ve57d7bwratwxg0w3s3/TRICKY_TRIPPER-Hard-by-brz1128.txt?rlkey=01tlf1u3i3pg4hj6nxncktktd&dl=1	Flow	Rush	1543	119.440	503	17.916000	35
+27	Tokyo's Starlight (Hard) by HyuN	/scl/fi/ce0bty8m0eo7lua566dp3/Tokyo-s-Starlight-Hard-by-HyuN.txt?rlkey=wpil9f274cgbv20x9uuvz6w48&dl=1	Vibe	Chill	1466	137.713	476	20.656950	39
+26	Unlimited (Hard) by Similar Outskirts	/scl/fi/ndj8x8vfuqqgufthvfpvi/Unlimited-Hard-by-Similar-Outskirts.txt?rlkey=qi3x0po89l3l313mttmdin07e&dl=1	Vibe	Beat	1356	123.220	377	18.483000	225
+27	Twinkle*Winter (Hard) by brz1128	/scl/fi/eaowpio86m0mq8tviy11f/TwinkleWinter-Hard-by-brz1128.txt?rlkey=hx93vuipj0fhsapswxy7a16t7&dl=1	Chill	Beat	1525	104.992	422	15.748800	258
+27	Until the end of time (Hard) by Ardolf	/scl/fi/77adibzw4qxzkgpwok1ck/Until-the-end-of-time-Hard-by-Ardolf.txt?rlkey=ejpqjh37qz4iitjqur6fabser&dl=1	Vibe	Rush	1856	132.184	503	19.827600	346
+27	Uphoric Utopia (Hard) by Reku Mochizuki	/scl/fi/808chkocsp1ap7adxtjcl/Uphoric-Utopia-Hard-by-Reku-Mochizuki.txt?rlkey=yhvzjfen7473l2qkbm74b8g8w&dl=1	Chill	Rush	1131	90.844	303	13.626600	222
+27	Viyella's Memory (Hard) by Laur [LAUR1200]	/scl/fi/i8odpwsosl18u5hrn6d3w/Viyella-s-Memory-Hard-by-Laur-LAUR1200.txt?rlkey=1lvd31bxomb34uaqjioarm6e2&dl=1	Flow	Beat	1941	146.817	557	22.022550	270
+27	Waltz Capriccio (Hard) by Synthion	/scl/fi/o28z0x378pisps44uijde/Waltz-Capriccio-Hard-by-Synthion.txt?rlkey=8ddqsoxy3lb0zb03mjcnpn9ag&dl=1	Flow	Beat	1165	117.220	331	17.583000	173
+27	Wishing you a very H4RDC0RE Christmas! (With Project Skylate) (Hard) by Project Skylate	/scl/fi/9wcbkf5xv9ay9h7k52bfr/Wishing-you-a-very-H4RDC0RE-Christmas-With-Project-Skylate-Hard-by-Project-Skylate.txt?rlkey=r384zwrwk343eiclnxwndrclf&dl=1	Flow	Rush	2243	196.267	664	29.440050	252
+27	World of Hinkik [EXTENDED CUT] (Hard) by Hinkik (Arranged by Got1Butter and oatsig)	/scl/fi/20ns5xbu3a6gp1hbr93tx/World-of-Hinkik-EXTENDED-CUT-Hard-by-Hinkik-Arranged-by-Got1Butter-and-oatsig.txt?rlkey=1ni189i391fzu6fc0gtsq6qn7&dl=1	Flow	Flow	3548	303.750	870	45.562500	938
+26	With The Funk (Hard) by Slynk & Megan Hamilton feat. The Bermudas	/scl/fi/dum7p4wsnb9uokwh7cx5y/With-The-Funk-Hard-by-Slynk-Megan-Hamilton-feat.-The-Bermudas.txt?rlkey=jc6rarkcmqh7dz7dlmwjsk4rt&dl=1	Chill	Vibe	1871	178.972	554	26.845800	209
+27	Xing Noises (Hard) by UNDEAD CORPORATION	/scl/fi/aufn2nad7i5qku1w37rqf/Xing-Noises-Hard-by-UNDEAD-CORPORATION.txt?rlkey=5ynqtvrrgnewz8u2zo1c6i15q&dl=1	Rush	Vibe	1841	140.674	525	21.101100	267
+26	Asteroid's Dream (Hard) by brz1128	/scl/fi/zm0qrwand0bud7ea7u369/Asteroid-s-Dream-Hard-by-brz1128.txt?rlkey=neyiq0g219eo122e7bmyhb1xo&dl=1	Chill	Flow	1637	131.989	434	19.798350	335
+26	GoodLove (Hard) by Maliboux	/scl/fi/nb9uzxdirf4rhq60y358s/GoodLove-Hard-by-Maliboux.txt?rlkey=c840vlfy7bbc55l4n52f8uht5&dl=1	Vibe	Chill	1735	129.157	411	19.373550	501
+26	Make Me Crazy (Hard) by UNDEAD CORPORATION	/scl/fi/3ic22awhxtik7if4q096h/Make-Me-Crazy-Hard-by-UNDEAD-CORPORATION.txt?rlkey=d45hgtgdgv6pkuqar9c4v9g8u&dl=1	Vibe	Beat	1347	94.850	379	14.227500	211
+26	Melodies With You (Hard) by Ponchi feat.GUMI [MisoilePunch]	/scl/fi/dd81qrkhtddaz3k7rw41q/Melodies-With-You-Hard-by-Ponchi-feat.GUMI-MisoilePunch.txt?rlkey=mhsqui39xpr0jrtx8s57k91wz&dl=1	Beat	Vibe	2075	159.603	610	23.940450	245
+26	PLAZMA (Hard) by brz1128	/scl/fi/2okhh8oeu4m9eatwljquv/PLAZMA-Hard-by-brz1128.txt?rlkey=3hk74pjd9cj7k5fnlib09smxs&dl=1	Vibe	Flow	1460	145.406	476	21.810900	33
+26	The first snowfall on my secret base (Hard) by Chroma	/scl/fi/quu6j4q3i09751vklr6gz/The-first-snowfall-on-my-secret-base-Hard-by-Chroma.txt?rlkey=ekvfj8oroc77l2exh8pxy5j13&dl=1	Chill	Vibe	1996	173.104	519	25.965600	440
+26	Charge (Hard) by Bossfight	/scl/fi/rooklkgt3x1vdm0y2ae1y/Charge-Hard-by-Bossfight.txt?rlkey=8tmtk57xud5qajh0nzj6at3t8&dl=1	Rush	Flow	2184	186.736	571	28.010400	471
+26	Be Right There (Game Edit) (Hard) by Reku Mochizuki	/scl/fi/wo6t6c8lsl24t9gak7v35/Be-Right-There-Game-Edit-Hard-by-Reku-Mochizuki.txt?rlkey=azbb0uxn3gay285xcny2tkryp&dl=1	Rush	Rush	1616	154.363	461	23.154450	232
+26	Deadlocked (Classic Version) [EXTENDED CUT] (Hard) by F-777	/scl/fi/gl5p4q2u1pt8wgbzqp161/Deadlocked-Classic-Version-EXTENDED-CUT-Hard-by-F-777.txt?rlkey=t0eqc2czrcq4ih1rhtthot64f&dl=1	Rush	Beat	2821	200.894	667	30.134100	818
+26	Dubstepah (Classic Version) [EXTENDED CUT] (Hard) by F-777	/scl/fi/hhaj9ftrh3rwintoa0sec/Dubstepah-Classic-Version-EXTENDED-CUT-Hard-by-F-777.txt?rlkey=83tpg4z5lczmz5u48vmq6je7k&dl=1	Rush	Flow	1500	108.040	281	16.206000	658
+26	Helium (Hard) by keisei (feat. Hatsune Miku)	/scl/fi/9ogaeg8x8gxa0ipamtebz/Helium-Hard-by-keisei-feat.-Hatsune-Miku.txt?rlkey=3hia5izyrillwrwxpoi3xnwpk&dl=1	Chill	Flow	1679	151.050	438	22.657500	366
+26	I Was Watching Your Back (Hard) by keisei (feat. MEIKO)	/scl/fi/ofqyoii5vzpkxhqv8zb44/I-Was-Watching-Your-Back-Hard-by-keisei-feat.-MEIKO.txt?rlkey=7ovjfxw3otfs8ttxvvudnxt0q&dl=1	Rush	Flow	1541	156.811	455	23.521650	175
+26	Symetry (Hard) by God's Warrior & Kanro	/scl/fi/leu3ypmb091ipnenmcoou/Symetry-Hard-by-God-s-Warrior-Kanro.txt?rlkey=lv0mm8cuox0ko693m1a935bf7&dl=1	Rush	Rush	1608	135.980	396	20.397000	419
+26	Daybreaker (Hard) by EmoCosine	/scl/fi/ubcfhfifooljkppwzx55y/Daybreaker-Hard-by-EmoCosine.txt?rlkey=96zuu55x8cdhhkitnvhdmih3n&dl=1	Vibe	Vibe	1181	115.041	351	17.256150	128
+26	Funtown USA (Hard) by tv room	/scl/fi/ywjzsjxoyq2f9mpasicrd/Funtown-USA-Hard-by-tv-room.txt?rlkey=u3uxjl7og6x9lf489zw8sgujj&dl=1	Chill	Vibe	1154	115.031	312	17.254650	219
+26	mellow at 3 a.m. (Hard) by keisei (feat. Hatsune Miku)	/scl/fi/3e9paustvwxuh4ogz3vf5/mellow-at-3-a.m.-Hard-by-keisei-feat.-Hatsune-Miku.txt?rlkey=d0tp1qa026rke9dlpeseu2ud6&dl=1	Chill	Flow	2062	165.840	561	24.876000	379
+25	Mopemope (Hard) by LeaF (7eaF)	/scl/fi/kl7v6lfe2u0cgga6vgp5k/Mopemope-Hard-by-LeaF-7eaF.txt?rlkey=i2xtfi0ctfaf6tris499ht7ou&dl=1	Beat	Beat	1124	109.975	322	16.496250	159
+25	Take The Long Way Home (Hard) by RiraN feat. core mc	/scl/fi/fjuov9p6ipzqhwjomue57/Take-The-Long-Way-Home-Hard-by-RiraN-feat.-core-mc.txt?rlkey=1jhvaoidrfxvvva44ix7urj8w&dl=1	Vibe	Flow	1412	135.778	369	20.366700	305
+26	Roses & Ribbons (Hard) by Synthion & Nila	/scl/fi/wuzntp7o8z1enwyhi26o9/Roses-Ribbons-Hard-by-Synthion-Nila.txt?rlkey=nate030nrn1zvuk7p492p66sl&dl=1	Chill	Beat	1786	182.774	499	27.416100	290
+25	[@_@] (Hard) by Chroma	/scl/fi/2fhlx2d0bhzsm5a1m4l73/_-Hard-by-Chroma.txt?rlkey=78y5uv2xbgyggri18d799jnes&dl=1	Chill	Beat	886	101.012	291	15.151800	13
+25	dreamless wanderer (Hard) by Camellia	/scl/fi/8a94m90xed6vr6oiavkqk/dreamless-wanderer-Hard-by-Camellia.txt?rlkey=3ihzhd6ixu8n1lj0gu693erq0&dl=1	Beat	Beat	1910	178.771	537	26.815650	299
+25	Spooky time (Hard) by Rutra	/scl/fi/axf62dh3qz6eddfontom3/Spooky-time-Hard-by-Rutra.txt?rlkey=jo242rq141n0pm4e5pgm1vb14&dl=1	Beat	Chill	1437	149.197	324	22.379550	466
+25	This Future (we didn't expect) (Hard) by Camellia	/scl/fi/v1o9tebf7gbk5scqs4fuh/This-Future-we-didn-t-expect-Hard-by-Camellia.txt?rlkey=cjbfkf50kc4yagl6q0palxcr5&dl=1	Flow	Rush	991	96.493	291	14.473950	118
+25	Winning Smile (Hard) by BSlick	/scl/fi/5qkmt0o273s3ay0j1h781/Winning-Smile-Hard-by-BSlick.txt?rlkey=8zjvq8ib5ifsoib7n99g6xryp&dl=1	Rush	Vibe	969	90.640	301	13.596000	66
+25	Subsonic Blast (Hard) by EntityEnginuity	/scl/fi/q0t8lzl6gorcwy7z17gta/Subsonic-Blast-Hard-by-EntityEnginuity.txt?rlkey=3xzksuz06aoh0es8o3vydwkzf&dl=1	Chill	Flow	1680	151.117	411	22.667550	446
+25	Aura (Hard) by Creo	/scl/fi/cmkzac9xzioqsa8aeutwd/Aura-Hard-by-Creo.txt?rlkey=s7qw72dvyh1smys6f1s8nu5rn&dl=1	Beat	Rush	1262	161.278	331	24.191700	271
+25	Awaken (Hard) by Creo	/scl/fi/5m22btltsr8vbz6mvovfg/Awaken-Hard-by-Creo.txt?rlkey=wtyjwtl2sgx12ls3c5250fz1j&dl=1	Chill	Rush	1456	157.697	437	23.654550	144
+25	Crazy Magic (Hard) by NAMI with Shigex2 & S/N [Nash Music Library]	/scl/fi/h764djw79y175io013y2n/Crazy-Magic-Hard-by-NAMI-with-Shigex2-SN-Nash-Music-Library.txt?rlkey=cjc2auykt9xohfjw2cmympyw5&dl=1	Beat	Chill	2202	160.127	619	24.019050	345
+25	Travels (Hard) by EntityEnginuity	/scl/fi/qyivh8q1gjqmz2fyhqckh/Travels-Hard-by-EntityEnginuity.txt?rlkey=kringyjf6qbb2gitje6pkpbh2&dl=1	Rush	Chill	1510	146.904	416	22.035600	262
+25	Insight (Egg Yolk Remix) (Hard) by Haywyre (Remixed by Egg Yolk)	/scl/fi/40r6xjrsv00eppk98wa0m/Insight-Egg-Yolk-Remix-Hard-by-Haywyre-Remixed-by-Egg-Yolk.txt?rlkey=0p0ua2rbymj1dxa7gsdcp542r&dl=1	Vibe	Chill	1084	120.090	320	18.013500	126
+25	Reaction (Hard) by James Landino feat. Slyleaf	/scl/fi/9ypwtyn0wpp8obd4yqd0h/Reaction-Hard-by-James-Landino-feat.-Slyleaf.txt?rlkey=2npuntzeg015uz4hyty7oo9fn&dl=1	Vibe	Chill	1269	116.255	294	17.438250	388
+25	9876734123 (Hard) by Silentroom	/scl/fi/cjcbufopygeqolzt865sa/9876734123-Hard-by-Silentroom.txt?rlkey=aaua7t6jffnedx2ysqh7wwdxv&dl=1	Chill	Rush	1442	122.268	434	18.340200	140
+25	Birds of Plague (Hard) by ARForest	/scl/fi/u6pnk6a1ru59vgr4lqwpw/Birds-of-Plague-Hard-by-ARForest.txt?rlkey=64cgtiln8vq04eixz4d901q4b&dl=1	Flow	Flow	1468	153.611	470	23.041650	59
+25	The Memory Of Summer [EXTENDED CUT] (Hard) by RiraN feat. Ai Ohsera	/scl/fi/ib72fr5cmxhcwmo0i6nbx/The-Memory-Of-Summer-EXTENDED-CUT-Hard-by-RiraN-feat.-Ai-Ohsera.txt?rlkey=8qb67neynm0zgt5zldtsp96y7&dl=1	Flow	Flow	2260	223.980	687	33.597000	199
+25	Thorns (Hard) by Kawai Sprite	/scl/fi/4fbdt0uil07slqzk9fgcb/Thorns-Hard-by-Kawai-Sprite.txt?rlkey=pl2c319ftrent7kcy5vpfx2vr&dl=1	Vibe	Beat	1261	101.654	340	15.248100	240
+25	Going Back (Hard) by garlagan	/scl/fi/k37z2crkfcop7dryzi2so/Going-Back-Hard-by-garlagan.txt?rlkey=ky9f0qbi4meysd10jygrkeyss&dl=1	Rush	Vibe	1700	153.751	394	23.062650	518
+25	URBAN CELERY (Hard) by matthieumusic	/scl/fi/dm5h7dokljfdwywr2xzy2/URBAN-CELERY-Hard-by-matthieumusic.txt?rlkey=fvmqrz1d2amg2k5m8ciixyq60&dl=1	Vibe	Vibe	1733	176.370	535	26.455500	128
+25	(The) Red * Room (Hard) by Camellia	/scl/fi/0t2964bi0set595ckwott/The-Red-Room-Hard-by-Camellia.txt?rlkey=7jdveosi4bk25x9hd7x7dh1ar&dl=1	Rush	Flow	1378	129.344	391	19.401600	204
+25	Alive (Hard) by Rutra X KepoWorld	/scl/fi/0ktpg3kxsqe4oki9w5q0k/Alive-Hard-by-Rutra-X-KepoWorld.txt?rlkey=d49grxc32043wknjb2t8u6xv3&dl=1	Flow	Flow	1426	157.500	362	23.625000	339
+25	God ASK (Hard) by naruto2413 (feat. Aya Mashiro)	/scl/fi/sh0ve58s7xglfgt9f9y28/God-ASK-Hard-by-naruto2413-feat.-Aya-Mashiro.txt?rlkey=y5hmtq2jtovg9tzkphfu7ru53&dl=1	Beat	Rush	1658	128.804	476	19.320600	230
+25	if i could return in the 90s (Hard) by naruto2413 (feat. Aya Majiro)	/scl/fi/p8oiopuc9mw883a30536g/if-i-could-return-in-the-90s-Hard-by-naruto2413-feat.-Aya-Majiro.txt?rlkey=36em16p7p1bv5sm9szh2qiies&dl=1	Beat	Vibe	1736	150.173	525	22.525950	161
+25	The Best of Creo Vol. 2 [EXTENDED CUT] (Hard) by Creo (Arranged by ZirconEscalus)	/scl/fi/b3sus6qfpypnufmnwom3y/The-Best-of-Creo-Vol.-2-EXTENDED-CUT-Hard-by-Creo-Arranged-by-ZirconEscalus.txt?rlkey=wjdppjoilqzc3xni9gn0qxl11&dl=1	Chill	Chill	3205	310.903	849	46.635450	656
+25	Spellbound (Hard) by James Landino	/scl/fi/exzowpl53hjb29669lc1o/Spellbound-Hard-by-James-Landino.txt?rlkey=v2tkdvyaby1hpy5ian9v3v07l&dl=1	Chill	Chill	1403	123.004	352	18.450600	347
+25	Shaolin Warrior (Hard) by F-777	/scl/fi/z042tbvf5l16vck53p0hz/Shaolin-Warrior-Hard-by-F-777.txt?rlkey=w8gmmn3hjis45udo4qjzi2x1s&dl=1	Rush	Rush	1687	136.000	434	20.400000	386
+25	Kool Kontact (Hard) by Glorious Black Belts [Just Dance]	/scl/fi/55bzm18uhgglwwzp81x4d/Kool-Kontact-Hard-by-Glorious-Black-Belts-Just-Dance.txt?rlkey=i4ghh3v84n040y4sorygg6ox3&dl=1	Flow	Flow	1636	155.947	462	23.392050	249
+25	Stars (Hard) by James Landino	/scl/fi/kczp8k1ave79t40ctkhb3/Stars-Hard-by-James-Landino.txt?rlkey=3uhxmfz9wg6a8j6xo44t7wh8h&dl=1	Chill	Chill	2033	187.210	522	28.081500	467
+25	Swinging 60's Workout (Intense Mix) (Hard) by Just Sweat [Just Dance]	/scl/fi/nfrmklxiwr3z4j8y1fxbb/Swinging-60-s-Workout-Intense-Mix-Hard-by-Just-Sweat-Just-Dance.txt?rlkey=561dwg209ltz4gih8ezbua8qd&dl=1	Beat	Beat	1108	88.804	322	13.320600	142
+25	Yameen Yasar (Hard) by DJ Absi [Just Dance]	/scl/fi/1lv8bqmhdtzd180mnz28g/Yameen-Yasar-Hard-by-DJ-Absi-Just-Dance.txt?rlkey=js59b461yt2lm9krxbdsmzhwv&dl=1	Beat	Beat	2438	198.387	689	29.758050	371
+25	Dance Of The Sugarplum Fairy (The Nutcracker and the Four Realms Remix) (Hard) by Tchaikovsky (Remixed by Riwall Harjay)	/scl/fi/rcxjfm2l6kpx7y3gxv3sy/Dance-Of-The-Sugarplum-Fairy-The-Nutcracker-and-the-Four-Realms-Remix-Hard-by-Tchaikovsky-Remixed-by-Riwall-Harjay.txt?rlkey=gx0e9n6325fty35m4qf3ozbr8&dl=1	Flow	Flow	2513	187.167	551	28.075050	859
+25	Branch Blitz (Hard) by EJ's Studio [Tower Heroes]	/scl/fi/eaeqc0r1nxy108u5dcjrm/Branch-Blitz-Hard-by-EJ-s-Studio-Tower-Heroes.txt?rlkey=h855jbg0gtubkffmsv338dkq5&dl=1	Rush	Vibe	1365	132.257	444	19.838550	34
+25	Delight Me (Hard) by Slynk feat. Q'Aila	/scl/fi/y2q3zo00cddofsfpnlodu/Delight-Me-Hard-by-Slynk-feat.-Q-Aila.txt?rlkey=jn8ar2mxux16vrzai55ry4m53&dl=1	Vibe	Chill	1571	138.813	446	20.821950	234
+25	Get Busy (Hard) by Slynk & WBBL	/scl/fi/222h1nihjxdigpn8kfojv/Get-Busy-Hard-by-Slynk-WBBL.txt?rlkey=3q9ryykhg0819f79kc4ltbm8f&dl=1	Flow	Beat	1821	183.020	517	27.453000	271
+25	Keep The Party Jumping (Hard) by Slynk & Mr Stabalina	/scl/fi/4av9qr55llvyppf19a6ts/Keep-The-Party-Jumping-Hard-by-Slynk-Mr-Stabalina.txt?rlkey=a3odc2mkf34jwfrnk6xiz2lb7&dl=1	Beat	Rush	1810	149.819	463	22.472850	420
+25	welcome to christmas! (Hard) by nekodex	/scl/fi/dzsxx5tvl1a8dtgwlgmqn/welcome-to-christmas-Hard-by-nekodex.txt?rlkey=yv3deqivmsffl1ld07tpr5t40&dl=1	Flow	Flow	1488	144.405	437	21.660750	176
+25	Electroman Adventures V2 (Hard) by Waterflame	/scl/fi/4jf43eunt0nv2anc18d68/Electroman-Adventures-V2-Hard-by-Waterflame.txt?rlkey=wxix8dt4jvdjpyvv9zk0mrr9i&dl=1	Rush	Chill	1818	139.272	517	20.890800	267
+25	Final Battle [EXTENDED CUT] (Hard) by Waterflame	/scl/fi/6pqpb9v2977yj5hk2jk9i/Final-Battle-EXTENDED-CUT-Hard-by-Waterflame.txt?rlkey=hbhho5u8hlcs90vpduxqn4yl6&dl=1	Beat	Rush	3321	318.377	990	47.756550	349
+25	Jelly (Hard) by Hyper Potions & MYLK	/scl/fi/k5imp1nlyq2ycnwmsed2w/Jelly-Hard-by-Hyper-Potions-MYLK.txt?rlkey=60nc91gk7e3nyx17mvyqompqt&dl=1	Chill	Vibe	1913	168.557	531	25.283550	320
+25	Maboroshi (Hard) by Hyper Potions, Synthion & MYLK	/scl/fi/zwe336rowy83qv5vrjk3l/Maboroshi-Hard-by-Hyper-Potions-Synthion-MYLK.txt?rlkey=06mbjwp9oo68ssg6csuyoaern&dl=1	Flow	Chill	1403	118.698	351	17.804700	351
+25	Sky Gazer (Hard) by ARForest	/scl/fi/i06xfsb0pdqouynp21qx2/Sky-Gazer-Hard-by-ARForest.txt?rlkey=fx5acr66f4tu2h2ogn1szn34r&dl=1	Chill	Beat	1659	134.151	419	20.122650	402
+25	Surf (Hard) by Hyper Potions	/scl/fi/696rak05uicfbsbxqzvqo/Surf-Hard-by-Hyper-Potions.txt?rlkey=f7li8u1igtopyxjl7q83yy1mo&dl=1	Vibe	Vibe	1207	111.974	316	16.796100	260
+25	Who Knows (Hard) by garlagan	/scl/fi/hvk5xl2yd755i959fc4qc/Who-Knows-Hard-by-garlagan.txt?rlkey=dd1re1qif480hfsvysh2lz48k&dl=1	Vibe	Flow	1692	170.452	460	25.567800	311
+25	Deja Reve (Hard) by GG Magree [Monstercat]	/scl/fi/ss5za2y0k63vgwpvcz3zw/Deja-Reve-Hard-by-GG-Magree-Monstercat.txt?rlkey=1vgv3rcpju10jmpq071jx2kib&dl=1	Flow	Flow	1550	153.499	407	23.024850	330
+25	Howlin' Pumpkin (Hard) by brz1128	/scl/fi/5hk6i9zx5cvqk4qipm40g/Howlin-Pumpkin-Hard-by-brz1128.txt?rlkey=wsywm2zwy1gff4w0tqkg79566&dl=1	Vibe	Beat	1607	140.351	451	21.052650	253
+25	Fairy Dance (Hard) by UNDEAD CORPORATION	/scl/fi/lntm0kp1jzzm0y6t8yyyx/Fairy-Dance-Hard-by-UNDEAD-CORPORATION.txt?rlkey=c1146x72l31tat1h7yn9tmucm&dl=1	Vibe	Rush	1858	175.722	568	26.358300	153
+25	Lights Out (Hard) by Maliboux	/scl/fi/mrjy6cl4fyekkl0o5u0db/Lights-Out-Hard-by-Maliboux.txt?rlkey=f67atsao73yc3p27tdjkbny4u&dl=1	Beat	Chill	1855	149.969	476	22.495350	428
+25	Sad Dream (Hard) by UNDEAD CORPORATION	/scl/fi/y0ys9nfan4hua0qxwm7kq/Sad-Dream-Hard-by-UNDEAD-CORPORATION.txt?rlkey=0rdwtrzson3b8orgjac50fvyp&dl=1	Chill	Flow	1956	154.610	586	23.191500	199
+25	If The Sun Went Out (Hard) by tv room	/scl/fi/pjr0ypogol5mf5xjj7sgo/If-The-Sun-Went-Out-Hard-by-tv-room.txt?rlkey=s8t2r3rau1gtlbpx8rfszr0k1&dl=1	Flow	Beat	1144	110.269	287	16.540350	283
+25	cheatreal (Hard) by t+pazolite	/scl/fi/0icr7dlffxcvxn4ak2mo5/cheatreal-Hard-by-t-pazolite.txt?rlkey=dze2rac4csdfxb9psxi22bzmo&dl=1	Beat	Flow	2412	158.135	598	23.720250	619
+25	Grimoire of Blue (Hard) by Team Grimoire	/scl/fi/gbquljeg21o3juseflqh4/Grimoire-of-Blue-Hard-by-Team-Grimoire.txt?rlkey=a2q5n45xn7pm828k9aa3ji62k&dl=1	Chill	Chill	1405	152.086	464	22.812900	12
+25	In My Heart (Hard) by Silentroom	/scl/fi/348y8wp6riqaciyag3lds/In-My-Heart-Hard-by-Silentroom.txt?rlkey=34ejeykzkmii1kymp5tm7n6zb&dl=1	Chill	Chill	1813	158.370	425	23.755500	539
+25	Untitled Soul (Hard) by HyuN feat. rerone	/scl/fi/xsnt1x7yaa1lmbfcuhnjg/Untitled-Soul-Hard-by-HyuN-feat.-rerone.txt?rlkey=bat36wqxol6xbscul13qs620b&dl=1	Vibe	Beat	1534	133.234	447	19.985100	192
+25	A City That Rejoices In Love (Hard) by Chroma	/scl/fi/eszexhrbuj6nfohxoleks/A-City-That-Rejoices-In-Love-Hard-by-Chroma.txt?rlkey=sepyqgzbtr8l5v0387g18e9kw&dl=1	Flow	Vibe	2184	196.860	527	29.529000	603
+25	Comet (Hard) by Synthion	/scl/fi/vtdzkzoiqjhop1fks3chy/Comet-Hard-by-Synthion.txt?rlkey=sq48ikodq9ivl6srpxbnrwwst&dl=1	Vibe	Rush	1325	113.171	310	16.975650	396
+25	Burn (Hard) by iGottic [No Scope Arcade]	/scl/fi/w3pulmtmqhc68c0yhl4v6/Burn-Hard-by-iGottic-No-Scope-Arcade.txt?rlkey=lav603vtsh1nkomeiqitwv5dd&dl=1	Rush	Rush	1496	129.142	411	19.371300	262
+25	Hype & Love (Hard) by Halv	/scl/fi/14hobiu7ooyppxxoguip5/Hype-Love-Hard-by-Halv.txt?rlkey=hdf5u5dedbo1imsvf9wvin2mz&dl=1	Flow	Beat	1496	147.557	412	22.133550	261
+25	Step to Sky (Hard) by EmoCosine	/scl/fi/c7rnd5u6gt40spd6y258j/Step-to-Sky-Hard-by-EmoCosine.txt?rlkey=7zagm6vw88fwctfjx5bte7tcb&dl=1	Chill	Flow	1555	142.700	471	21.405000	141
+25	Tokyo (Hard) by Kanro	/scl/fi/yrrffgbg9wfvl727dwnch/Tokyo-Hard-by-Kanro.txt?rlkey=m8wmynqjk0svs3cpj98re6q8n&dl=1	Flow	Rush	1315	141.518	364	21.227700	223
+25	mhnmtbr (Hard) by keisei (feat. Hatsune Miku)	/scl/fi/hrn07gzuvbfb63snjo2k7/mhnmtbr-Hard-by-keisei-feat.-Hatsune-Miku.txt?rlkey=pmdu44l45q0tzm0zu2rutebm5&dl=1	Chill	Flow	1046	99.438	296	14.915700	159
+25	Vaportrailed (Radio Edit) (Hard) by Reku Mochizuki	/scl/fi/l5kbaxmzps9y7dyv4eeie/Vaportrailed-Radio-Edit-Hard-by-Reku-Mochizuki.txt?rlkey=0m7xs2g7xzpaqbvmqavfmw1o9&dl=1	Flow	Vibe	1346	143.775	398	21.566250	153
+25	All I Want (Hard) by nanobii	/scl/fi/0kkn6sjt71hxvu8p9pgrp/All-I-Want-Hard-by-nanobii.txt?rlkey=rmx3ivekv4kie67w48s9m610v&dl=1	Chill	Chill	1679	148.843	414	22.326450	437
+25	Don't Need You (Hard) by Project Skylate	/scl/fi/p1wuw17wf9d62n53s9mdh/Don-t-Need-You-Hard-by-Project-Skylate.txt?rlkey=9lucmsq44i79zujvlm81ozvf0&dl=1	Vibe	Vibe	1919	201.949	466	30.292350	522
+25	Marble Spray (Hard) by you	/scl/fi/8szltlurajlh6x50ha2nu/Marble-Spray-Hard-by-you.txt?rlkey=gfeoey01tmlb8x2lsrg13th8p&dl=1	Rush	Chill	2156	173.319	536	25.997850	547
+25	midnight crisis (Hard) by AAAA	/scl/fi/e1t25ani9kfv0wnav727a/midnight-crisis-Hard-by-AAAA.txt?rlkey=nd0qlk0w8bhgaetub24yhjd0h&dl=1	Flow	Beat	2488	195.528	616	29.329200	640
+25	Sokka (Hard) by you	/scl/fi/t9jzcpybiprtrarj58xf5/Sokka-Hard-by-you.txt?rlkey=lptzoogzfqz96dxv3p1rfo5i9&dl=1	Flow	Vibe	1920	156.232	436	23.434800	612
+24	Rice Expedition - Looking for the Voice of Dawn (Hard) by Chroma feat. Uchu Imagawa	/scl/fi/gkwtsxm1m0pjy4sfd0c90/Rice-Expedition-Looking-for-the-Voice-of-Dawn-Hard-by-Chroma-feat.-Uchu-Imagawa.txt?rlkey=cvo2musnj7flapgnjjqqmctkp&dl=1	Vibe	Vibe	1905	186.365	524	27.954750	334
+24	Challenger (Hard) by Creo	/scl/fi/qj663ofvj7jlxefvjd6vw/Challenger-Hard-by-Creo.txt?rlkey=qe5dw5klmho2nwm0a7uwwxvdd&dl=1	Chill	Beat	1730	157.479	414	23.621850	488
+24	Chasin' (Hard) by KepoWorld	/scl/fi/xrfcflhhxwrmjemlvypwd/Chasin-Hard-by-KepoWorld.txt?rlkey=p6iui8bkf4rl6fidii4h7jvhu&dl=1	Vibe	Chill	1370	180.816	366	27.122400	272
+24	I Caught a Hacker (Hard) by BSlick feat. Thinknoodles	/scl/fi/4ynboj3nycc8mh6wpein7/I-Caught-a-Hacker-Hard-by-BSlick-feat.-Thinknoodles.txt?rlkey=sghtulw0pswtdcq1hsc97isn9&dl=1	Flow	Rush	1909	157.381	473	23.607150	491
+24	introduction - INSANE INFLAME (Hard) by Camellia	/scl/fi/94cympxsh3aqz306zz11g/introduction-INSANE-INFLAME-Hard-by-Camellia.txt?rlkey=wr4i89wmoy5nvneus59k47m16&dl=1	Vibe	Chill	987	113.976	304	17.096400	75
+24	Wanna See A Light (Hard) by Rutra	/scl/fi/765tez054mdz0nf39871j/Wanna-See-A-Light-Hard-by-Rutra.txt?rlkey=a0rbrjohvnhjhyvc63lwot8q7&dl=1	Beat	Rush	1825	174.033	494	26.104950	343
+24	Happy Touch! (Hard) by Yui Shimada [Nash Music Library]	/scl/fi/1oef4b192ec32muphpp8d/Happy-Touch-Hard-by-Yui-Shimada-Nash-Music-Library.txt?rlkey=sj2agl6s5u8v997rdznya21dm&dl=1	Chill	Rush	1671	138.143	423	20.721450	401
+24	Insight (Hard) by Haywyre	/scl/fi/bt8x2yeuhsvcmdr9tlitz/Insight-Hard-by-Haywyre.txt?rlkey=a48lpknm4602j483jinqvgpwz&dl=1	Vibe	Chill	1378	147.472	431	22.120800	86
+24	Galactic Voyage (Hard) by PIXL [Monstercat]	/scl/fi/tos6hanlftj9geh359bnf/Galactic-Voyage-Hard-by-PIXL-Monstercat.txt?rlkey=5ej2dppzvx2xjsuns1lfhk68j&dl=1	Beat	Rush	1903	197.920	461	29.688000	521
+24	RDC Anthem (Hard) by BSlick	/scl/fi/sr4he5576av4j8v8hx1uf/RDC-Anthem-Hard-by-BSlick.txt?rlkey=rlsskgl4w47ucszye9e1ipwlg&dl=1	Rush	Rush	1600	159.334	411	23.900100	368
+24	The Friends We Made (RB Battles) (Hard) by RussoPlays	/scl/fi/zlyyv8y484c8nr0q33n2h/The-Friends-We-Made-RB-Battles-Hard-by-RussoPlays.txt?rlkey=12hbdkzh5nsgm9u6qbowswwps&dl=1	Beat	Chill	1292	126.881	369	19.032150	185
+24	Worlds (Hard) by Creo	/scl/fi/o4ckw3cznlnx08sycza2p/Worlds-Hard-by-Creo.txt?rlkey=nu8t65puwkocbmzkbc7inxocj&dl=1	Beat	Beat	1752	172.924	444	25.938600	420
+24	Summer Time Lover (Hard) by Yui Shimada [Nash Music Library]	/scl/fi/9yjrpn9myprb2bdaj4p6u/Summer-Time-Lover-Hard-by-Yui-Shimada-Nash-Music-Library.txt?rlkey=7xj8g5dkx3wxapl1et47ctqbm&dl=1	Vibe	Chill	1668	163.057	476	24.458550	239
+24	AfterLife (Hard) by KepoWorld	/scl/fi/ugr0okdovjr34s3x8niy8/AfterLife-Hard-by-KepoWorld.txt?rlkey=c7znvtscdbty8rrg8hrwpe418&dl=1	Beat	Chill	2053	179.973	500	26.995950	554
+24	Can't Stop Our Noise [EXTENDED CUT] (Hard) by coda	/scl/fi/5lurt7qnt1ly71y2q6314/Can-t-Stop-Our-Noise-EXTENDED-CUT-Hard-by-coda.txt?rlkey=fb1hgjsp5ajj24ph4y00tuykz&dl=1	Chill	Vibe	2299	230.360	602	34.554000	492
+24	Dorito Dust (Hard) by coda	/scl/fi/zr8v9f0h8ibu4qkm4vtz2/Dorito-Dust-Hard-by-coda.txt?rlkey=m67ljlwahjx3yzf9m91x6cdhd&dl=1	Chill	Flow	1864	157.747	542	23.662050	239
+24	Moneko (Hard) by Geoxor	/scl/fi/hrdihh1z9ts5hqoe4l1pu/Moneko-Hard-by-Geoxor.txt?rlkey=rrn6ejftga1tr7szvzx3673o7&dl=1	Vibe	Beat	1496	151.630	373	22.744500	376
+24	tires on fire (Hard) by coda	/scl/fi/iz4zcjcrlddazq8lz4zeu/tires-on-fire-Hard-by-coda.txt?rlkey=n01qrv5gqd0siwhm4ys3866o7&dl=1	Beat	Rush	1442	123.329	430	18.499350	153
+24	Aulture (Hard) by Silentroom	/scl/fi/sg6eky3w1rljulx7y79ji/Aulture-Hard-by-Silentroom.txt?rlkey=04f3l2qnwggyr1414856nz30u&dl=1	Vibe	Chill	1617	134.610	485	20.191500	163
+24	Angel Echo (Hard) by Silentroom	/scl/fi/htifuslbubqg84ftwsc13/Angel-Echo-Hard-by-Silentroom.txt?rlkey=yoa8z5lxddwnnv7zjo8qn343p&dl=1	Beat	Flow	1116	121.230	288	18.184500	252
+24	All Over the Place - Geoxor Mashup [EXTENDED CUT] (Hard) by Geoxor (Arranged by Got1Butter)	/scl/fi/toylhwvxq0gcadr0ieftc/All-Over-the-Place-Geoxor-Mashup-EXTENDED-CUT-Hard-by-Geoxor-Arranged-by-Got1Butter.txt?rlkey=92ts8ad2xdz2htmdr9djmra5n&dl=1	Chill	Rush	2177	224.604	547	33.690600	535
+24	God Complex (Hard) by firedagger01	/scl/fi/myr2cmxrm3oet4rhbducj/God-Complex-Hard-by-firedagger01.txt?rlkey=y11kypp9ttkr5sobvyuyjzr04&dl=1	Rush	Rush	1243	148.135	360	22.220250	162
+24	Revolutionary Etude (Hard) by Frederic Chopin (Performed by Rousseau)	/scl/fi/yuwucbu4xtg2yx6p1mesm/Revolutionary-Etude-Hard-by-Frederic-Chopin-Performed-by-Rousseau.txt?rlkey=7e4m9bk5usewm7acs9zyq221g&dl=1	Rush	Rush	1573	153.975	520	23.096250	12
+24	The Best of Creo Vol. 1 [EXTENDED CUT] (Hard) by Creo (Arranged by ZirconEscalus)	/scl/fi/hlbjmjpk6di0msvi31swn/The-Best-of-Creo-Vol.-1-EXTENDED-CUT-Hard-by-Creo-Arranged-by-ZirconEscalus.txt?rlkey=7qjz1ybes53wiz4vvgcc0p1yd&dl=1	Chill	Chill	2959	356.243	769	53.436450	651
+24	AI Bomb (ZirconEscalus Remix) (Hard) by ZirconEscalus (Original song by naruto2413)	/scl/fi/vsojeulxux4bptn32dsq7/AI-Bomb-ZirconEscalus-Remix-Hard-by-ZirconEscalus-Original-song-by-naruto2413.txt?rlkey=tgt1jo8mkvf16muf5eqhiso4e&dl=1	Rush	Beat	1410	125.585	434	18.837750	108
+24	Irish Meadow Dance (Hard) by O'Callaghan's Orchestra [Just Dance]	/scl/fi/g0jf760etxsooammp2fbr/Irish-Meadow-Dance-Hard-by-O-Callaghan-s-Orchestra-Just-Dance.txt?rlkey=09gw68iy4r7q9n74rx4e2dai1&dl=1	Vibe	Vibe	2013	150.616	491	22.592400	541
+24	Lost (Hard) by Tobu	/scl/fi/qtuqqknl4e5qe4o4vcj9j/Lost-Hard-by-Tobu.txt?rlkey=az6q1h57ut7qhvmdnbnbxg125&dl=1	Vibe	Chill	1886	174.420	562	26.163000	201
+24	MS. MEDIOCRE (Hard) by atsuover	/scl/fi/5t80ifppdtu28r861awl3/MS.-MEDIOCRE-Hard-by-atsuover.txt?rlkey=spsk0akpx01oim4rgfpsclicj&dl=1	Chill	Vibe	1458	144.447	454	21.667050	97
+24	Shiba Island (Hard) by James Landino	/scl/fi/7fdpvglkehiyr28lq5awf/Shiba-Island-Hard-by-James-Landino.txt?rlkey=za6mbz22z48arizlngbyyxo8u&dl=1	Beat	Chill	1580	119.606	375	17.940900	455
+24	Something Like A Star (Hard) by CLO (feat. VLEEDOLL)	/scl/fi/mq3j4atwx9etw8m1ryyyx/Something-Like-A-Star-Hard-by-CLO-feat.-VLEEDOLL.txt?rlkey=7t97efuyi7o0vzh9pz14nxwly&dl=1	Chill	Chill	1046	160.932	234	24.139800	345
+24	Wednesday Night Wreckin (Hard) by James Landino	/scl/fi/8wg8p0m7d3j23kmk55g2m/Wednesday-Night-Wreckin-Hard-by-James-Landino.txt?rlkey=l5wszuw9kwt1rrrcd885puzrl&dl=1	Flow	Chill	1592	139.554	470	20.933100	181
+24	Abyss Dweller (Hard) by Similar Outskirts	/scl/fi/0r8uxkwm5woj0f6tfh93h/Abyss-Dweller-Hard-by-Similar-Outskirts.txt?rlkey=prfpbav6g08jx9ow70w2zqbnk&dl=1	Chill	Flow	1099	134.975	290	20.246250	229
+24	Blast Processing (Hard) by Waterflame	/scl/fi/wzzzxiqhnzn86r52ysym3/Blast-Processing-Hard-by-Waterflame.txt?rlkey=futv0f8gbnsbwh1y6punrc2if&dl=1	Beat	Beat	1544	146.004	446	21.900600	205
+24	Chaos (Hard) by Similar Outskirts	/scl/fi/n1c1s1q26sv9ri4byzky1/Chaos-Hard-by-Similar-Outskirts.txt?rlkey=uvdrtv0t8v85mpcmxhhyrto6r&dl=1	Flow	Beat	944	103.976	284	15.596400	93
+24	Endgame (Hard) by Waterflame	/scl/fi/a8arx3er21oc3dd8uy1bc/Endgame-Hard-by-Waterflame.txt?rlkey=hx9sy417rnnkz08gp3jpx1ltv&dl=1	Flow	Flow	1705	134.148	511	20.122200	173
+24	Let's Go (Hard) by Tobu	/scl/fi/zh0jrp1fn703s5ixs6eue/Let-s-Go-Hard-by-Tobu.txt?rlkey=fyldp6mqqr6uzq7jaromhtmiw&dl=1	Beat	Flow	1449	150.598	359	22.589700	373
+24	Lines Fading (Hard) by Waterflame	/scl/fi/9qjp9r67bb7qxyud4smxx/Lines-Fading-Hard-by-Waterflame.txt?rlkey=c0e99t921qiziny5ngk9iiver&dl=1	Chill	Flow	1387	145.834	421	21.875100	123
+24	Aether (Hard) by Geoxor	/scl/fi/ecqc17b3n6ckw70eqjk4n/Aether-Hard-by-Geoxor.txt?rlkey=th0ukqdir7o944xrhwvpn52k4&dl=1	Vibe	Flow	1156	131.979	301	19.796850	254
+24	Change (Hard) by hayve & Skyelle [Monstercat]	/scl/fi/x40l0bsukw2tp9jnf644j/Change-Hard-by-hayve-Skyelle-Monstercat.txt?rlkey=8bfolez5m851h33843ekx1hpn&dl=1	Beat	Chill	877	100.137	220	15.020550	219
+24	Collapse (Hard) by Laur [LAUR1200] feat. Nakuru Aitsuki	/scl/fi/bnm52uts5sn9khk4l0gal/Collapse-Hard-by-Laur-LAUR1200-feat.-Nakuru-Aitsuki.txt?rlkey=1v2nx05sa45722omrr3rugqn7&dl=1	Flow	Rush	1168	129.168	308	19.375200	244
+24	Scared (Hard) by Stonebank [Monstercat]	/scl/fi/kl9mbbotdqmdojxu3sijj/Scared-Hard-by-Stonebank-Monstercat.txt?rlkey=ty65b2p3k26d87et1ffc3qa6x&dl=1	Rush	Beat	1027	102.529	268	15.379350	225
+24	Twinkle Parade (Hard) by brz1128	/scl/fi/cm9ytztzdzli0j1a2q6vq/Twinkle-Parade-Hard-by-brz1128.txt?rlkey=tyt33cma5rq4ln0plsfi4d89w&dl=1	Flow	Flow	1132	113.226	366	16.983900	34
+24	Where We Wanna Be (Hard) by Hyper Potions & Mega Flare feat. Slyleaf	/scl/fi/dy6ns9ohas8zllpoelc2g/Where-We-Wanna-Be-Hard-by-Hyper-Potions-Mega-Flare-feat.-Slyleaf.txt?rlkey=l6za3j48acxmucj9oiaxni2id&dl=1	Rush	Vibe	1514	134.474	378	20.171100	379
+24	7colors memories (Hard) by Reku Mochizuki feat. Seyaka	/scl/fi/n68ntc8omwgfngtv549ic/7colors-memories-Hard-by-Reku-Mochizuki-feat.-Seyaka.txt?rlkey=r2dsqzz893c3y4uxfk10e8ni0&dl=1	Vibe	Chill	1463	128.195	370	19.229250	353
+24	Artificial Affection (Hard) by Reku Mochizuki	/scl/fi/b84t730qlk5koax0tk9q7/Artificial-Affection-Hard-by-Reku-Mochizuki.txt?rlkey=olcb7w7fz7d5tzprfijvs277w&dl=1	Flow	Beat	1409	118.094	411	17.714100	175
+24	Karakuri (Hard) by seatrus feat. Hatsune Miku	/scl/fi/npuryy1wdo8nvtauwkveu/Karakuri-Hard-by-seatrus-feat.-Hatsune-Miku.txt?rlkey=f1ln8qkk9nuujk15k08hzmc9j&dl=1	Vibe	Rush	1837	166.761	562	25.014150	151
+24	Glow Mind (Hard) by Rutra	/scl/fi/i3ls9jqlp0akus91zes0u/Glow-Mind-Hard-by-Rutra.txt?rlkey=jy6d2o54su3g7czm02qsqnlt6&dl=1	Flow	Flow	1358	128.000	354	19.200000	296
+24	The Dream Of A Rabbit Singing In The Night (Hard) by UNDEAD CORPORATION	/scl/fi/e2q8thmjl88dlv1rhmhtu/The-Dream-Of-A-Rabbit-Singing-In-The-Night-Hard-by-UNDEAD-CORPORATION.txt?rlkey=d2vg1hk7qwp7343r8fmt5ecg9&dl=1	Flow	Vibe	1758	142.695	476	21.404250	330
+24	Vulture 2 (Hard) by Rutra	/scl/fi/oid1vy1r51pd6lhniwoq6/Vulture-2-Hard-by-Rutra.txt?rlkey=rt1gruy6vdcu6rqqle2o0log2&dl=1	Vibe	Vibe	1025	120.935	290	18.140250	155
+24	Exodus (Hard) by HyuN feat. Aerial	/scl/fi/xvxnqmte4vrx7zefnqmrf/Exodus-Hard-by-HyuN-feat.-Aerial.txt?rlkey=4v2qpmrnxbsxitkdntb4lbb87&dl=1	Flow	Vibe	1430	149.985	393	22.497750	251
+24	Expedition (Hard) by Hyper Potions & Nokae	/scl/fi/eid51b6jtosmbp2kyuh1i/Expedition-Hard-by-Hyper-Potions-Nokae.txt?rlkey=1v9x5gadi860fblbieaw7hs24&dl=1	Flow	Vibe	1381	143.984	385	21.597600	227
+24	META-morphose (Hard) by Silentroom	/scl/fi/gtx3xuidont9qgnh8vypk/META-morphose-Hard-by-Silentroom.txt?rlkey=edoh6djvxc3leo8tphf9e1ris&dl=1	Chill	Flow	1812	152.699	473	22.904850	392
+24	MAGENTA POTION (Hard) by EmoCosine	/scl/fi/wy5n3pl9mb7iypnsceorq/MAGENTA-POTION-Hard-by-EmoCosine.txt?rlkey=8214vsazvj2ebtzgygnw0b8jl&dl=1	Rush	Vibe	1529	144.280	438	21.642000	216
+24	Niesonae (Hard) by t+pazolite feat. Nanahira	/scl/fi/zteele6g0xqakl00c76m1/Niesonae-Hard-by-t-pazolite-feat.-Nanahira.txt?rlkey=n9in9uax2rulk2f24gm26k5ng&dl=1	Rush	Chill	1966	178.306	463	26.745900	578
+24	Bright City (Hard) by keisei (feat. Hatsune Miku)	/scl/fi/rk1l09x448lvzwj30jrwt/Bright-City-Hard-by-keisei-feat.-Hatsune-Miku.txt?rlkey=1st9a340xq8y80o9xar70iedk&dl=1	Vibe	Beat	1265	116.344	314	17.451600	324
+24	Party in the HOLLOWood (Hard) by t+pazolite feat. Nanahira	/scl/fi/o5vk1n6nmsh6l4b1bevfd/Party-in-the-HOLLOWood-Hard-by-t-pazolite-feat.-Nanahira.txt?rlkey=6dxd3arcyt5527kkwf7pvxcig&dl=1	Chill	Vibe	1846	155.056	513	23.258400	307
+24	Lost Dream (Hard) by Juggernaut (feat. Hoshina Haru from i-robo)	/scl/fi/9mvumiux69uhy9wczcgmi/Lost-Dream-Hard-by-Juggernaut-feat.-Hoshina-Haru-from-i-robo.txt?rlkey=6w9wa1h0prbf0ka2y3vukqb1l&dl=1	Vibe	Vibe	1307	127.347	344	19.102050	274
+24	Revenant Rebirth (Hard) by iGottic [No Scope Arcade]	/scl/fi/tlaphq3wl2dzercuw8u6q/Revenant-Rebirth-Hard-by-iGottic-No-Scope-Arcade.txt?rlkey=7moqm4datw04bu4uccqqedtzo&dl=1	Flow	Flow	1119	109.846	313	16.476900	180
+24	Yabai-Jan (Hard) by Halv	/scl/fi/ssy8vy9n9dwzzjeyutgu9/Yabai-Jan-Hard-by-Halv.txt?rlkey=f78puvdfi8hivt91flwfiwmsk&dl=1	Beat	Beat	1418	142.825	379	21.423750	280
+24	superexpress (Hard) by keisei (feat. Hatsune Miku)	/scl/fi/1y1s19m8heohr70mg9afd/superexpress-Hard-by-keisei-feat.-Hatsune-Miku.txt?rlkey=kvtud4lanctvci5aljsbrbvfz&dl=1	Vibe	Chill	1436	151.071	372	22.660650	320
+24	spectre (Hard) by keisei (feat. Hanakuma Chifuyu)	/scl/fi/ky7qe0qpnji8ntal9bqf6/spectre-Hard-by-keisei-feat.-Hanakuma-Chifuyu.txt?rlkey=a8t7asjczoz91f4l0deub3vmf&dl=1	Chill	Vibe	1587	151.876	418	22.781400	334
+24	Winter Sky Discovery (Hard) by keisei (feat. Hatsune Miku)	/scl/fi/ays22piiza8u16spaiav9/Winter-Sky-Discovery-Hard-by-keisei-feat.-Hatsune-Miku.txt?rlkey=q38svcji4wrqbu13g5ekbukqe&dl=1	Chill	Vibe	1014	120.005	273	18.000750	196
+24	Bubble Beam (Hard) by nanobii	/scl/fi/6711czb4j6ujdy3ch3ii2/Bubble-Beam-Hard-by-nanobii.txt?rlkey=bqsdrqgyadphh5ejk9hnfh34n&dl=1	Flow	Chill	1790	166.686	426	25.002900	512
+24	My Childish Philosophy (Hard) by AAAA	/scl/fi/ismuyen4ao3l0vz0pqze6/My-Childish-Philosophy-Hard-by-AAAA.txt?rlkey=p4bwwn1qg4sv73c1bdfcs1w4a&dl=1	Flow	Chill	1437	156.116	454	23.417400	74
+24	Out of Focus (Hard) by you	/scl/fi/45htlwun5cjkld24ocn86/Out-of-Focus-Hard-by-you.txt?rlkey=z016yxvck7vll62b0w3fus1yq&dl=1	Flow	Flow	1900	150.015	432	22.502250	603
+23	The Guardians Of The Sun (Hard) by RiraN	/scl/fi/ahemgtljudozk0auo8xwf/The-Guardians-Of-The-Sun-Hard-by-RiraN.txt?rlkey=vkp66o9kn08xr5oaxjolr1w6n&dl=1	Beat	Rush	1247	150.375	359	22.556250	170
+24	Yayey (Hard) by Shandy Kubota (USAO)	/scl/fi/lfbhy8gcqawh92bfz1gno/Yayey-Hard-by-Shandy-Kubota-USAO.txt?rlkey=1ehlbfv81x0s8vh5hcf460c4v&dl=1	Flow	Chill	1359	181.488	403	27.223200	149
+23	Dad Battle (Hard) by Kawai Sprite	/scl/fi/o6cgwrp8uxb7tnggkwveu/Dad-Battle-Hard-by-Kawai-Sprite.txt?rlkey=f3pqray7pji9j3u8o6lkkpvdt&dl=1	Chill	Beat	1051	85.364	307	12.804600	132
+23	Fly Wit Me (Hard) by Camellia	/scl/fi/tkpqwppx2a2l3bn2ujnjl/Fly-Wit-Me-Hard-by-Camellia.txt?rlkey=0c4eebqq5jze75l5l0dj6tqoq&dl=1	Vibe	Flow	1181	121.388	310	18.208200	253
+23	drive real fast (on fire) (Hard) by coda	/scl/fi/ju7bidw7bryykie6il7hu/drive-real-fast-on-fire-Hard-by-coda.txt?rlkey=igbumari7qasxxbwbnnqofk1u&dl=1	Vibe	Chill	906	74.207	266	11.131050	108
+23	InsideOut (Hard) by KepoWorld	/scl/fi/rv11xjsu1ol4l6vsh4q71/InsideOut-Hard-by-KepoWorld.txt?rlkey=68xys1o6ix1kqvsy5ox8mg9ri&dl=1	Vibe	Rush	1526	165.452	411	24.817800	292
+23	Nocturne Silence Of The Night (Hard) by EntityEnginuity	/scl/fi/v4p6vpn2oq2a77duvv52u/Nocturne-Silence-Of-The-Night-Hard-by-EntityEnginuity.txt?rlkey=gogred136ln2z89rygnrzomjq&dl=1	Vibe	Chill	1182	129.058	344	19.358700	151
+23	2 Sides (Hard) by KepoWorld	/scl/fi/p49bbo0s0b7c2cxvx3ox6/2-Sides-Hard-by-KepoWorld.txt?rlkey=nhmgiqnycbbhp5jp0vnihlpds&dl=1	Vibe	Beat	1420	175.067	416	26.260050	172
+23	Epilogue (Hard) by Creo	/scl/fi/85calteok4myxvrzluh4g/Epilogue-Hard-by-Creo.txt?rlkey=cmtsjvkrfen3jupf9qeq346ph&dl=1	Vibe	Rush	962	106.156	226	15.923400	286
+23	Don't Wanna (Hard) by tv room	/scl/fi/9k80shz1u69v59xcziupr/Don-t-Wanna-Hard-by-tv-room.txt?rlkey=sdv224608hbdexeynb8putom7&dl=1	Chill	Rush	1260	136.583	317	20.487450	311
+23	Inspire (Hard) by CLO	/scl/fi/oey9ugh264pfwy2ysls6q/Inspire-Hard-by-CLO.txt?rlkey=udisjxs6p2hwd4qmjsiznvkoz&dl=1	Beat	Flow	1031	142.807	263	21.421050	243
+23	INTIMIDATE (Hard) by KepoWorld	/scl/fi/an9h3jntk41kpqvxeae7c/INTIMIDATE-Hard-by-KepoWorld.txt?rlkey=sfk2qwt7guq4joxwkrly1w825&dl=1	Beat	Rush	1351	182.358	324	27.353700	381
+23	Learn The Language (Hard) by Chroma	/scl/fi/9g2h9ijv45orlgy4wnfwy/Learn-The-Language-Hard-by-Chroma.txt?rlkey=myfi59kozjmkkg8ttvjrv0yy1&dl=1	Vibe	Flow	1393	161.769	379	24.265350	255
+23	Virtual [EXTENDED CUT] (Hard) by Geoxor	/scl/fi/hzpfkglcme0g9b5oldp1b/Virtual-EXTENDED-CUT-Hard-by-Geoxor.txt?rlkey=hgg4dn84fuxla6dcuz50c0pop&dl=1	Beat	Chill	2649	299.110	662	44.866500	662
+23	Heat Wave (Hard) by Tony Romera [Monstercat]	/scl/fi/kyhl6m9vylp6o5lv3wgx6/Heat-Wave-Hard-by-Tony-Romera-Monstercat.txt?rlkey=6q7zign3hume17a7rd7wdcadp&dl=1	Flow	Rush	1122	121.147	337	18.172050	111
+23	Faerie (Hard) by Geoxor	/scl/fi/0x0aadovsyahtmnde5zxc/Faerie-Hard-by-Geoxor.txt?rlkey=ziyvcd74wec0g4epxvcbhr4zl&dl=1	Vibe	Beat	1452	151.593	346	22.738950	414
+23	Holography (Hard) by garlagan	/scl/fi/d9xzd3d4eqyxihurax6mi/Holography-Hard-by-garlagan.txt?rlkey=qa71zfwfaxdtjqa0ni1d9e497&dl=1	Rush	Beat	1133	114.375	303	17.156250	225
+23	Infection (Hard) by ARForest	/scl/fi/p9yudu07s2dpl022h26sb/Infection-Hard-by-ARForest.txt?rlkey=a10ctnhytsunimhtu08aq08uh&dl=1	Flow	Chill	1315	140.915	326	21.137250	337
+23	Mom (Hard) by Kawai Sprite	/scl/fi/w2j7lvyskbskrdhzzr4jo/Mom-Hard-by-Kawai-Sprite.txt?rlkey=24vgyjqilla085t1scuczg54p&dl=1	Flow	Rush	1359	120.836	380	18.125400	218
+23	SHINE! (Hard) by Aya Majiro, Street no Kuromaku and naruto2413	/scl/fi/svpt0bdoc4awy8pzgs7ib/SHINE-Hard-by-Aya-Majiro-Street-no-Kuromaku-and-naruto2413.txt?rlkey=9x554hyvzhvexh7rdpt18gqvb&dl=1	Beat	Vibe	1048	109.027	269	16.354050	243
+23	Birdsong (Hard) by James Landino & Kabuki	/scl/fi/bqdowwb6j4oluxi2ksjgn/Birdsong-Hard-by-James-Landino-Kabuki.txt?rlkey=wyfutlmw396bx5ual11whundg&dl=1	Chill	Chill	1251	128.162	353	19.224300	193
+23	BLISS (Hard) by dark cat (feat. JHACS)	/scl/fi/pxvd739ajihcah03yrffe/BLISS-Hard-by-dark-cat-feat.-JHACS.txt?rlkey=7dmsa473bdifyrvy1uvtev4b0&dl=1	Flow	Flow	1137	136.246	303	20.436900	228
+23	BANANA STREET (Hard) by dark cat	/scl/fi/trk2rgedkzpj3apkjc2yl/BANANA-STREET-Hard-by-dark-cat.txt?rlkey=wiy2lql0yjis1mpc0g2ylrj6z&dl=1	Vibe	Vibe	1149	138.657	292	20.798550	274
+23	Groovy Oats (Hard) by oatsig	/scl/fi/lxepf46it58ptnmd20gvq/Groovy-Oats-Hard-by-oatsig.txt?rlkey=dkgi6v9edcnre96u2w9nsd43q&dl=1	Vibe	Vibe	920	124.513	307	18.676950	0
+23	Quantum Love (Hard) by James Landino feat. punipunidenki	/scl/fi/6gxrtcyl7stvasuynsczf/Quantum-Love-Hard-by-James-Landino-feat.-punipunidenki.txt?rlkey=q5cklh1q653nqx0z81abaqk2f&dl=1	Chill	Chill	1600	143.539	468	21.530850	197
+23	Song of Adventures (Hard) by F-777	/scl/fi/zmtfo8nxsh01e77eo7x1o/Song-of-Adventures-Hard-by-F-777.txt?rlkey=5g09yvgdxm1eq3nfzrfeurgen&dl=1	Rush	Vibe	1331	148.467	404	22.270050	120
+23	Comfort Zone (Hard) by KepoWorld	/scl/fi/ny1fk242vgp3ptqfzn5jd/Comfort-Zone-Hard-by-KepoWorld.txt?rlkey=sg7qj3gjvaaf0pby48d4zovmw&dl=1	Chill	Vibe	1118	148.228	333	22.234200	120
+23	carol of the circles (Hard) by nekodex	/scl/fi/7kacqjfwevl2jjvpxlmpr/carol-of-the-circles-Hard-by-nekodex.txt?rlkey=mwxj3af1v2nzwr5oy5xg4gm6l&dl=1	Chill	Chill	1311	115.185	308	17.277750	387
+23	Level Up (Hard) by Rutra	/scl/fi/pgeo82j67p6yva1ayyirl/Level-Up-Hard-by-Rutra.txt?rlkey=c7dlroqquewq9exhgnl0x0vnv&dl=1	Vibe	Chill	1479	165.006	397	24.750900	289
+23	Miracle (Hard) by Tobu & Jim Yosef	/scl/fi/gpc7bv2qcdgcu1uyqbzpw/Miracle-Hard-by-Tobu-Jim-Yosef.txt?rlkey=uw9yqa25byfszsbqyczvmji0u&dl=1	Rush	Chill	1361	154.575	326	23.186250	383
+23	NERVES (Hard) by atsuover & Rageminer	/scl/fi/9hxl8sdiftcqagmtlwjwl/NERVES-Hard-by-atsuover-Rageminer.txt?rlkey=lqufk6keig1fqtzvnusbymq9v&dl=1	Chill	Chill	852	111.020	222	16.653000	186
+23	Arcade Punk (Hard) by Waterflame	/scl/fi/aix4x24zzu8n3bfvqtb72/Arcade-Punk-Hard-by-Waterflame.txt?rlkey=uuj9kcl60ol4m623wt3gopovp&dl=1	Beat	Flow	1347	133.202	389	19.980300	181
+23	Super Santa (Hard) by F-777	/scl/fi/24iyl0tejtlyargt9kr3y/Super-Santa-Hard-by-F-777.txt?rlkey=wfbow41p2e8fbd5cbu4howzgw&dl=1	Beat	Rush	1790	171.074	453	25.661100	430
+23	Brightest Star (Hard) by KepoWorld	/scl/fi/qr43u685mklm40fj1fd7k/Brightest-Star-Hard-by-KepoWorld.txt?rlkey=powrlzm8feitr22ojymhndxc9&dl=1	Chill	Flow	1005	142.401	278	21.360150	171
+23	Errors [Radio Edit] (Hard) by MH (Marquan Harper) feat. KRALC	/scl/fi/itsvtht18o72nt3u7c35g/Errors-Radio-Edit-Hard-by-MH-Marquan-Harper-feat.-KRALC.txt?rlkey=wxz6o7y49xdapto1l9tj7rold&dl=1	Beat	Beat	719	85.343	239	12.801450	2
+23	Hexagon Force (Hard) by Waterflame	/scl/fi/el51mc261f90o7eeiorg5/Hexagon-Force-Hard-by-Waterflame.txt?rlkey=wnzjlnl0awnl78juogr7ubgjo&dl=1	Flow	Chill	1036	100.123	245	15.018450	303
+23	Idol Encore (Hard) by Radical_Box [Tower Heroes]	/scl/fi/37ua6b2frcjtth4wtfr7f/Idol-Encore-Hard-by-Radical_Box-Tower-Heroes.txt?rlkey=yn3w2rxelt1cqbq19telykc7m&dl=1	Chill	Flow	1206	153.604	371	23.040600	93
+23	Starlight Strike (Hard) by Radical_Box [Tower Heroes]	/scl/fi/q3efpaj1mnasz6ct2a7fg/Starlight-Strike-Hard-by-Radical_Box-Tower-Heroes.txt?rlkey=r38jrm6nabp3m3y5r5k8jsotd&dl=1	Beat	Rush	1189	101.649	364	15.247350	97
+23	Get It Right (Hard) by Maliboux	/scl/fi/utx1h8pwpxxzzumh0zoqk/Get-It-Right-Hard-by-Maliboux.txt?rlkey=uq3vxnzmu3baau12wbhj92s2c&dl=1	Rush	Chill	1498	135.085	444	20.262750	166
+23	Puppy Raceway (Hard) by Hyper Potions & SAMME	/scl/fi/z205spgijiqz71d4gcraq/Puppy-Raceway-Hard-by-Hyper-Potions-SAMME.txt?rlkey=zkdhd1wxvt2t8ph7w77ig8kqy&dl=1	Rush	Beat	1140	98.512	261	14.776800	357
+23	If We Never (Hard) by Aiobahn & Vin [Monstercat]	/scl/fi/noxzh6f37pg8mbhw25n6v/If-We-Never-Hard-by-Aiobahn-Vin-Monstercat.txt?rlkey=m9hfkboyo6d9trin8kmcy23cp&dl=1	Chill	Vibe	1504	156.589	431	23.488350	212
+23	Snow Day (Hard) by Hyper Potions	/scl/fi/savwc21l48yxigm8ohq6k/Snow-Day-Hard-by-Hyper-Potions.txt?rlkey=s5bvd79qpii37ipv5xoc1n3y0&dl=1	Flow	Flow	1191	128.120	302	19.218000	287
+23	The Speed In My Soul (Hard) by CG5 & Hyper Potions	/scl/fi/0tmgba1m39rbaak001y6v/The-Speed-In-My-Soul-Hard-by-CG5-Hyper-Potions.txt?rlkey=q9l4a3fl4bi3i1v4pvnk697il&dl=1	Vibe	Chill	1359	157.925	390	23.688750	189
+23	Time Traveler (Hard) by Ponchi feat.GUMI [MisoilePunch]	/scl/fi/xynguj9wtt3ojp8st19wf/Time-Traveler-Hard-by-Ponchi-feat.GUMI-MisoilePunch.txt?rlkey=r3344e5qbo76zhq8y7zpzdjjc&dl=1	Flow	Beat	2446	196.331	728	29.449650	260
+23	We Won't Be Alone (Hard) by Feint (feat. Laura Brehm) [Monstercat]	/scl/fi/86zmsabxtc9etm1flvq85/We-Won-t-Be-Alone-Hard-by-Feint-feat.-Laura-Brehm-Monstercat.txt?rlkey=9by9qm9t98y0070no3u3ku8t6&dl=1	Flow	Beat	1532	176.097	408	26.414550	308
+23	Nepu Nepu Nepu (Hard) by Project Skylate	/scl/fi/tvdma8681njp1ww6dr90a/Nepu-Nepu-Nepu-Hard-by-Project-Skylate.txt?rlkey=76056yye1gc86z6ebz5sv5vwe&dl=1	Flow	Flow	1490	137.547	326	20.632050	513
+23	Skylate's Halloween Electro-Swing Spook-taculaire! (Hard) by Project Skylate	/scl/fi/m1a93gt3094qs6m2bcr49/Skylate-s-Halloween-Electro-Swing-Spook-taculaire-Hard-by-Project-Skylate.txt?rlkey=a9cs2dxeydztgplm9jz4vzec4&dl=1	Rush	Rush	1627	185.628	453	27.844200	268
+23	Pastel Emotions (Hard) by Reku Mochizuki	/scl/fi/7vee2h65oj14wsbwf6qji/Pastel-Emotions-Hard-by-Reku-Mochizuki.txt?rlkey=nzn8uvvqjnqbpgn16bk9ylksx&dl=1	Vibe	Vibe	1335	148.120	388	22.218000	170
+23	Spiky Spiky Bounce (Hard) by seatrus	/scl/fi/4v1ol5twcg5urvvq6sbvj/Spiky-Spiky-Bounce-Hard-by-seatrus.txt?rlkey=d9xvtkgn1fvohhuhd8nsoa60w&dl=1	Flow	Chill	1200	124.022	344	18.603300	167
+23	The Angel's Message (Hard) by Laur [LAUR1200] feat. Sennzai	/scl/fi/e2a8zxt03o3ae4xhgqcnn/The-Angel-s-Message-Hard-by-Laur-LAUR1200-feat.-Sennzai.txt?rlkey=vkxggwxwfpmdpudatuuc2y77p&dl=1	Chill	Vibe	1184	145.631	360	21.844650	105
+23	Snowy*heart [EXTENDED CUT] (Hard) by AAAA	/scl/fi/ppvkc66l6yc7rpttur9qt/Snowyheart-EXTENDED-CUT-Hard-by-AAAA.txt?rlkey=u6wu2aujavxfqku705vcrl5wq&dl=1	Chill	Flow	2486	227.080	625	34.062000	611
+22	Daydream (Hard) by RiraN	/scl/fi/ulp5i3nfc097oz31kit0r/Daydream-Hard-by-RiraN.txt?rlkey=7in0gqhu86co4nfg8sfooq75y&dl=1	Vibe	Vibe	1376	146.425	413	21.963750	138
+22	Make Your Body Shake (Hard) by Rutra	/scl/fi/0j1m9m8sytkov6mt8cvgz/Make-Your-Body-Shake-Hard-by-Rutra.txt?rlkey=317dgp1rd7x1vagy2xgj5k5vs&dl=1	Beat	Chill	872	120.892	271	18.133800	59
+22	Marche Militaire (Hard) by Franz Schubert (Remixed by TPRMX)	/scl/fi/pv2kgmt10oln8hyvymgeg/Marche-Militaire-Hard-by-Franz-Schubert-Remixed-by-TPRMX.txt?rlkey=q829dbc81gh25w9to9qgmxxg1&dl=1	Beat	Rush	1142	132.085	341	19.812750	120
+22	Philly Nice (Hard) by Kawai Sprite	/scl/fi/amcgu2983724r3zpstz2y/Philly-Nice-Hard-by-Kawai-Sprite.txt?rlkey=sauuelp1wo87ebgttszj7xcmn&dl=1	Vibe	Beat	1132	95.857	317	14.378550	181
+22	Rivals (Hard) by Creo	/scl/fi/cmtyi0b71qf8ktrnw8n5k/Rivals-Hard-by-Creo.txt?rlkey=w85r497zpegtx9w1mlr9pdb5g&dl=1	Chill	Beat	896	121.828	252	18.274200	142
+22	Color (Hard) by Grant feat. Juneau [Monstercat]	/scl/fi/4gclz95huv08emqyjy1kp/Color-Hard-by-Grant-feat.-Juneau-Monstercat.txt?rlkey=ua6d998z07y2pns9qitmfo85n&dl=1	Vibe	Flow	1042	106.149	249	15.922350	295
+22	Momentum (Hard) by Hinkik	/scl/fi/rqzp9u2tez3c6cdzl35qz/Momentum-Hard-by-Hinkik.txt?rlkey=p9rstcgjaum4g3oir0toqdbfc&dl=1	Chill	Chill	1638	172.141	475	25.821150	214
+22	Jump, Goober, Jump!! (Hard) by Joshua Kaplan (Open Heart Sound)	/scl/fi/22vvqzbd6o52s23urqjho/Jump-Goober-Jump-Hard-by-Joshua-Kaplan-Open-Heart-Sound.txt?rlkey=ft258mahf0erg0vpmxxlablya&dl=1	Flow	Chill	1545	150.775	340	22.616250	524
+22	Only You (Hard) by Dexter King feat. Alexis Donn [Monstercat]	/scl/fi/9696odcaq2l26j9hi6h44/Only-You-Hard-by-Dexter-King-feat.-Alexis-Donn-Monstercat.txt?rlkey=2jfq2c5ldab12zksn7w1k12sr&dl=1	Beat	Rush	1629	175.973	364	26.395950	537
+22	Galaxies (Hard) by Protostar [Monstercat]	/scl/fi/2xxgac38l9z7oejrdctmh/Galaxies-Hard-by-Protostar-Monstercat.txt?rlkey=r8bwpzs8t4y7m8xo1er4g679m&dl=1	Chill	Chill	973	112.550	271	16.882500	161
+22	Summer Supernova (Hard) by coda	/scl/fi/pxw5cv2pr8dmy7qun07jf/Summer-Supernova-Hard-by-coda.txt?rlkey=thb93imi444xpf6pv4rbf2njo&dl=1	Vibe	Chill	1595	157.187	438	23.578050	280
+22	British Tea (Hard) by KepoWorld feat. NJ	/scl/fi/232nndcf4sqkp2c8fhwxn/British-Tea-Hard-by-KepoWorld-feat.-NJ.txt?rlkey=ixp2meubig60xry321iaqayfq&dl=1	Chill	Flow	1652	158.673	428	23.800950	369
+22	Cutie Cutie (Hard) by fusq	/scl/fi/x3tx84zadwvhox7kqy81o/Cutie-Cutie-Hard-by-fusq.txt?rlkey=fxrrz7a9luzxm38ki2cx72r2w&dl=1	Beat	Beat	1194	147.347	363	22.102050	104
+22	Red Haze (Hard) by Creo	/scl/fi/8co0etr7ugflmqymvgguw/Red-Haze-Hard-by-Creo.txt?rlkey=nu9p7hvg6occw148sk9pbs3t6&dl=1	Chill	Beat	957	114.744	258	17.211600	183
+22	Fire (Hard) by Rutra	/scl/fi/df2s3n28icwlugptbxwl0/Fire-Hard-by-Rutra.txt?rlkey=zx1fm2sbw780cmux4vh9myj7a&dl=1	Vibe	Vibe	979	99.360	246	14.904000	242
+22	Honk (Hard) by BSlick	/scl/fi/mdjxq967qxibx6m7bi3l7/Honk-Hard-by-BSlick.txt?rlkey=l4lwaed1hl4bk02m55ilatckq&dl=1	Flow	Chill	1299	138.074	324	20.711100	327
+22	Power Up (Hard) by Razihel	/scl/fi/kr8re98p5wet8t4x4ri49/Power-Up-Hard-by-Razihel.txt?rlkey=blypnu96qgvko89z97wuwv7bs&dl=1	Chill	Flow	947	121.666	256	18.249900	181
+22	Farewell (Hard) by ARForest	/scl/fi/n9si4aa293yanemscy8s3/Farewell-Hard-by-ARForest.txt?rlkey=aaite5ootgfdbpz8z2z6j1lan&dl=1	Chill	Flow	1317	152.562	343	22.884300	289
+22	All You Gotta Do (Is Just Dance) (Hard) by The Just Dance Band [Just Dance]	/scl/fi/wznt58by7nqpjblk2kobc/All-You-Gotta-Do-Is-Just-Dance-Hard-by-The-Just-Dance-Band-Just-Dance.txt?rlkey=r7wulzlderg61vrb7898bvwn1&dl=1	Chill	Chill	1263	143.867	334	21.580050	260
+22	Bomb-Sniffing Pomeranian (Hard) by coda and stinkbug (Original song by naruto2413)	/scl/fi/4zdqdq82m1up5xn7x5g8w/Bomb-Sniffing-Pomeranian-Hard-by-coda-and-stinkbug-Original-song-by-naruto2413.txt?rlkey=5dgqvr32dnusnnbyjm5sh98bz&dl=1	Flow	Beat	1642	167.826	506	25.173900	123
+22	Dubstepah (Hard) by F-777	/scl/fi/d9pex42q5hw5b847uvhtk/Dubstepah-Hard-by-F-777.txt?rlkey=iijyuzcfrveea1kxmg8fqx39v&dl=1	Rush	Flow	906	108.040	261	16.206000	124
+22	Monster Dance Off (Hard) by F-777	/scl/fi/x42w2kbruynwhyjny6hj4/Monster-Dance-Off-Hard-by-F-777.txt?rlkey=7mqb9w53k9itdu8ai8fvcbdzc&dl=1	Flow	Rush	1428	143.500	394	21.525000	247
+22	Stay Tuned (Hard) by F-777	/scl/fi/dhksrc4j11aghc2ubrn2d/Stay-Tuned-Hard-by-F-777.txt?rlkey=9nfqkc4mkxolcmehj0rueebz0&dl=1	Rush	Rush	1578	174.774	434	26.216100	276
+22	bird feeder (Hard) by atsuover	/scl/fi/7jp5193cpy8fffbtbkym7/bird-feeder-Hard-by-atsuover.txt?rlkey=dswj11hm0ntrblb3on7r43ee4&dl=1	Rush	Rush	1338	158.594	365	23.789100	243
+22	Louder Now (Hard) by Tobu	/scl/fi/7vjc9gz64y3kfppmsct45/Louder-Now-Hard-by-Tobu.txt?rlkey=r69b0niv9mmwlb4odxv1kr8iy&dl=1	Vibe	Flow	1216	165.248	332	24.787200	221
+22	RELEASE (Hard) by atsuover & Rageminer	/scl/fi/qnj527p24h6a3aid1vuml/RELEASE-Hard-by-atsuover-Rageminer.txt?rlkey=sz0gk1w21e6dst30niiyf4i26&dl=1	Vibe	Chill	1315	140.313	368	21.046950	212
+22	Things That You Do (Hard) by Slynk feat. Father Funk	/scl/fi/n85m4607wu8w2nd2exuow/Things-That-You-Do-Hard-by-Slynk-feat.-Father-Funk.txt?rlkey=fxfk8eb3psgmnadj1pu2vz0it&dl=1	Chill	Flow	1264	148.363	361	22.254450	182
+22	XMas Tree (Hard) by Bollywood Santa [Just Dance]	/scl/fi/9vatrdfht378e2866se66/XMas-Tree-Hard-by-Bollywood-Santa-Just-Dance.txt?rlkey=p5gwn1nqv2mhdl00xpnz13gdf&dl=1	Vibe	Vibe	1573	141.203	455	21.180450	209
+22	YOU'RE EVERYTHING (Hard) by dark cat (feat. juu)	/scl/fi/zh1qbq0e3o7xhpn19reaz/YOU-RE-EVERYTHING-Hard-by-dark-cat-feat.-juu.txt?rlkey=9eoxap2w21rk1dxe4sy6lho7k&dl=1	Flow	Rush	1037	148.119	280	22.217850	197
+22	Demise (Hard) by Radical_Box [Tower Heroes]	/scl/fi/om3a5jhbik58qlekapxdb/Demise-Hard-by-Radical_Box-Tower-Heroes.txt?rlkey=78buq7zzhfkpxyaka0vv7whje&dl=1	Beat	Flow	1360	125.372	413	18.805800	120
+22	Do (Hard) by garlagan	/scl/fi/a143gmakdcog9k4ey756c/Do-Hard-by-garlagan.txt?rlkey=r5r51ewspmmq4h2bmvkdrkm6l&dl=1	Beat	Flow	826	128.858	235	19.328700	122
+22	Lemonede Chiffon (Hard) by brz1128 (windless)	/scl/fi/opx65n1ksldbpsrhu47hl/Lemonede-Chiffon-Hard-by-brz1128-windless.txt?rlkey=0wyjbo2h68phb73eriuyrtpw8&dl=1	Vibe	Vibe	1126	114.870	343	17.230500	97
+22	Lightspeed (Hard) by Waterflame	/scl/fi/ade1no0g8cmzirhe5kcy3/Lightspeed-Hard-by-Waterflame.txt?rlkey=qegi5hlmad7l5bo1g93m45aqe&dl=1	Rush	Chill	857	98.274	277	14.741100	26
+22	Papaya (Hard) by Hyper Potions & MYLK	/scl/fi/1ruu826ugsw4fcc2t7v08/Papaya-Hard-by-Hyper-Potions-MYLK.txt?rlkey=ggj7ns4bkvl2trspigp92gr17&dl=1	Beat	Chill	1656	163.170	412	24.475500	420
+22	strawberry sherbet(KSMEdit) (Hard) by brz1128	/scl/fi/fatzmdx7u681pveyjyrpk/strawberry-sherbet-KSMEdit-Hard-by-brz1128.txt?rlkey=kytgynpk7hp1dals9qq3xgqxt&dl=1	Chill	Rush	1261	129.665	373	19.449750	143
+22	DEAD (Hard) by Geoxor & SVRGE	/scl/fi/ojcled4qakfehqg3v14hk/DEAD-Hard-by-Geoxor-SVRGE.txt?rlkey=7zfzvqv76npjsfzv194xj49al&dl=1	Vibe	Chill	1010	108.641	240	16.296150	292
+22	LUV U NEED U (Hard) by Slushii [Monstercat]	/scl/fi/soimg4pgdxu401zpnyd9v/LUV-U-NEED-U-Hard-by-Slushii-Monstercat.txt?rlkey=kiqncttkfinuplr3la3jzgjld&dl=1	Vibe	Flow	1346	143.517	364	21.527550	253
+22	FinnMK's RoBeats 6th Anniversary Mega-Remix! [EXTENDED CUT] (Hard) by FinnMK	/scl/fi/tsnu6ied9gihei9jh8onc/FinnMK-s-RoBeats-6th-Anniversary-Mega-Remix-EXTENDED-CUT-Hard-by-FinnMK.txt?rlkey=b220f2q3xyzf0zu8m2x0ildbp&dl=1	Vibe	Beat	2674	297.327	753	44.599050	413
+22	Reflections (Hard) by Rutra	/scl/fi/grl06xd305nusv1s8gz14/Reflections-Hard-by-Rutra.txt?rlkey=78pepelvtmugqgyiisj2x2dck&dl=1	Chill	Chill	1376	169.996	356	25.499400	309
+22	This Time (Hard) by Kayzo [Monstercat]	/scl/fi/rrq932apzt7mgf2gk8r67/This-Time-Hard-by-Kayzo-Monstercat.txt?rlkey=pzw4poqoi3fnjk4e1w9vt66pa&dl=1	Chill	Beat	1435	166.528	324	24.979200	463
+21	You & I (Hard) by RiraN	/scl/fi/aej24tcahaow3cv8d4q62/You-I-Hard-by-RiraN.txt?rlkey=fb2kynpk8gn3xvdy8xv2jvqtt&dl=1	Beat	Chill	974	132.310	300	19.846500	76
+21	Better Run (Hard) by Rutra	/scl/fi/6a99zccfymz3oh0q59pfq/Better-Run-Hard-by-Rutra.txt?rlkey=93vkml6ihk9k2nlghaq1dvu7t&dl=1	Chill	Rush	1520	151.004	387	22.650600	359
+21	Body (Hard) by Rutra	/scl/fi/40qgqgbtb5o2yh336kzcm/Body-Hard-by-Rutra.txt?rlkey=isxij7b65ix78keh0vccb3b5i&dl=1	Flow	Chill	753	89.367	208	13.405050	130
+21	Dune (Hard) by Creo	/scl/fi/4u7us6afphw6zzszn6gws/Dune-Hard-by-Creo.txt?rlkey=do9i4na4nxaiwxi0uespubre2&dl=1	Beat	Chill	1176	136.973	355	20.545950	110
+21	Euphoria (Hard) by Geoxor	/scl/fi/kf0l157fbj5fmvk09viwe/Euphoria-Hard-by-Geoxor.txt?rlkey=98stk8m0ewiu2adyxqvzzbzbb&dl=1	Rush	Rush	1434	152.722	335	22.908300	430
+21	Let's Roll (Hard) by Ephixa & Going Quantum [Monstercat]	/scl/fi/c6zamfmnj64er0wrm7izg/Let-s-Roll-Hard-by-Ephixa-Going-Quantum-Monstercat.txt?rlkey=uyhjd3sf7kz3qv7cl2bjcu6uh&dl=1	Flow	Chill	677	97.962	205	14.694300	64
+21	Vulture (Remasterized) (Hard) by Rutra	/scl/fi/xl22rgd8shexsb6fo8z87/Vulture-Remasterized-Hard-by-Rutra.txt?rlkey=ez843ed6msyrow95nnwirko14&dl=1	Vibe	Vibe	1318	166.145	361	24.921750	235
+21	Drifters (Hard) by Feint feat. Elizaveta [Monstercat]	/scl/fi/mmaa83jm5pupioqrtlilf/Drifters-Hard-by-Feint-feat.-Elizaveta-Monstercat.txt?rlkey=kxfoxela6u8j8to8pdyzy2ho9&dl=1	Beat	Rush	727	119.752	180	17.962800	187
+21	I Can't Say Why (Hard) by BSlick	/scl/fi/6q72mf36g13urri5slg3m/I-Can-t-Say-Why-Hard-by-BSlick.txt?rlkey=msoi1g730p9ang8v111pxduzb&dl=1	Beat	Rush	1175	136.097	325	20.414550	202
+21	Escape (Hard) by Noisestorm [Monstercat]	/scl/fi/rm777a00nwtqbpnmcyjiw/Escape-Hard-by-Noisestorm-Monstercat.txt?rlkey=gp70mlsx1irq81ny8lghd9cfb&dl=1	Vibe	Beat	917	91.451	232	13.717650	222
+21	Get Stickbugged LOL! (CG5 Remix) (Hard) by Onett (Remixed by CG5)	/scl/fi/r2hw3vpui62o4vf7nr60q/Get-Stickbugged-LOL-CG5-Remix-Hard-by-Onett-Remixed-by-CG5.txt?rlkey=an3m6blpi7fx4e1cl873mk2bo&dl=1	Vibe	Vibe	914	90.602	231	13.590300	222
+21	Feeling Alright (Hard) by Rutra	/scl/fi/a9f50n3l2fo7ms5lz50pd/Feeling-Alright-Hard-by-Rutra.txt?rlkey=rnyvxusa7vckqibyga6l35y6r&dl=1	Vibe	Chill	1605	166.939	370	25.040850	495
+21	PLAY (Hard) by Tokyo Machine [Monstercat]	/scl/fi/dl1cfow49xa6zd6ve79qq/PLAY-Hard-by-Tokyo-Machine-Monstercat.txt?rlkey=qwsycsl991lhsfhk82dbpwsaz&dl=1	Chill	Flow	956	110.625	245	16.593750	223
+21	Alone (Hard) by F-777	/scl/fi/juklf35u17hsqg0srb4i8/Alone-Hard-by-F-777.txt?rlkey=2bdwc1u7i2d22xe5f0j43uzun&dl=1	Rush	Rush	1197	120.000	322	18.000000	231
+21	Rats Birthday Mixtape [EXTENDED CUT] (Hard) by Kevin MacLeod & Jerma985	/scl/fi/15vyfdgmuxd0vg14tz41e/Rats-Birthday-Mixtape-EXTENDED-CUT-Hard-by-Kevin-MacLeod-Jerma985.txt?rlkey=i3rqkh7gwtw3ozw8zx2l9080t&dl=1	Beat	Beat	2260	189.235	534	28.385250	658
+21	Astral Travel (Hard) by Karsten	/scl/fi/e2gbifa6amr17nyvppyol/Astral-Travel-Hard-by-Karsten.txt?rlkey=zdvmwnzm2hx4bopb5o68javjt&dl=1	Beat	Chill	1050	111.632	249	16.744800	303
+21	Deadlocked (Hard) by F-777	/scl/fi/jy1jz15vua5ar50onve91/Deadlocked-Hard-by-F-777.txt?rlkey=okvm0xf6ucs2kcucqxzi9pv6d&dl=1	Rush	Beat	1266	118.518	348	17.777700	223
+21	Satin (Hard) by Kawai Sprite	/scl/fi/i5nt4g6t0r0gq55f8f3gb/Satin-Hard-by-Kawai-Sprite.txt?rlkey=y65u4sq55jgbsaxgfcfln6lk5&dl=1	Rush	Rush	717	87.928	215	13.189200	74
+21	NULCTRL (Hard) by Silentroom	/scl/fi/tl4tg8au8r2mej3x1t58e/NULCTRL-Hard-by-Silentroom.txt?rlkey=lu4tk1c3u24lrvf2n0ixhnhx3&dl=1	Rush	Chill	1058	144.560	306	21.684000	140
+21	BUBBLE TEA (Hard) by dark cat (feat. juu & cinders)	/scl/fi/mty8roqz48wsguej1zk00/BUBBLE-TEA-Hard-by-dark-cat-feat.-juu-cinders.txt?rlkey=l87rclhs11bwfguxxolgkxcwu&dl=1	Beat	Rush	1217	146.105	348	21.915750	173
+21	Cloud 9 (Hard) by Itro & Tobu	/scl/fi/dxfiy2kytldv29l22gs4e/Cloud-9-Hard-by-Itro-Tobu.txt?rlkey=g85at9q6iuonk9t2edsry6njf&dl=1	Beat	Chill	1367	140.681	348	21.102150	323
+21	Gyre (Hard) by Kanro	/scl/fi/2w78ssymekf0rmh0a1cl3/Gyre-Hard-by-Kanro.txt?rlkey=yo72fwdtsynj7cwuzycwcco12&dl=1	Rush	Flow	967	116.667	238	17.500050	254
+21	NO STOPPING US (Hard) by dark cat (feat. Jenny)	/scl/fi/402092m0x8nmxj97yxrwe/NO-STOPPING-US-Hard-by-dark-cat-feat.-Jenny.txt?rlkey=pbu3j1f7l8tveh0nmxx392s4h&dl=1	Chill	Flow	1147	137.331	331	20.599650	154
+21	Part of History (Hard) by Tobu	/scl/fi/ugfgnnkljyev2cev7c81g/Part-of-History-Hard-by-Tobu.txt?rlkey=mo04nt19bmy9x9d0yzyz8srn3&dl=1	Flow	Flow	742	96.184	202	14.427600	136
+21	Time Machine (Hard) by Waterflame	/scl/fi/8n2vta8igvwo90fs1shsa/Time-Machine-Hard-by-Waterflame.txt?rlkey=t0ow1oi6zgvmpetnbswgocoth&dl=1	Beat	Beat	1507	168.492	397	25.273800	317
+21	tsuzuri (Hard) by keisei (feat. Hatsune Miku)	/scl/fi/nmnnkl5zyc1gff4ncozul/tsuzuri-Hard-by-keisei-feat.-Hatsune-Miku.txt?rlkey=mzvgdyygo5dght7y06xlsmexb&dl=1	Beat	Vibe	958	114.880	271	17.232000	145
+20	Cutie Lovely Princess (Hard) by Michiko Hamada [Nash Music Library]	/scl/fi/33ipsqq2sijoptihmf31x/Cutie-Lovely-Princess-Hard-by-Michiko-Hamada-Nash-Music-Library.txt?rlkey=mf306va2hxkuj59il5rxlf2ec&dl=1	Chill	Rush	1051	105.324	242	15.798600	325
+21	Internet Pajamas Party (Hard) by you	/scl/fi/wnmfsnnnw28wpnnlq1w57/Internet-Pajamas-Party-Hard-by-you.txt?rlkey=in5h9mui92q46b0jr74cu916p&dl=1	Vibe	Chill	1282	156.093	365	23.413950	187
+21	Mitsuri (Hard) by you	/scl/fi/t4pipqdiu4xjw4avghsa6/Mitsuri-Hard-by-you.txt?rlkey=n807i1anrleybqi14udt815ui&dl=1	Rush	Flow	954	99.492	291	14.923800	82
+21	Pink Rain (Hard) by Yooh	/scl/fi/fxccnrf2cvkogv45oz3tv/Pink-Rain-Hard-by-Yooh.txt?rlkey=79nhlxwuvqtzk0xxrzpz3ufnm&dl=1	Chill	Chill	917	126.480	281	18.972000	76
+20	Exosphere (Hard) by Creo	/scl/fi/0hvloi41fwcosbxbplkzq/Exosphere-Hard-by-Creo.txt?rlkey=iv2jyhj71q9l65mfvz20iquoo&dl=1	Vibe	Chill	1292	164.896	356	24.734400	223
+21	Rainbow Road (Hard) by nanobii	/scl/fi/1e8kr1dw63h1q0dyly9s5/Rainbow-Road-Hard-by-nanobii.txt?rlkey=16juuoz8tpuqsxrape4ae6buw&dl=1	Rush	Flow	1322	169.265	382	25.389750	176
+20	Among Us (Hard) by BSlick	/scl/fi/c7cp205h1ukri843nrmzg/Among-Us-Hard-by-BSlick.txt?rlkey=26el6yetzol4gxwj6t84mtrzn&dl=1	Beat	Rush	955	124.473	287	18.670950	95
+20	Candyland (Hard) by Tobu	/scl/fi/jv11dka8czo1usp79nj15/Candyland-Hard-by-Tobu.txt?rlkey=6iiat0g2lgyk3u90fh4bzm31u&dl=1	Vibe	Chill	635	104.855	160	15.728250	155
+20	Dog Jam (Hard) by coda	/scl/fi/5yku6e1c2v0f557h9poyt/Dog-Jam-Hard-by-coda.txt?rlkey=12kxfrn89jpl40m7ve07ai5fe&dl=1	Chill	Beat	1212	117.155	312	17.573250	276
+20	Medusa (Hard) by Aiobahn feat. Cozi Zuehlsdorff [Monstercat]	/scl/fi/idfy02jemr0gqu8nm8a9i/Medusa-Hard-by-Aiobahn-feat.-Cozi-Zuehlsdorff-Monstercat.txt?rlkey=uso7ywzsvdgoefua4w2x56wl4&dl=1	Flow	Beat	1639	171.483	381	25.722450	496
+20	Rock Thing (Hard) by Creo	/scl/fi/d78g0hoaxy4gah30kgx5w/Rock-Thing-Hard-by-Creo.txt?rlkey=9t10hf4s42co42lyo93534h3p&dl=1	Vibe	Rush	1235	124.275	330	18.641250	247
+20	FIREBITE! (Hard) by KepoWorld	/scl/fi/c6xhaib8arlhpuq1hr4by/FIREBITE-Hard-by-KepoWorld.txt?rlkey=rmm1tao7ra3gyidiwtnbd258v&dl=1	Flow	Rush	1623	171.351	386	25.702650	465
+20	Hot (Hard) by FWLR [Monstercat]	/scl/fi/yjn4v7arrzcw8d7sbacno/Hot-Hard-by-FWLR-Monstercat.txt?rlkey=hyihlklh3x1oa8n8kclnakpuy&dl=1	Beat	Chill	1578	169.983	494	25.497450	95
+20	Revenger (Hard) by F.O.O.L [Monstercat]	/scl/fi/zk511qw33y302af9euj0c/Revenger-Hard-by-F.O.O.L-Monstercat.txt?rlkey=061bhukarpq9s9ri5ipe22u1j&dl=1	Vibe	Beat	1004	130.932	296	19.639800	117
+20	Skystrike (Hard) by Hinkik	/scl/fi/q42y7b73cx5lr17p8fbxq/Skystrike-Hard-by-Hinkik.txt?rlkey=kpvbv8vlvvmj1gu3evlslcnjv&dl=1	Chill	Chill	1803	184.036	477	27.605400	372
+20	Terrorize (Hard) by firedagger01	/scl/fi/fofdd7hfvnf9w2emt6lhk/Terrorize-Hard-by-firedagger01.txt?rlkey=j5ns9fsxl0wtyuq83vliitu09&dl=1	Beat	Beat	1240	112.232	303	16.834800	331
+20	Sphere (Hard) by Creo	/scl/fi/1pmmwtesgxkj8d1uh91t7/Sphere-Hard-by-Creo.txt?rlkey=4s9d90edtegpl4ylfa69y6h8r&dl=1	Beat	Beat	845	122.460	232	18.369000	151
+20	Carissa (Hard) by DESERT STAR [Monstercat]	/scl/fi/zkvu2mh14t4x1vu53m59m/Carissa-Hard-by-DESERT-STAR-Monstercat.txt?rlkey=p2wfa3gqk43wbuwi3x4klffeq&dl=1	Chill	Vibe	897	134.669	237	20.200350	188
+20	Orange (Hard) by Aoi Okutsu [Nash Music Library]	/scl/fi/kw3inqqxufe3cngt56p9u/Orange-Hard-by-Aoi-Okutsu-Nash-Music-Library.txt?rlkey=r6b668l5mtnxtcbqjtswj2s1k&dl=1	Vibe	Beat	1477	154.411	372	23.161650	361
+20	Inner (Hard) by fusq feat. MYLK	/scl/fi/kqlaa61ol0hp7h6r3pr5d/Inner-Hard-by-fusq-feat.-MYLK.txt?rlkey=v108apeygss04s49shbukqg2l&dl=1	Chill	Rush	672	102.021	172	15.303150	157
+20	Internet Boy (Hard) by Dion Timmer feat. Micah Martin [Monstercat]	/scl/fi/vf0wxnveejqr37rpn4uj9/Internet-Boy-Hard-by-Dion-Timmer-feat.-Micah-Martin-Monstercat.txt?rlkey=uxr9qhyi8bnif5nj0crmf02kn&dl=1	Beat	Rush	1250	150.958	318	22.643700	298
+20	Ocean Eyes (Hard) by Jay Cosmic & DESERT STAR [Monstercat]	/scl/fi/940owq2x3y1y8p8aqrjr8/Ocean-Eyes-Hard-by-Jay-Cosmic-DESERT-STAR-Monstercat.txt?rlkey=moll0hymns0f3dhgal42mwghp&dl=1	Flow	Rush	936	101.215	232	15.182250	240
+20	The Untold Story (Hard) by BSlick feat. Melissa Medina	/scl/fi/c81s3z7exgv4o55qaavkf/The-Untold-Story-Hard-by-BSlick-feat.-Melissa-Medina.txt?rlkey=440j1w5ynf42qk7spkqfuo64j&dl=1	Rush	Rush	1201	160.291	284	24.043650	350
+20	Blammed (Hard) by Kawai Sprite	/scl/fi/2ncblq7cobmm59jvmnfyz/Blammed-Hard-by-Kawai-Sprite.txt?rlkey=5x4xq621vkjohkh20wr0df86j&dl=1	Flow	Flow	895	105.517	280	15.827550	55
+20	Cocoa (Hard) by Kawai Sprite	/scl/fi/g2ujfxs43dteck2m1tfce/Cocoa-Hard-by-Kawai-Sprite.txt?rlkey=y6zfyw9agprvrp02vyin397zi&dl=1	Flow	Flow	976	106.564	282	15.984600	132
+20	Eggnog (Hard) by Kawai Sprite	/scl/fi/htrmz3hp4xlfpap58sf7g/Eggnog-Hard-by-Kawai-Sprite.txt?rlkey=l2x3yt2fn5qan4ofxjyjs56ta&dl=1	Vibe	Flow	1108	93.660	276	14.049000	281
+20	Let's Show Them (Hard) by BSlick feat. Plexsy	/scl/fi/bljxw6yfz51kh5oqvzsil/Let-s-Show-Them-Hard-by-BSlick-feat.-Plexsy.txt?rlkey=5mh3lo1rysov3844ca6j6klhm&dl=1	Vibe	Flow	1219	162.767	320	24.415050	260
+20	Rebirth (Hard) by MH (Marquan Harper) feat. Nikolaev	/scl/fi/o5eebn6rffq3afd4aq9gp/Rebirth-Hard-by-MH-Marquan-Harper-feat.-Nikolaev.txt?rlkey=0ch1ewfvz9one4pn0qrz49l8s&dl=1	Vibe	Vibe	1117	149.544	268	22.431600	313
+20	t0Y0u (Hard) by garlagan	/scl/fi/4shuassvxyi388febqlke/t0Y0u-Hard-by-garlagan.txt?rlkey=m4jip3uyzie3e3paeuqz5d7o7&dl=1	Rush	Rush	868	113.727	259	17.059050	91
+20	Dance of the Sugar Plum Fairy (Hard) by Tchaikovsky (Performed by Rousseau)	/scl/fi/2wee9jwv7yk3jz0rr6n39/Dance-of-the-Sugar-Plum-Fairy-Hard-by-Tchaikovsky-Performed-by-Rousseau.txt?rlkey=dtxf8bkusbtufxnn8yftdw6ps&dl=1	Flow	Flow	680	113.451	203	17.017650	73
+20	Candyland pt. II (Hard) by Tobu	/scl/fi/gdz24cmc2wdvbcgzgbo12/Candyland-pt.-II-Hard-by-Tobu.txt?rlkey=d4q2vsk39bw1cd59nnhzghejb&dl=1	Flow	Vibe	1120	135.246	328	20.286900	138
+20	-feeding- (Hard) by naruto2413 (feat. Aya Majiro)	/scl/fi/ngrjnz62uv3l8ix0ld5sz/feeding-Hard-by-naruto2413-feat.-Aya-Majiro.txt?rlkey=ha84sknx2v7ju64nw85a4v0tr&dl=1	Beat	Beat	1317	171.936	391	25.790400	144
+20	Dance of The Violins (Hard) by F-777	/scl/fi/40v1kwekghv1b1opb3sn0/Dance-of-The-Violins-Hard-by-F-777.txt?rlkey=e0n0llbut9hbv28rx0ey92mnq&dl=1	Rush	Vibe	1213	143.750	352	21.562500	156
+20	Destiny (Hard) by Jim Yosef, Electro-Light, Anna Yvette, Deaf Kev & Tobu	/scl/fi/4zku8moid4yqlhez0kpd5/Destiny-Hard-by-Jim-Yosef-Electro-Light-Anna-Yvette-Deaf-Kev-Tobu.txt?rlkey=f0kulzqi7w25dk5x1o48wjtnz&dl=1	Chill	Chill	1258	137.855	274	20.678250	437
+20	Modulation to Move the Mind (Hard) by naruto2413, Aya Futatsuki & BouKiCHi	/scl/fi/6e678n13ed2yv564fkp18/Modulation-to-Move-the-Mind-Hard-by-naruto2413-Aya-Futatsuki-BouKiCHi.txt?rlkey=t12ih8mo15ehs0nxg5m7c0ixg&dl=1	Beat	Beat	1391	139.308	372	20.896200	274
+20	ARTIST LEMONADE (Hard) by atsuover	/scl/fi/nh1ol08at5dk0s4j21z1t/ARTIST-LEMONADE-Hard-by-atsuover.txt?rlkey=18v9e3f3dvl4bxcq2omfepxo9&dl=1	Vibe	Flow	804	91.905	244	13.785750	72
+20	Disco Operator (Hard) by Slynk	/scl/fi/o1hk32j5ws5puj40xdxs5/Disco-Operator-Hard-by-Slynk.txt?rlkey=gt8gm4temu9pnkq3hpjixhoxq&dl=1	Flow	Beat	1190	157.114	345	23.567100	156
+20	In My Mind (Hard) by Tobu & AhXon	/scl/fi/baxogwaig1ss260yv77lp/In-My-Mind-Hard-by-Tobu-AhXon.txt?rlkey=ja0sl0ayfiok5b50ytljhhpkm&dl=1	Rush	Beat	1419	179.074	386	26.861100	261
+20	Inside (Hard) by Slynk	/scl/fi/q029e00whvq8rm5uoo2fg/Inside-Hard-by-Slynk.txt?rlkey=fmpbuggiygng3kuycjklgmezr&dl=1	Chill	Beat	1013	107.756	277	16.163400	184
+20	Magnetic (Hard) by Similar Outskirts	/scl/fi/8agb15f7qnmfiuf22h6tl/Magnetic-Hard-by-Similar-Outskirts.txt?rlkey=idt84zgpj0yxm8id907xo89vl&dl=1	Beat	Chill	751	108.435	196	16.265250	164
+20	TUG OF WAR (Hard) by atsuover & Rageminer	/scl/fi/8582ua7h3iiiq4vvlmyz1/TUG-OF-WAR-Hard-by-atsuover-Rageminer.txt?rlkey=n2gtgxnohuhiig8i2bi74uop4&dl=1	Chill	Chill	952	105.064	299	15.759600	56
+20	Glorious Morning 2 (Hard) by Waterflame	/scl/fi/qykd6kis113iahpwa9d6z/Glorious-Morning-2-Hard-by-Waterflame.txt?rlkey=y4y19ayjooni2h4qv870z7gh8&dl=1	Vibe	Beat	1570	172.863	507	25.929450	50
+20	Bluelight (Hard) by brz1128	/scl/fi/d5zailwlhi1qa9ymtmitd/Bluelight-Hard-by-brz1128.txt?rlkey=wmtbrjaalhl1n2d5psf94koyh&dl=1	Vibe	Chill	1312	129.808	366	19.471200	215
+19	Electro Cabello (Hard) by Kevin MacLeod (Incompetech)	/scl/fi/o55fb42ovwzsm290fbe8h/Electro-Cabello-Hard-by-Kevin-MacLeod-Incompetech.txt?rlkey=cmlc9n0li5zbo9wm3saz7j9ue&dl=1	Beat	Beat	1821	187.989	471	28.198350	409
+20	envelope (Hard) by keisei (feat. Hatsune Miku)	/scl/fi/t2ghy5mlqvn3lziy2zwlt/envelope-Hard-by-keisei-feat.-Hatsune-Miku.txt?rlkey=sgjhdkuv55aqdpxtr8oe2ksad&dl=1	Vibe	Chill	816	115.260	247	17.289000	76
+20	Ryokucha (Hard) by Project Skylate	/scl/fi/0i5k64ahvv8ujj6bdw05z/Ryokucha-Hard-by-Project-Skylate.txt?rlkey=5fqndskeprnk4qhd8gk50nts0&dl=1	Beat	Beat	1024	143.019	299	21.452850	128
+19	Step Forward (Hard) by Aoi Okutsu [Nash Music Library]	/scl/fi/s4ck2l87eryi8eubtdh9o/Step-Forward-Hard-by-Aoi-Okutsu-Nash-Music-Library.txt?rlkey=amebaprtxud6prk7jewcror3l&dl=1	Rush	Rush	962	121.717	273	18.257550	145
+20	You Got Me (Hard) by USAO & Shandy Kubota	/scl/fi/ldlahs8pigbaewoofbdpx/You-Got-Me-Hard-by-USAO-Shandy-Kubota.txt?rlkey=opyt2jyi1gkg8qiv4kdcm2t2m&dl=1	Beat	Vibe	1518	158.394	337	23.759100	506
+19	Dimension (Hard) by Creo	/scl/fi/sdqlh8ze380ut4qjwkg7u/Dimension-Hard-by-Creo.txt?rlkey=wda90cqk7qojcqfn2q4ie70li&dl=1	Vibe	Beat	854	116.989	233	17.548350	156
+19	Say It Back (Hard) by tv room	/scl/fi/anleduou3x5t2o9ri8o9y/Say-It-Back-Hard-by-tv-room.txt?rlkey=dud8foaxqpt3vfduqixp82jjd&dl=1	Vibe	Beat	1544	161.728	391	24.259200	371
+19	Shop 'til You Drop (Hard) by FinnMK	/scl/fi/29glfexwut5pki5782omy/Shop-til-You-Drop-Hard-by-FinnMK.txt?rlkey=cxxe0j3gbnevb94b21u3wxppf&dl=1	Vibe	Vibe	1159	161.873	354	24.280950	98
+19	South (Hard) by Kawai Sprite	/scl/fi/lfb03h89mlfzq5z52en61/South-Hard-by-Kawai-Sprite.txt?rlkey=gt59unbepf4kua5yzoxl57re3&dl=1	Chill	Chill	705	87.111	197	13.066650	116
+19	Take Your Time (Hard) by Rutra	/scl/fi/z6a8e0wqzs79k2subryjt/Take-Your-Time-Hard-by-Rutra.txt?rlkey=k5vmhdrqnoy0nedprmazk56xj&dl=1	Chill	Beat	1052	110.625	248	16.593750	309
+19	No Dice (Hard) by coda	/scl/fi/mliajokm4zxcw1d26sdr1/No-Dice-Hard-by-coda.txt?rlkey=pjoatafwg4alb3397ybqbcv4u&dl=1	Chill	Flow	1269	157.899	364	23.684850	178
+19	Crystallize (Hard) by Creo	/scl/fi/3sjrdhp3ttkedm6ys70f7/Crystallize-Hard-by-Creo.txt?rlkey=dqc4annic7hmtymrgdwymjx20&dl=1	Rush	Rush	941	125.292	272	18.793800	125
+19	Making Dew (Hard) by coda	/scl/fi/eeii8czqd281d94p43m2k/Making-Dew-Hard-by-coda.txt?rlkey=a4w3qkxsyl4i1lsxuet6dqlih&dl=1	Vibe	Chill	910	154.184	283	23.127600	63
+19	New World (Hard) by Hoaprox feat. Rogue [Monstercat]	/scl/fi/5z5wr6jjme8xvxe4jw48o/New-World-Hard-by-Hoaprox-feat.-Rogue-Monstercat.txt?rlkey=vax1gsigjmz4d5aci0cclv1e6&dl=1	Beat	Chill	919	104.523	216	15.678450	273
+19	St Tropez (Hard) by Tony Romera & SQWAD [Monstercat]	/scl/fi/dcvyba682wy083svo8toe/St-Tropez-Hard-by-Tony-Romera-SQWAD-Monstercat.txt?rlkey=e3adbxi706zifuvh8qnx89ko9&dl=1	Flow	Chill	932	123.932	267	18.589800	132
+19	Window Cleaner: A Tale of Two Gangs (Hard) by Joshua Kaplan (Open Heart Sound)	/scl/fi/h8o6hvubkl4b5pykfjnk2/Window-Cleaner-A-Tale-of-Two-Gangs-Hard-by-Joshua-Kaplan-Open-Heart-Sound.txt?rlkey=jxzsjep0286382ymomeii81iw&dl=1	Rush	Rush	1427	158.271	476	23.740650	0
+19	Blush (Hard) by fusq feat. MYLK	/scl/fi/cc15tr0hed8pzfbkky63f/Blush-Hard-by-fusq-feat.-MYLK.txt?rlkey=p54he2ovwadzbtxx4vxo6gsxq&dl=1	Vibe	Flow	1201	162.502	315	24.375300	258
+19	Crab Rave (Hard) by Noisestorm [Monstercat]	/scl/fi/lp75gxnhphf6oh22fd809/Crab-Rave-Hard-by-Noisestorm-Monstercat.txt?rlkey=i0nez51w8ekhaw0xxpsjx379s&dl=1	Beat	Chill	878	143.999	237	21.599850	167
+19	Another day (Hard) by Rutra	/scl/fi/vrfmhejowitmg8h8kj6f8/Another-day-Hard-by-Rutra.txt?rlkey=hqcdkdt49bkl3h82m347e2acw&dl=1	Vibe	Rush	1037	146.546	289	21.981900	172
+19	Chasing Clouds (Hard) by Bad Computer & Danyka Nadeau [Monstercat]	/scl/fi/hyr3new1xbxldykt6roy1/Chasing-Clouds-Hard-by-Bad-Computer-Danyka-Nadeau-Monstercat.txt?rlkey=zlwl8tbtgle39doqxzb4supd6&dl=1	Beat	Chill	1012	136.086	259	20.412900	237
+19	Explorers (Hard) by Hinkik	/scl/fi/9e9ayoa0ar91zjhdq557a/Explorers-Hard-by-Hinkik.txt?rlkey=bfboh9hzjcxvs8btrikx181w1&dl=1	Beat	Beat	1163	148.354	315	22.253100	220
+19	Insight (Rutra Remix) (Hard) by Haywyre (Remixed by Rutra)	/scl/fi/9zhw178w1mbkezkqmycjp/Insight-Rutra-Remix-Hard-by-Haywyre-Remixed-by-Rutra.txt?rlkey=eeydlu2bgqfti7exrgby2wrk2&dl=1	Rush	Rush	1688	195.011	537	29.251650	78
+19	EPIC (Hard) by Tokyo Machine [Monstercat]	/scl/fi/rwomr65ve037ojw81eo52/EPIC-Hard-by-Tokyo-Machine-Monstercat.txt?rlkey=aee5jcuikbexv2lwzz80sse3l&dl=1	Beat	Vibe	871	108.859	210	16.328850	242
+19	Galaxy (Hard) by Geoxor	/scl/fi/8gpzry0cao9fjp5hlrw0i/Galaxy-Hard-by-Geoxor.txt?rlkey=fnhl8wkrmq3rzkhgvtse96n1g&dl=1	Rush	Rush	1185	168.569	291	25.285350	313
+19	Moonlight (Hard) by Geoxor	/scl/fi/p91gnca1fzm2bw3f4mxku/Moonlight-Hard-by-Geoxor.txt?rlkey=d9dwfvvwrkdlu4gje1793spr7&dl=1	Rush	Rush	1245	162.219	315	24.332850	300
+19	Silly Bee (Hard) by Ruka [Nash Music Library]	/scl/fi/ib71a20fm47bwrc1bzbtc/Silly-Bee-Hard-by-Ruka-Nash-Music-Library.txt?rlkey=u0vap9rei4kdyr3iftkfx9dl1&dl=1	Beat	Chill	1171	125.469	302	18.820350	266
+19	GAMEBOY (Hard) by Silentroom	/scl/fi/usggq7iumvpkzur03s5sp/GAMEBOY-Hard-by-Silentroom.txt?rlkey=vaf7k5b1wjcsqbph8k8nnp69t&dl=1	Chill	Chill	1172	155.491	266	23.323650	375
+19	The Vocab Quiz (Hard) by tv room	/scl/fi/es2jbpej0ursduur73qdr/The-Vocab-Quiz-Hard-by-tv-room.txt?rlkey=h8xlo96yrg45gdcpgkjxed89a&dl=1	Chill	Chill	958	100.874	249	15.131100	213
+19	Over It (Hard) by Glaue [Monstercat]	/scl/fi/2fi21kqpn64a9lb00rmth/Over-It-Hard-by-Glaue-Monstercat.txt?rlkey=y3ni6zy1jp9i19rneqjktolxn&dl=1	Flow	Vibe	1079	161.367	306	24.205050	162
+19	The Long Drive (Hard) by tv room	/scl/fi/ya7t55mnx4cz7exqx234t/The-Long-Drive-Hard-by-tv-room.txt?rlkey=oervdwdzp8h7u0e1qd850ii34&dl=1	Rush	Beat	1103	127.859	317	19.178850	154
+19	Nitro Bot (Hard) by Sentai Express [Just Dance]	/scl/fi/u68kyn64uvd6t1v1tx3d6/Nitro-Bot-Hard-by-Sentai-Express-Just-Dance.txt?rlkey=cvy0ufx3sewi2d8i3py3e19sq&dl=1	Beat	Beat	1563	187.443	441	28.116450	241
+19	Show's Startin' (Hard) by FinnMK	/scl/fi/n37idbiicamlugp1soo2m/Show-s-Startin-Hard-by-FinnMK.txt?rlkey=51pa2sz9dsw4e5mm5ub7fa5f6&dl=1	Chill	Rush	1312	147.053	319	22.057950	355
+19	Together (Hard) by BSlick (feat. OR3O)	/scl/fi/h1u6asfmm2g2k7gq9uy56/Together-Hard-by-BSlick-feat.-OR3O.txt?rlkey=p5qr0sr59e3v3hy82lz0u6cxx&dl=1	Beat	Beat	1175	140.305	361	21.045750	91
+19	Touch (Hard) by MH (Marquan Harper) & Endlessssssleep feat. mayh3mp	/scl/fi/2d0o1jcm12xshsklpqzdd/Touch-Hard-by-MH-Marquan-Harper-Endlessssssleep-feat.-mayh3mp.txt?rlkey=ilwr741a9b4op1t0wyo40qzm8&dl=1	Flow	Rush	1065	140.453	271	21.067950	254
+19	HEADACHE (Hard) by atsuover & Rageminer	/scl/fi/5gxk61vlak0el8zekx6ma/HEADACHE-Hard-by-atsuover-Rageminer.txt?rlkey=40f2q0rbm0bf6pjrrull4zri9&dl=1	Vibe	Vibe	906	105.035	301	15.755250	4
+19	Infectious (Hard) by Tobu	/scl/fi/wgbrits2cw85ggly7i3ck/Infectious-Hard-by-Tobu.txt?rlkey=2dffysl3bx7sa9ju6j6l4pf51&dl=1	Beat	Rush	1483	142.520	376	21.378000	356
+19	Spectronizer (Hard) by Sentai Express [Just Dance]	/scl/fi/qyi7tn2nkrfa1en0k5roe/Spectronizer-Hard-by-Sentai-Express-Just-Dance.txt?rlkey=tnk0stndhde9rb70xdce4twz8&dl=1	Rush	Rush	2244	215.120	651	32.268000	292
+19	Don't Dig Down (Hard) by Treblemation ._	/scl/fi/t2lonw6bjb2zleopjd6qt/Don-t-Dig-Down-Hard-by-Treblemation-._..txt?rlkey=xyh8yqwu7ihkkijohc1cdn6pj&dl=1	Vibe	Vibe	1255	141.839	351	21.275850	201
+19	Jumper (Hard) by Waterflame	/scl/fi/f95w7xdhusth2ot6jcuvo/Jumper-Hard-by-Waterflame.txt?rlkey=4plk33ad8h7flkwc6es1gr5lc&dl=1	Vibe	Vibe	1106	97.128	305	14.569200	191
+19	CRY (Hard) by WHIPPED CREAM [Monstercat]	/scl/fi/l7klp63yrdk8mdzzxm37d/CRY-Hard-by-WHIPPED-CREAM-Monstercat.txt?rlkey=grugxdy5hdv7sml1kcx2tu8xx&dl=1	Flow	Chill	1019	143.570	255	21.535500	255
+19	Raining Tacos (Hard) by Parry Gripp	/scl/fi/86ompo0cpvc00f510xd2u/Raining-Tacos-Hard-by-Parry-Gripp.txt?rlkey=9dn689xg8pth1s3jhvej2nfd8&dl=1	Chill	Vibe	599	89.827	178	13.474050	65
+19	ATHAZA (Classic Map) [EXTENDED CUT] (Hard) by LeaF (7eaF)	/scl/fi/hzfkfjdx7wpcps6t3qh5z/ATHAZA-Classic-Map-EXTENDED-CUT-Hard-by-LeaF-7eaF.txt?rlkey=zwq2tlrgrskiracfba1qaulid&dl=1	Beat	Rush	1193	157.097	349	23.564550	145
+18	Dream (Hard) by Rutra	/scl/fi/0e9kn8upfsxcka9qt827c/Dream-Hard-by-Rutra.txt?rlkey=y9o6cxozd7bbsrlcr836kjzmt&dl=1	Flow	Flow	848	118.658	194	17.798700	267
+19	Let You Go (Hard) by Project Skylate	/scl/fi/0jao5b0xorgs9dztigyv2/Let-You-Go-Hard-by-Project-Skylate.txt?rlkey=zw7ehlq0apf0nvr8smpe6kl5k&dl=1	Chill	Flow	992	133.182	283	19.977300	143
+18	Play It Cool (Hard) by Terry Zhong feat. Conro [Monstercat]	/scl/fi/sgrfacm0z978ia2eatq7l/Play-It-Cool-Hard-by-Terry-Zhong-feat.-Conro-Monstercat.txt?rlkey=dnjnug31undtg1dfugedn9l89&dl=1	Flow	Rush	1142	154.314	346	23.147100	103
+18	Spookeez (Hard) by Kawai Sprite	/scl/fi/c9ndob64o7hksoag08sl9/Spookeez-Hard-by-Kawai-Sprite.txt?rlkey=p8bs76ehngvc6csrgdynkyp6k&dl=1	Chill	Beat	1037	95.947	300	14.392050	138
+18	Winter Horrorland (Hard) by Kawai Sprite feat. Bassetfilms	/scl/fi/92eit39fkwqb622k8nsxs/Winter-Horrorland-Hard-by-Kawai-Sprite-feat.-Bassetfilms.txt?rlkey=syz8lqbx1funhu4u6kij1ksao&dl=1	Vibe	Beat	1110	131.414	273	19.712100	293
+18	Like You! (Hard) by fusq	/scl/fi/q1pli3wjszhuyo9tjcqnq/Like-You-Hard-by-fusq.txt?rlkey=8gze8vitjlw6anaar0qy33cab&dl=1	Chill	Chill	1281	158.019	359	23.702850	203
+18	Shaii (Hard) by Geoxor	/scl/fi/da48ndykkeoej8f7yi9ih/Shaii-Hard-by-Geoxor.txt?rlkey=6ijq1vv5wl2sd9iuc3s6wulsf&dl=1	Chill	Chill	1271	149.645	330	22.446750	283
+18	Perfume! (Hard) by fusq	/scl/fi/nncus2psr2gkx344822x0/Perfume-Hard-by-fusq.txt?rlkey=kvjlpdmpmdw3646640enu3v20&dl=1	Vibe	Chill	748	113.073	237	16.960950	37
+18	Roblox Anthem ('Here We Go') (Hard) by Giants of Industry	/scl/fi/5d0g6hjl5tyzmwjqqdokj/Roblox-Anthem-Here-We-Go-Hard-by-Giants-of-Industry.txt?rlkey=9u5rpa486j8oy5d1c7npn54o7&dl=1	Chill	Rush	1128	156.942	364	23.541300	35
+18	Shape of the Sun (Hard) by Creo	/scl/fi/5cl5518ik7wiymfd3k7sd/Shape-of-the-Sun-Hard-by-Creo.txt?rlkey=2qgnqkzo8upttjcljpci1ribe&dl=1	Flow	Chill	887	110.250	221	16.537500	224
+18	Lightmare (Hard) by Creo	/scl/fi/m3dw8rei2ruj625fbmwpb/Lightmare-Hard-by-Creo.txt?rlkey=74skjzvmajh82llr1adyyt9z4&dl=1	Flow	Chill	1047	135.660	264	20.349000	256
+18	Octane (Hard) by Creo	/scl/fi/k3x5x9ybri3bt3zdwwt9i/Octane-Hard-by-Creo.txt?rlkey=ol6lxrakmwvn9zrhelwpehia8&dl=1	Flow	Flow	868	128.572	214	19.285800	228
+18	Forward (Hard) by Duumu feat. EMIA [Monstercat]	/scl/fi/u8efa97bocb5ptam99aij/Forward-Hard-by-Duumu-feat.-EMIA-Monstercat.txt?rlkey=pjht58bikg26al0pz0w6wmfau&dl=1	Rush	Rush	795	96.060	221	14.409000	132
+18	Pico (Hard) by Kawai Sprite	/scl/fi/nccqrel6o9eiaszhcjqzb/Pico-Hard-by-Kawai-Sprite.txt?rlkey=l04zmie1umcnms3rghqx3ialn&dl=1	Beat	Chill	792	80.022	235	12.003300	88
+18	Slowly (Hard) by Rutra	/scl/fi/berxpkg2j5bxi7djuieht/Slowly-Hard-by-Rutra.txt?rlkey=mvkiu20fv3n0qwsdcasb574e0&dl=1	Beat	Chill	890	143.808	248	21.571200	148
+18	Realms (Hard) by Hinkik & A Himitsu	/scl/fi/dmfnmt2imljx2hz6np4bo/Realms-Hard-by-Hinkik-A-Himitsu.txt?rlkey=zn8k40kywaut6ia1ort4lkfsk&dl=1	Chill	Beat	1344	178.362	401	26.754300	142
+18	Spectrum (Hard) by MUZZ [Monstercat]	/scl/fi/la1jx9mvg6ukzk8hqcuom/Spectrum-Hard-by-MUZZ-Monstercat.txt?rlkey=94uzlnl1kd499w9y7pwjynnj8&dl=1	Beat	Beat	1006	139.079	264	20.861850	215
+18	Magic (Hard) by Chroma	/scl/fi/z7byishnfqyeuchbyty33/Magic-Hard-by-Chroma.txt?rlkey=uibb1feufeqlvt3iqa3kqoy6c&dl=1	Vibe	Rush	1506	196.101	407	29.415150	286
+18	Nautilus (Hard) by Creo	/scl/fi/yyhztdkynb1dmjxfrji9l/Nautilus-Hard-by-Creo.txt?rlkey=d2hehi8cbpr5k3d5inrloej7l&dl=1	Beat	Beat	823	158.225	233	23.733750	124
+18	Clouds in the Blue (Hard) by Camellia	/scl/fi/jxghojdfeg46xv3e33rhr/Clouds-in-the-Blue-Hard-by-Camellia.txt?rlkey=8n1uxwi5h33bri9wzebpv4moq&dl=1	Chill	Chill	944	131.687	273	19.753050	125
+18	Decoy World VIP [EXTENDED CUT] (Hard) by INTERCOM feat. Park Avenue [Monstercat]	/scl/fi/z073m6r80dimvbxu0celm/Decoy-World-VIP-EXTENDED-CUT-Hard-by-INTERCOM-feat.-Park-Avenue-Monstercat.txt?rlkey=mbemf5r18jub91jmjy5cx92x3&dl=1	Rush	Vibe	1837	264.846	479	39.726900	400
+18	Let's Talk (Hard) by Rogue [Monstercat]	/scl/fi/cf7kyaao5pw6sth6kisyy/Let-s-Talk-Hard-by-Rogue-Monstercat.txt?rlkey=fc5xq7bo29altogjv2uy6ezzj&dl=1	Flow	Beat	735	91.932	200	13.789800	136
+18	Decoy World VIP (Hard) by INTERCOM feat. Park Avenue [Monstercat]	/scl/fi/sznolkoyne67llyji5hl9/Decoy-World-VIP-Hard-by-INTERCOM-feat.-Park-Avenue-Monstercat.txt?rlkey=p14et2q2t920yognh7n8bxel5&dl=1	Rush	Vibe	825	116.512	199	17.476800	230
+18	Hemisphere(Remake ver.) (Hard) by ARForest	/scl/fi/knx8mu195c03tx2h8hlku/Hemisphere-Remake-ver.-Hard-by-ARForest.txt?rlkey=grsjh0aunww0hmipc2fq7wuc7&dl=1	Flow	Vibe	885	143.483	257	21.522450	115
+18	Senpai (Hard) by Kawai Sprite	/scl/fi/s8dq0memk1tw4248orxbt/Senpai-Hard-by-Kawai-Sprite.txt?rlkey=iiaqxs6ygrgs663jfb02mz6e9&dl=1	Chill	Vibe	827	95.945	195	14.391750	243
+18	Direction (Hard) by garlagan	/scl/fi/we98s3hx8tiwqkrqj5l09/Direction-Hard-by-garlagan.txt?rlkey=xjxq584m6zmztaayvn70p8ygl&dl=1	Rush	Chill	897	136.375	254	20.456250	137
+18	On our Planet (Hard) by Silentroom	/scl/fi/nkexx30k49iqhr9lkt2ov/On-our-Planet-Hard-by-Silentroom.txt?rlkey=22wkjmvxv64y7wxx6pj3qugny&dl=1	Chill	Vibe	1255	152.063	343	22.809450	225
+18	Dream Dealer (Hard) by Nulb	/scl/fi/ulthwj9aus65bfjbi6v2y/Dream-Dealer-Hard-by-Nulb.txt?rlkey=33ud4w9f3dn3p3fne41cg7w00&dl=1	Chill	Rush	885	99.010	245	14.851500	151
+18	Fur Elise (Hard) by Ludwig van Beethoven (Performed by Rousseau)	/scl/fi/rwk4qn12er4g2vubewffe/Fur-Elise-Hard-by-Ludwig-van-Beethoven-Performed-by-Rousseau.txt?rlkey=28r91ym9rpwzz02h56he2q6ej&dl=1	Beat	Beat	1088	145.957	281	21.893550	247
+18	Higher (Hard) by Tobu	/scl/fi/lcvtqajxjynwvbizql0re/Higher-Hard-by-Tobu.txt?rlkey=k7vgg99rf8ztrvp14te8r90st&dl=1	Vibe	Vibe	846	104.041	267	15.606150	46
+18	LOVERS' OASIS (Hard) by dark cat	/scl/fi/p30v472ckjv6a21oc3qnx/LOVERS-OASIS-Hard-by-dark-cat.txt?rlkey=z5yl1w9vj4sevzvr5bubowofw&dl=1	Rush	Rush	1031	149.426	247	22.413900	292
+18	Summer Is Over (Hard) by naruto2413 (feat. Aya Majiro)	/scl/fi/t61juad5z41us8xpwnvfl/Summer-Is-Over-Hard-by-naruto2413-feat.-Aya-Majiro.txt?rlkey=ylvyhu4ic9ljx8mj4cj15nmgo&dl=1	Chill	Beat	806	111.453	229	16.717950	119
+18	LOVER (Hard) by atsuover & Rageminer	/scl/fi/brz7nqljlnhuulu4jvhv0/LOVER-Hard-by-atsuover-Rageminer.txt?rlkey=nc2rv9twj09i2nwoujcxjc8y5&dl=1	Beat	Beat	640	74.578	179	11.186700	105
+18	Melomania (Hard) by Tobu	/scl/fi/pcg0rtvkh3uret7friec2/Melomania-Hard-by-Tobu.txt?rlkey=3h4q9oc0zuihyv72859zu7r5y&dl=1	Beat	Vibe	870	113.999	245	17.099850	136
+18	Sugar Dance (Hard) by The Just Dance Band [Just Dance]	/scl/fi/0n2geqdva40q0ped4xksk/Sugar-Dance-Hard-by-The-Just-Dance-Band-Just-Dance.txt?rlkey=tf8xm3shw2xy4f3ys0qwvgq5j&dl=1	Vibe	Vibe	1475	181.166	430	27.174900	185
+18	Delirious (Hard) by Maliboux	/scl/fi/dsa2xogds03zvkkmx7fo4/Delirious-Hard-by-Maliboux.txt?rlkey=mhma1tv9krlfl75u72xugmu55&dl=1	Flow	Beat	672	93.047	188	13.957050	109
+18	TAKE A SWIG OF THIS! (Original Version) (Hard) by atsuover & Rageminer	/scl/fi/vtxyyy1upowsxhrc65ykf/TAKE-A-SWIG-OF-THIS-Original-Version-Hard-by-atsuover-Rageminer.txt?rlkey=veel0tejekd3bfaeb7rabvt85&dl=1	Vibe	Rush	839	103.772	275	15.565800	15
+18	Brain Power (Classic Map) [EXTENDED CUT] (Hard) by NOMA	/scl/fi/yw7coq1k8byv4gxz8h7tp/Brain-Power-Classic-Map-EXTENDED-CUT-Hard-by-NOMA.txt?rlkey=gklby2sj29f65h6scoajq7kxo&dl=1	Beat	Flow	874	108.135	265	16.220250	80
+18	By My Side (Hard) by Synthion feat. Yuuna Nini	/scl/fi/ewyup5y01co7ut6bqiokp/By-My-Side-Hard-by-Synthion-feat.-Yuuna-Nini.txt?rlkey=x4h3bay0tb02jlerfxhkxta1f&dl=1	Flow	Chill	1116	199.505	312	29.925750	180
+17	Happy! Lucky! La Kirari (Hard) by Sunao Wada [Nash Music Library]	/scl/fi/ll3s2m34hhdr39l33pspu/Happy-Lucky-La-Kirari-Hard-by-Sunao-Wada-Nash-Music-Library.txt?rlkey=34idtds0pcafyzowzfbkknat1&dl=1	Chill	Flow	1433	160.694	339	24.104100	417
+18	The Bubblegum Break (Russy P Remix) (Hard) by pwnion & TotalCadenza (Remixed by Russy P) [Make a Cake]	/scl/fi/bfd5x2k3sexvfjzrbtr1h/The-Bubblegum-Break-Russy-P-Remix-Hard-by-pwnion-TotalCadenza-Remixed-by-Russy-P-Make-a-Cake.txt?rlkey=k2vxroybqui8crhehzkh7mxf4&dl=1	Vibe	Vibe	1042	136.367	339	20.455050	24
+17	Gateway (Hard) by fusq	/scl/fi/32d4dha77bsxtp10v9hv6/Gateway-Hard-by-fusq.txt?rlkey=v4nn2964zpzosurws5mtek1e8&dl=1	Chill	Chill	1213	163.888	358	24.583200	140
+17	Ink (Hard) by BSlick feat. Swiblet	/scl/fi/xtwrct498migucx26xt76/Ink-Hard-by-BSlick-feat.-Swiblet.txt?rlkey=ieclhiwvzjo1vtm0zd58h9b2a&dl=1	Beat	Chill	711	166.395	170	24.959250	202
+17	Phantom (Hard) by F-777 & Wyldfyre1	/scl/fi/6p4dxi0rxdqxo4xaw8orr/Phantom-Hard-by-F-777-Wyldfyre1.txt?rlkey=f2oq7cc3rvcl17gk6gyrhz5xz&dl=1	Vibe	Flow	817	115.556	263	17.333400	30
+17	Something in the Water (Hard) by tv room	/scl/fi/4rt81fi6z9ldj80y40ayn/Something-in-the-Water-Hard-by-tv-room.txt?rlkey=9655lrteprmc2bchcrx0etrst&dl=1	Chill	Chill	1191	147.586	305	22.137900	276
+17	Carnivores (Hard) by Creo	/scl/fi/6ms4ps76b4zzkifq6i2kh/Carnivores-Hard-by-Creo.txt?rlkey=wlf7cuie1axw3m2akdfhpbz6c&dl=1	Beat	Beat	1106	138.861	285	20.829150	251
+17	The Wither (Hard) by BSlick	/scl/fi/tpgkea0d00blh9zbcg6gr/The-Wither-Hard-by-BSlick.txt?rlkey=iaahru1wrh1zrh30maqy1sr9u&dl=1	Vibe	Vibe	931	162.500	245	24.375000	196
+17	Ghosting (Hard) by BSlick	/scl/fi/5iw73wqdhdkoe7jxwp3ii/Ghosting-Hard-by-BSlick.txt?rlkey=j4hzo8zlrr9lbwpsn1gn9su2d&dl=1	Beat	Rush	714	112.123	191	16.818450	142
+17	Jungle (Hard) by HimitsuHiketsu	/scl/fi/k4uc9jg72zsc0tt2b0ay7/Jungle-Hard-by-HimitsuHiketsu.txt?rlkey=9e1fhzpy1i9lz8adycp8h95ni&dl=1	Chill	Beat	853	169.003	248	25.350450	111
+17	Daily Life (Hard) by FinnMK	/scl/fi/ho63kue7hznxbhup7kxxn/Daily-Life-Hard-by-FinnMK.txt?rlkey=a9cevi54ck014oj1ifhikryel&dl=1	Beat	Chill	804	120.020	221	18.003000	141
+17	Strong (Hard) by BSlick	/scl/fi/sd2upgfh88ejj8pjxjffu/Strong-Hard-by-BSlick.txt?rlkey=4c23h6rjbv3af2n065ued1o5l&dl=1	Chill	Vibe	1280	166.041	302	24.906150	374
+17	Together forever, my lovely lovely video game cartridges (Hard) by Camellia	/scl/fi/7pnhttdmvm1ecwklom071/Together-forever-my-lovely-lovely-video-game-cartridges-Hard-by-Camellia.txt?rlkey=t6rozopddn3hxvdqpmc96w7b7&dl=1	Beat	Beat	1067	129.365	289	19.404750	202
+17	Rotasu (Hard) by KepoWorld	/scl/fi/r4nj9xvz5s736oybmoaa3/Rotasu-Hard-by-KepoWorld.txt?rlkey=8m7ewpz1pks696rzohl4xolaw&dl=1	Flow	Flow	697	125.267	147	18.790050	256
+17	All Right There (Hard) by BSlick feat. CG5	/scl/fi/w2votfgdgfztu73os4xbt/All-Right-There-Hard-by-BSlick-feat.-CG5.txt?rlkey=8rftf9tz6w0rkormvdreeup78&dl=1	Vibe	Vibe	1048	150.276	274	22.541400	226
+17	Sunburst (Hard) by Tobu & Itro	/scl/fi/zaitds380jc2zz28m044d/Sunburst-Hard-by-Tobu-Itro.txt?rlkey=djix8l9n2doizgipxe48za6ym&dl=1	Beat	Beat	553	90.198	169	13.529700	46
+17	Lollipop (Hard) by Kanro	/scl/fi/87bwfvle5nvhspqyj8fl0/Lollipop-Hard-by-Kanro.txt?rlkey=hfidtpjmdqer52dssu2x43i4d&dl=1	Vibe	Vibe	791	127.852	216	19.177800	144
+17	Find Myself (Hard) by Tobu, Bonalt & Hadi feat. Tom Martensson	/scl/fi/2g85zg3wtvwskazp6l82w/Find-Myself-Hard-by-Tobu-Bonalt-Hadi-feat.-Tom-Martensson.txt?rlkey=c29yxhkfh0nfvhh8bb37vbylj&dl=1	Chill	Vibe	1001	168.035	286	25.205250	145
+17	With Your Love (Hard) by Tobu	/scl/fi/tnaxbaos9u85ckp7iddjr/With-Your-Love-Hard-by-Tobu.txt?rlkey=4mocmk5u7q25fzdtv34qrhy2r&dl=1	Chill	Chill	1194	164.990	371	24.748500	82
+16	Stadium Rave A (Hard) by Mark Governor	/scl/fi/b5yr2wmh4b1r7zb1s9i9s/Stadium-Rave-A-Hard-by-Mark-Governor.txt?rlkey=nktilo6gubdtpqyehm7hzl65z&dl=1	Beat	Rush	1259	149.578	339	22.436700	243
+16	Ena (Hard) by Hinkik	/scl/fi/us58avm0z11rpbsy2ku1p/Ena-Hard-by-Hinkik.txt?rlkey=1mr23lf9i8ytnylkmzwvx1orq&dl=1	Chill	Chill	962	105.280	234	15.792000	260
+16	Adopt Me (Hard) by BSlick	/scl/fi/8vzglma2rbg47eqorl509/Adopt-Me-Hard-by-BSlick.txt?rlkey=99rbi5dqckf8rtwpun5mz1h65&dl=1	Vibe	Rush	1158	160.352	364	24.052800	67
+16	Baby I Don't Care (Hard) by Johnny / Michiko Hamada [Nash Music Library]	/scl/fi/moc16h1oevg0se8qh1lxv/Baby-I-Don-t-Care-Hard-by-Johnny-Michiko-Hamada-Nash-Music-Library.txt?rlkey=fiz3ric5x34aknrddz1ny9xo6&dl=1	Chill	Beat	575	106.016	170	15.902400	67
+15	Chillout (Hard) by Rutra	/scl/fi/ibotehneuo7b7ndw90bc4/Chillout-Hard-by-Rutra.txt?rlkey=a1pne5lt1zln5zlj3d7ivhkh7&dl=1	Vibe	Rush	1049	166.878	308	25.031700	126
+15	Are We Still Young (Hard) by Grant feat. Juneau [Monstercat]	/scl/fi/lnbdgj7qay89t2cph4ijl/Are-We-Still-Young-Hard-by-Grant-feat.-Juneau-Monstercat.txt?rlkey=hu6jwpx8sb69n5gmapn3go4ix&dl=1	Vibe	Flow	545	104.730	137	15.709500	136
+16	Colors (Hard) by Tobu	/scl/fi/3vors4dpzghtspu3q0u6q/Colors-Hard-by-Tobu.txt?rlkey=lgw3usodjmnswmy9ds6ldy1uz&dl=1	Flow	Flow	1094	137.012	277	20.551800	264
+15	Gold (Hard) by Koven [Monstercat]	/scl/fi/nxujm82ndanv57bhrl3eu/Gold-Hard-by-Koven-Monstercat.txt?rlkey=ravibxcfczmnzymjmhqw0i8ay&dl=1	Beat	Rush	522	127.251	142	19.087650	98
+15	Gold [EXTENDED CUT] (Hard) by Koven [Monstercat]	/scl/fi/lww6rf0ug6f2ndu0y1e22/Gold-EXTENDED-CUT-Hard-by-Koven-Monstercat.txt?rlkey=tpi4enhraj4g5xfa95703bwau&dl=1	Beat	Rush	1046	258.031	279	38.704650	211
+16	Gravity (Hard) by Jonathan Eiter	/scl/fi/3kjxidj2f83twu82jzjyw/Gravity-Hard-by-Jonathan-Eiter.txt?rlkey=vnvsexp6whr3a8uhap6u0uxxr&dl=1	Chill	Chill	820	114.750	227	17.212500	141
+16	Home (Hard) by Sacuna [Sound Space]	/scl/fi/f1y9rr62wju0aqlbzi18c/Home-Hard-by-Sacuna-Sound-Space.txt?rlkey=6qvrsnz7ibx9b2zovax766iii&dl=1	Vibe	Rush	840	134.691	211	20.203650	208
+16	Guardian (Hard) by Hinkik	/scl/fi/v6y21yv992pght9iutipr/Guardian-Hard-by-Hinkik.txt?rlkey=6cqbl22o2n711dqha5olwt9nv&dl=1	Chill	Beat	1051	120.194	297	18.029100	160
+15	Hue Shift (Hard) by coda	/scl/fi/w9w1j5ljytlpexoq9fpuj/Hue-Shift-Hard-by-coda.txt?rlkey=f4y61a81td9n33949iyaf0bf2&dl=1	Vibe	Chill	978	139.059	253	20.858850	221
+16	La Belle (Hard) by Tobu	/scl/fi/wdjwmi1snxc3ynk7c37wo/La-Belle-Hard-by-Tobu.txt?rlkey=v84585jgb3uqmomyk8l5h0p1z&dl=1	Flow	Chill	1225	174.511	394	26.176650	44
+16	I Can't (Hard) by Tony Romera [Monstercat]	/scl/fi/vf7qg2xdqu33g8rvjog8q/I-Can-t-Hard-by-Tony-Romera-Monstercat.txt?rlkey=n5gfkrfb54qqze3jcxe1yl7po&dl=1	Chill	Flow	1317	159.106	317	23.865900	368
+15	Little Drummer Girl (Hard) by nekodex	/scl/fi/cwt621lhhqwabxxrznwd4/Little-Drummer-Girl-Hard-by-nekodex.txt?rlkey=cchg69uleoi71jtxg4g0bixc8&dl=1	Chill	Vibe	741	123.411	177	18.511650	211
+16	Place On Fire (Hard) by Creo	/scl/fi/6xgglplv6j4a7fd945bg0/Place-On-Fire-Hard-by-Creo.txt?rlkey=mqeynvot4kmlrz8vnczabth81&dl=1	Beat	Rush	1054	168.892	252	25.333800	299
+15	Outbreaker (Hard) by Hinkik	/scl/fi/3nx78dtuew1owan6cy46u/Outbreaker-Hard-by-Hinkik.txt?rlkey=01pw6xuqzrxmxftp7tgn2hjiz&dl=1	Chill	Beat	756	105.077	200	15.761550	157
+16	Serenity (Hard) by KepoWorld	/scl/fi/901gh6tr0ulax7a0sj19v/Serenity-Hard-by-KepoWorld.txt?rlkey=b2xi0a9yc68618g50p27wxujn&dl=1	Chill	Flow	615	113.398	150	17.009700	166
+16	Time Leaper (Hard) by Hinkik	/scl/fi/knikk7812vwv2p27ypqyp/Time-Leaper-Hard-by-Hinkik.txt?rlkey=zqku4tu2yyw5ppz680jw4mxdn&dl=1	Chill	Beat	1168	136.060	271	20.409000	355
+16	Share Friendship (Hard) by Chroma	/scl/fi/iknfvqdb8dcahpcfy1k7j/Share-Friendship-Hard-by-Chroma.txt?rlkey=bcezaanedpskyrb62724nef58&dl=1	Vibe	Beat	1367	190.726	367	28.608900	267
+16	Taking Me Higher (Hard) by Rootkit [Monstercat]	/scl/fi/izjn9wr894bc19mjjmf36/Taking-Me-Higher-Hard-by-Rootkit-Monstercat.txt?rlkey=2cmjzovgnd1330749f60hptsn&dl=1	Vibe	Flow	681	99.058	182	14.858700	137
+16	Walkin' 'n' Strollin' (Hard) by FinnMK	/scl/fi/h4efiya9k093cc9gwpo8e/Walkin-n-Strollin-Hard-by-FinnMK.txt?rlkey=dhka05a75cylvwjvw84gkebcb&dl=1	Chill	Flow	1029	166.654	313	24.998100	90
+16	Who Needs A Broken Heart (Hard) by Tobu & Mangoo	/scl/fi/i6mud33tcvuvlyqprd3x6/Who-Needs-A-Broken-Heart-Hard-by-Tobu-Mangoo.txt?rlkey=pn2jmmedsmnnwhzg4z8s6c7r9&dl=1	Vibe	Vibe	1013	184.678	306	27.701700	95
+14	From Here (Hard) by CloudNone [Monstercat]	/scl/fi/7ydilftr7tswtwzgg8e48/From-Here-Hard-by-CloudNone-Monstercat.txt?rlkey=qks9748bvml3xfjxlckceg6cc&dl=1	Beat	Rush	849	151.976	270	22.796400	41
+14	Monday Night Monsters (Hard) by FinnMK	/scl/fi/4th5xs4muuiqhdeqmwgds/Monday-Night-Monsters-Hard-by-FinnMK.txt?rlkey=qlcq6dsar6rqhlz1frid4oldq&dl=1	Flow	Beat	536	131.970	150	19.795500	88
+15	Out Of This Swirl (Hard) by pwnion [Make a Cake]	/scl/fi/11b0a5j1pvd3wtbn3x4ae/Out-Of-This-Swirl-Hard-by-pwnion-Make-a-Cake.txt?rlkey=kdtrof0yxkzoohtgdvjbetlxr&dl=1	Chill	Chill	805	124.252	213	18.637800	167
+14	Fresh (Hard) by Kawai Sprite	/scl/fi/g7dj068oprwgialsh21g8/Fresh-Hard-by-Kawai-Sprite.txt?rlkey=di0hpzo3qwrg60i8turmffxmd&dl=1	Beat	Rush	643	79.576	209	11.936400	16
+14	Shironobo (Hard) by Se-U-Ra	/scl/fi/5pnleezblhffa4qxbctq7/Shironobo-Hard-by-Se-U-Ra.txt?rlkey=7j7vmswacnzp2o7502eymwg9w&dl=1	Chill	Chill	782	142.770	183	21.415500	235
+14	Bopeebo (Hard) by Kawai Sprite	/scl/fi/zihrtbop17hgenxbr2at0/Bopeebo-Hard-by-Kawai-Sprite.txt?rlkey=sf1uvff7qhf834axglci1j52n&dl=1	Vibe	Vibe	471	76.609	108	11.491350	148
+14	loner (Hard) by joan	/scl/fi/67v9h6kqnbdugh22un0kn/loner-Hard-by-joan.txt?rlkey=tcxm0lrf3g09vxh6ijj7ybjha&dl=1	Vibe	Vibe	837	158.087	232	23.713050	141
+12	Decisions (Hard) by FinnMK	/scl/fi/1havy2j6pwgyl10n8mgu3/Decisions-Hard-by-FinnMK.txt?rlkey=jfvks95yae5qheh69hv6wz1ki&dl=1	Vibe	Chill	362	95.830	120	14.374500	3
+14	Open Your Eyes (Hard) by BSlick feat. DHeusta	/scl/fi/7autp3j59rwt383a7up03/Open-Your-Eyes-Hard-by-BSlick-feat.-DHeusta.txt?rlkey=kdcedc912ue607ttdx0uloqc9&dl=1	Vibe	Chill	740	142.757	212	21.413550	106
+13	Neon (Hard) by F.O.O.L & Midranger [Monstercat]	/scl/fi/wk95igjwr124eku8gas2v/Neon-Hard-by-F.O.O.L-Midranger-Monstercat.txt?rlkey=bul3c25tj0rc0w3zae0kp4vym&dl=1	Flow	Chill	423	93.638	120	14.045700	63
+10	Mark Twain (Hard) by Half an Orange [Monstercat]	/scl/fi/7nqbhjjcyn6n1u2rnsy71/Mark-Twain-Hard-by-Half-an-Orange-Monstercat.txt?rlkey=tjiq58svidc5xvstzqqickfo2&dl=1	Beat	Vibe	382	84.621	105	12.693150	68
+12	Salty Sugar (Hard) by pwnion [Make a Cake]	/scl/fi/78w5n8jnnnf0o8jf1gt2k/Salty-Sugar-Hard-by-pwnion-Make-a-Cake.txt?rlkey=hb8gfgbb94ndz138agdv8epnt&dl=1	Flow	Flow	590	128.070	162	19.210500	106
+14	Yeah! (Hard) by fusq	/scl/fi/6afrtrkiowqesx3s22gix/Yeah-Hard-by-fusq.txt?rlkey=z9m1o1wxhrc3pufnw05vdsud1&dl=1	Chill	Flow	1078	168.888	271	25.333200	267
+30	Euphoria (Hard) by Laur [LAUR1200]	/scl/fi/j9lv0guztmgbuc0iahyqc/Euphoria-Hard-by-Laur-LAUR1200.txt?rlkey=oz403zm7rmj8ikla1pnxv6v0o&dl=1	Beat	Chill	1313	98.373	389	14.755950	147
+34	Bad Apple!! (Camellia's 'Bad Psy!!' Remix) (Hard) by Nomico	/scl/fi/l26whue844i0oqh9gtyif/Bad-Apple-Camellia-s-Bad-Psy-Remix-Hard-by-Nomico.txt?rlkey=ptokkg0etz6in4b65t2wnqcka&dl=1	Rush	Rush	3905	290.314	1086	43.547100	645
+24	RoBeats Remix Ten (Hard) by Various Artists (Remixed by Fritzy)	/scl/fi/2hakyjkg0yecd7zub42hd/RoBeats-Remix-Ten-Hard-by-Various-Artists-Remixed-by-Fritzy.txt?rlkey=w415uwmf832hk3wvsx9pn915a&dl=1	Rush	Flow	2930	303.494	859	45.524100	351
+17	My World (Hard) by Porth	/scl/fi/rj59ag4le1pwkri83lo5d/My-World-Hard-by-Porth.txt?rlkey=c9byz3cze0hf762wowvyjzei9&dl=1	Vibe	Flow	1184	147.790	336	22.168500	177
+24	RoBeats Remix Ten (Hard) by Various Artists (Remixed by Fritzy)	/scl/fi/etq8zft37uyot6gh986qh/RoBeats-Remix-Ten-Hard.txt?rlkey=1x2bedk1noo1633ib7s789ouv&dl=1	Rush	Flow	2930	303.494	859	45.524100	351
+26	Trick or Treat (Hard) by Acylid	/scl/fi/ka4bcjdg8lxsutnh48zgf/Trick-or-Treat-Hard-by-Acylid.txt?rlkey=7d762tizoj2bn5lhdza5stdh1&dl=1	Flow	Flow	1373	135.519	451	20.327850	20
+23	Roses (Hard) by Kawai Sprite	/scl/fi/mhuexqjx8e58f5le1jbjm/Roses-Hard-by-Kawai-Sprite.txt?rlkey=4geydnwnkztohk7oj02ydfu2t&dl=1	Chill	Vibe	951	88.805	303	13.320750	42
+22	Save Me (Hard) by Kanro	/scl/fi/agyk84a1bdt7c4yo4rs9o/Save-Me-Hard-by-Kanro.txt?rlkey=r1pdp11lto6raltd2o4t3p5xv&dl=1	Rush	Chill	1388	155.225	340	23.283750	368
+19	Roses (Hard) by Maliboux	/scl/fi/l2ak9zrj8ndmyk6uyzv3e/Roses-Hard-by-Maliboux.txt?rlkey=ji3ft8urbpj2dp2dwvji7mtkc&dl=1	Chill	Vibe	803	102.380	234	15.357000	101
+21	Save Me (Hard) by Tobu	/scl/fi/3d48v23w8zpkksnm33em8/Save-Me-Hard-by-Tobu.txt?rlkey=puzwrv6ephy7x8e95ua3fka7b&dl=1	Rush	Flow	1542	169.554	428	25.433100	258
+26	Trick or Treat (Hard) by Hyper Potions	/scl/fi/5gnktdk264rj5aoykjrfq/Trick-or-Treat-Hard-by-Hyper-Potions.txt?rlkey=4uqd291bfvq1zokaduj2knh2e&dl=1	Flow	Beat	1861	147.106	499	22.065900	363
+21	Enigma (Hard) by Creo	/scl/fi/6vk7r71e28flwyrxaxtp4/Enigma-Hard-by-Creo.txt?rlkey=a2q1tncsxs044rzqu8ib7bsy3&dl=1	Beat	Chill	1457	153.345	335	23.001750	453
+26	Enigma (Hard) by Pixel Terror & Aviella [Monstercat]	/scl/fi/h1eo9kfelob58h9nf6jih/Enigma-Hard-by-Pixel-Terror-Aviella-Monstercat.txt?rlkey=hiyuirwq3tfyuvm3w9zd3elwc&dl=1	Beat	Chill	1946	179.214	469	26.882100	538
+16	GOOD ENOUGH! (Full Vocal Version) (Hard) by atsuover	/scl/fi/463148ov4cppf3ltao33u/GOOD-ENOUGH-Full-Vocal-Version-Hard-by-atsuover.txt?rlkey=ieh7e86zwaqjsw8mi5n17ycte&dl=1	Rush	Vibe	1193	163.689	353	24.553350	133
+18	GOOD ENOUGH! (Hard) by atsuover & Rageminer	/scl/fi/vzgpkf3skenttmcwpxenj/GOOD-ENOUGH-Hard-by-atsuover-Rageminer.txt?rlkey=weg11j734120dymtkyb7r147w&dl=1	Flow	Flow	655	92.091	195	13.813650	72
+27	Monster (Hard) by Yasuki Miyagi [Nash Music Library]	/scl/fi/xh5gzgld7xfuyk6wau2tx/Monster-Hard-by-Yasuki-Miyagi-Nash-Music-Library.txt?rlkey=ys2p0r4rfh0l1gj3rc1cmpgxg&dl=1	Vibe	Chill	1411	111.896	370	16.784400	300
+19	Monster (Hard) by Kawai Sprite feat. Bassetfilms	/scl/fi/aluqcgocvgbi7x4mmrud8/Monster-Hard-by-Kawai-Sprite-feat.-Bassetfilms.txt?rlkey=w2cdrq4zdv6ptlq1y98k1vpwk&dl=1	Vibe	Vibe	1475	175.759	375	26.363850	349
+28	Aurora (Hard) by Synthion	/scl/fi/cp4xzbebjzlestxpg3qqx/Aurora-Hard-by-Synthion.txt?rlkey=b469621il0pyoj4sev0wn5m93&dl=1	Chill	Flow	1841	163.866	478	24.579900	406
+26	Aspiration (Hard) by Ardolf	/scl/fi/55dev4b0z90xk7znvksjv/Aspiration-Hard-by-Ardolf.txt?rlkey=kzb36nl8ad4mdsrsthk4ygt1l&dl=1	Chill	Rush	1519	114.160	345	17.124000	484
+22	Aurora (Hard) by Creo	/scl/fi/7enkcrythn63go05d6lms/Aurora-Hard-by-Creo.txt?rlkey=mgahgczgvz664up1onhl0w72y&dl=1	Chill	Chill	1709	156.506	429	23.475900	423
+25	Aspiration (Hard) by Kagetora	/scl/fi/h4vvtjly2fsoy62ikgiyu/Aspiration-Hard-by-Kagetora.txt?rlkey=pkajzm8tkie2j5s0wdrt25xu3&dl=1	Chill	Beat	1756	168.445	533	25.266750	157
+30	Broken White (Hard) by HyuN	/scl/fi/p22j5gbzzkkx92vqeztk5/Broken-White-Hard-by-HyuN.txt?rlkey=wr1fkbtcabfi8u8obspflko5t&dl=1	Vibe	Beat	1580	126.526	483	18.978900	132
+31	Lights [EXTENDED CUT] (Hard) by Project Skylate	/scl/fi/pmw63ifjjhpnxv6t3hbnu/Lights-EXTENDED-CUT-Hard-by-Project-Skylate.txt?rlkey=s3p7610oh8utc97vixo88smna&dl=1	Chill	Chill	2639	263.448	718	39.517200	485
+18	BRODYAGA FUNK (Hard) by Eternxlkz	/scl/fi/gghs6ho45njh6qj5l18t1/BRODYAGA-FUNK-Hard-by-Eternxlkz.txt?rlkey=f92406qwpc47hg3yqra2st1mu&dl=1	Vibe	Vibe	822	130.838	266	19.625700	24
+24	ENOUGH! (Hard) by Eternxlkz	/scl/fi/00zpy2iqt9re4s29s5x2u/ENOUGH-Hard-by-Eternxlkz.txt?rlkey=hrui25h7j1fo5j8vx3ag6uefn&dl=1	Flow	Flow	1498	131.063	340	19.659450	479
+32	Geton the Ascending Current (Spinoff of 'Loudly Cloudy') [EXTENDED CUT] (Hard) by seatrus	/scl/fi/n1sr0hqimpc0ppoi2v4bc/Geton-the-Ascending-Current-Spinoff-of-Loudly-Cloudy-EXTENDED-CUT-Hard-by-seatrus.txt?rlkey=qgjms6ss07yzids19v2y3w428&dl=1	Beat	Flow	4314	281.309	1037	42.196350	1202
+29	REBIRTH (Hard) by Dictate & Silentroom	/scl/fi/iq6cy3lm2l97kshdkqyij/REBIRTH-Hard-by-Dictate-Silentroom.txt?rlkey=hjylse24z18gr2pgypgu4d4w7&dl=1	Flow	Chill	1922	150.646	604	22.596900	110
+21	Mexican Phonk Eki (Hard) by NUEKI x TOLCHONOV	/scl/fi/66wjwi0je5wzsieav9p0q/Mexican-Phonk-Eki-Hard-by-NUEKI-x-TOLCHONOV.txt?rlkey=95es3zn6qgohwmgojeixtauw5&dl=1	Rush	Rush	891	94.336	234	14.150400	189
