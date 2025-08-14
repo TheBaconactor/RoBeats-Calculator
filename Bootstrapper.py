@@ -1,591 +1,353 @@
-#!/usr/bin/env python3
-# SPDX-License-Identifier: MIT
-"""
-Bootstrap & Runner (bootstrap.py)
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 
-- Prepares a reproducible Python environment (prefers PyPy).
-- Discovers project data paths and builds TSV song lists.
-- Runs Manual_Calculator.py exclusively.
-- CLI flags for CI/dev usage and verbosity.
-
-Usage:
-    python bootstrap.py [-v] [--allow-cpython] [--force-venv] [--force-rescan] [--skip-optimizer] [--profile]
-"""
-
-from __future__ import annotations
-
-import argparse
-import configparser
-import ctypes
-import json
-import logging
 import os
-import platform
+import sys
+import json
+import time
+import venv
 import shutil
 import subprocess
-import sys
-import time
-import urllib.request
-import venv
-from collections import deque
 from pathlib import Path
-from typing import Dict, Iterable, List, Optional
+from collections import deque
 
-# --------------------------------------------------------------------------------------
-# Paths & Constants
-# --------------------------------------------------------------------------------------
+# ------------------------------------------------------------------------------
+# Paths & constants
+# ------------------------------------------------------------------------------
+PROJECT_ROOT = Path(__file__).resolve().parent
+BIN_DIR      = PROJECT_ROOT / "bin"
+BUILD_DIR    = BIN_DIR / "build"
+VENV_DIR     = BIN_DIR / "venv"
+CACHE_FILE   = BIN_DIR / "paths_cache.json"
 
-PROJECT_ROOT: Path = Path(__file__).resolve().parent
-BIN_DIR: Path = PROJECT_ROOT / "bin"
-BUILD_DIR: Path = BIN_DIR / "build"
-VENV_DIR: Path = BIN_DIR / "venv"
-CACHE_FILE: Path = BIN_DIR / "paths_cache.json"
-RUN_CONFIG_FILE: Path = PROJECT_ROOT / "run_config.ini"
-PROFILE_FILE: Path = BIN_DIR / "profile.prof"
+MANUAL_CALC  = PROJECT_ROOT / "Manual_Calculator.py"
 
-TARGET_DIRS = {"Easy", "Normal", "Hard"}
-TARGET_FILES = {"Gear.csv", "Stats.txt"}
+REQUIREMENTS = PROJECT_ROOT / "requirements.txt"
 
-SONG_REQUIRED_KEYS = [
-    "Song Name",
-    "Difficulty",
-    "Primary Color",
-    "Secondary Color",
-    "Last Note Time",
-    "Total Notes",
-    "Fever Fill",
-    "Fever Time",
-    "Long Notes",
-]
-
-OPTIMIZER_CANDIDATES = [
-    "Manual_Calculator.py",  # run this one exclusively if present
-    "Optimizer - Latest.py",
-    "Optimizer-Latest.py",
-    "optimizer - latest.py",
-    "optimizer-latest.py",
-    "Optimizer.py",
-    "optimizer.py",
-]
-
-# --------------------------------------------------------------------------------------
+# ------------------------------------------------------------------------------
 # Logging
-# --------------------------------------------------------------------------------------
+# ------------------------------------------------------------------------------
+def _log(level: str, msg: str) -> None:
+    print(f"{level} | {msg}")
 
-def setup_logging(verbose: bool) -> None:
-    level = logging.DEBUG if verbose else logging.INFO
-    logging.basicConfig(
-        level=level,
-        format="%(levelname)s | %(message)s",
-    )
+def info(msg: str) -> None:
+    _log("INFO", msg)
 
-log = logging.getLogger(__name__)
+def warn(msg: str) -> None:
+    _log("WARNING", msg)
 
-# --------------------------------------------------------------------------------------
-# Errors & Utilities
-# --------------------------------------------------------------------------------------
+def err(msg: str) -> None:
+    _log("ERROR", msg)
 
-class BootstrapError(RuntimeError):
-    """Fatal bootstrap/setup error."""
+def exit_err(msg: str) -> None:
+    err(msg)
+    sys.exit(1)
 
-def run_cmd(cmd: Iterable[str] | str, *, shell: bool = False, check: bool = True, **kw) -> None:
-    """Run a subprocess and raise BootstrapError on failure."""
+# ------------------------------------------------------------------------------
+# Utilities
+# ------------------------------------------------------------------------------
+def run_cmd(cmd, shell=False, **kw):
+    """
+    Run a command and raise a clean error on failure.
+    """
     try:
-        subprocess.run(cmd, shell=shell, check=check, **kw)
+        subprocess.run(cmd, shell=shell, check=True, **kw)
     except subprocess.CalledProcessError as e:
-        raise BootstrapError(f"Command failed ({cmd!r}): {e}") from e
+        exit_err(f"Command failed ({cmd}): {e}")
 
-def online(url: str = "https://www.google.com", timeout: int = 5) -> bool:
+def online(url="https://pypi.org", timeout=5):
     try:
-        urllib.request.urlopen(url, timeout=timeout)  # simple reachability check
+        import urllib.request
+        urllib.request.urlopen(url, timeout=timeout)
         return True
     except Exception:
         return False
 
-def is_windows() -> bool:
-    return sys.platform.startswith("win32")
+def get_search_dirs():
+    """Windows helper: broader search roots for exe discovery if needed."""
+    if sys.platform != "win32":
+        return []
+    keys = ["PROGRAMDATA", "PROGRAMFILES", "PROGRAMFILES(X86)"]
+    res = []
+    for k in keys:
+        v = os.environ.get(k)
+        if v and os.path.isdir(v):
+            res.append(v)
+    return res
 
-def is_pypy() -> bool:
-    return sys.implementation.name.lower() == "pypy"
-
-def which(exe: str) -> Optional[str]:
-    return shutil.which(exe)
-
-def relaunch_with_env(executable: str, script: Path, extra_env: Dict[str, str]) -> None:
-    """Re-exec under a different Python interpreter."""
-    env = os.environ.copy()
-    env.update(extra_env)
-    args = [executable, str(script), *sys.argv[1:]]
-    log.info("Re-launching with %s", executable)
-    run_cmd(args, shell=False, env=env)
-    sys.exit(0)
-
-# --------------------------------------------------------------------------------------
-# Windows helpers (Chocolatey / admin)
-# --------------------------------------------------------------------------------------
-
-def is_admin_windows() -> bool:
-    if not is_windows():
-        return False
-    try:
-        return ctypes.windll.shell32.IsUserAnAdmin() != 0  # type: ignore[attr-defined]
-    except Exception:
-        return False
-
-def ensure_chocolatey() -> None:
-    """Install Chocolatey if missing (Windows only). Requires admin."""
-    if not is_windows():
-        return
-
-    if which("choco.exe"):
-        log.debug("Chocolatey found.")
-        return
-
-    if not is_admin_windows():
-        params = " ".join(f'"{arg}"' for arg in sys.argv)
-        try:
-            ret = ctypes.windll.shell32.ShellExecuteW(  # type: ignore[attr-defined]
-                None, "runas", sys.executable, params, None, 1
-            )
-            if int(ret) <= 32:
-                raise RuntimeError(f"ShellExecuteW returned {ret}")
-            sys.exit(0)  # parent exits; elevated child will continue
-        except Exception as e:
-            raise BootstrapError(f"Administrator elevation failed: {e}") from e
-
-    if not online():
-        raise BootstrapError("No Internet connection. Cannot install Chocolatey.")
-
-    log.info("Installing Chocolatey...")
-    ps = (
-        "powershell -NoProfile -ExecutionPolicy Bypass -Command "
-        "\"iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))\""
-    )
-    run_cmd(ps, shell=True)
-    time.sleep(5)
-    if not which("choco.exe"):
-        raise BootstrapError("Chocolatey installation failed.")
-    log.info("Chocolatey installed.")
-
-def find_pypy_executable() -> Optional[str]:
-    """Find the PyPy3 executable on this system."""
-    candidates = ["pypy3.exe", "pypy3"]
-    for c in candidates:
-        p = which(c)
+def find_in_path(names):
+    """Return first existing executable in PATH from a list of candidates."""
+    for n in names:
+        p = shutil.which(n)
         if p:
-            return p
-    if is_windows():
-        env_candidates = [os.environ.get(k) for k in ("PROGRAMFILES", "PROGRAMFILES(X86)")]
-        env_candidates = [p for p in env_candidates if p and os.path.isdir(p)]
-        for base in env_candidates:
-            for root, _, files in os.walk(base):
-                if "pypy3.exe" in files:
-                    return os.path.join(root, "pypy3.exe")
+            return Path(p)
     return None
 
-def ensure_pypy_installed() -> str:
-    """Ensure PyPy exists; on Windows install via Chocolatey if needed."""
-    pypy = find_pypy_executable()
-    if pypy:
-        return pypy
-
-    if is_windows():
-        if not online():
-            raise BootstrapError("No Internet connection. Cannot install PyPy3.")
-        ensure_chocolatey()
-        log.info("Installing PyPy3 via Chocolatey...")
-        run_cmd(["choco", "install", "pypy3", "-y"], shell=False)
-        time.sleep(5)
-        pypy = find_pypy_executable()
-        if not pypy:
-            raise BootstrapError("PyPy3 installation failed.")
-        log.info("PyPy3 installed.")
-        return pypy
-
-    raise BootstrapError("PyPy3 not found. Please install pypy3 and re-run.")
-
-# --------------------------------------------------------------------------------------
-# Config & Cache
-# --------------------------------------------------------------------------------------
-
-def load_run_config() -> configparser.ConfigParser:
-    cfg = configparser.ConfigParser()
-    if not RUN_CONFIG_FILE.exists():
-        cfg["Profiling"] = {"optimizer_profiling": "False"}
-        with RUN_CONFIG_FILE.open("w", encoding="utf-8") as f:
-            cfg.write(f)
-        log.info("Created default run config at %s", RUN_CONFIG_FILE)
-    else:
-        cfg.read(RUN_CONFIG_FILE)
-        if "Profiling" not in cfg:
-            cfg["Profiling"] = {"optimizer_profiling": "False"}
-    return cfg
-
-def save_cache(data: Dict[str, str]) -> None:
+# ------------------------------------------------------------------------------
+# Cache helpers
+# ------------------------------------------------------------------------------
+def save_cache(data: dict) -> None:
     BIN_DIR.mkdir(parents=True, exist_ok=True)
-    with CACHE_FILE.open("w", encoding="utf-8") as f:
+    with open(CACHE_FILE, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2)
 
-def load_cache() -> Dict[str, str]:
-    if not CACHE_FILE.exists():
-        return {}
-    try:
-        with CACHE_FILE.open("r", encoding="utf-8") as f:
-            return json.load(f)
-    except Exception as e:
-        log.warning("Failed to load cache (%s): %s", CACHE_FILE, e)
-        return {}
+def load_cache() -> dict:
+    if CACHE_FILE.exists():
+        try:
+            with open(CACHE_FILE, "r", encoding="utf-8") as f:
+                return json.load(f)
+        except Exception as e:
+            warn(f"Cache load warning: {e}")
+    return {}
 
-def ensure_cache_defaults() -> Dict[str, str]:
+def get_cache() -> dict:
     cache = load_cache()
-    cache.setdefault("script_path", str(Path(__file__).resolve()))
-    cache.setdefault("cache_dir", str(BIN_DIR.resolve()))
-    cache.setdefault("build_dir", str(BUILD_DIR.resolve()))
-    cache.setdefault("venv_path", str(VENV_DIR.resolve()))
-    save_cache(cache)
+    defaults = {
+        "script_path": str(Path(__file__).resolve()),
+        "cache_dir":   str(BIN_DIR.resolve()),
+        "build_dir":   str(BUILD_DIR.resolve()),
+        "venv_path":   str(VENV_DIR.resolve())
+    }
+    changed = False
+    for k, v in defaults.items():
+        if k not in cache:
+            cache[k] = v
+            changed = True
+    if changed:
+        save_cache(cache)
     return cache
 
-# --------------------------------------------------------------------------------------
-# Virtual environment (PyPy-aware + resilient pip installs)
-# --------------------------------------------------------------------------------------
-
-def venv_bin_dir() -> Path:
-    return VENV_DIR / ("Scripts" if is_windows() else "bin")
-
-def venv_candidates() -> List[Path]:
-    b = venv_bin_dir()
-    return [
-        b / ("python.exe" if is_windows() else "python"),
-        b / ("pypy3.exe" if is_windows() else "pypy3"),
-        b / ("pypy.exe" if is_windows() else "pypy"),
-    ]
-
-def venv_python() -> Path:
+# ------------------------------------------------------------------------------
+# Virtual environment
+# ------------------------------------------------------------------------------
+def detect_venv_python() -> Path:
     """
-    Return the first existing interpreter inside the venv.
-    PyPy venvs on Windows expose pypy3.exe (not python.exe), so we probe a set.
+    Return the Python executable inside the venv across platforms and runtimes.
+    Windows (CPython):  .../Scripts/python.exe
+    Windows (PyPy):     .../Scripts/pypy3.exe
+    *nix (CPython):     .../bin/python
+    *nix (PyPy):        .../bin/pypy3
     """
-    for cand in venv_candidates():
-        if cand.exists():
-            return cand
-    return venv_candidates()[0]
+    if sys.platform == "win32":
+        candidates = [VENV_DIR / "Scripts" / "python.exe",
+                      VENV_DIR / "Scripts" / "pypy3.exe",
+                      VENV_DIR / "Scripts" / "python3.exe"]
+    else:
+        candidates = [VENV_DIR / "bin" / "python",
+                      VENV_DIR / "bin" / "pypy3",
+                      VENV_DIR / "bin" / "python3"]
+    for c in candidates:
+        if c.exists():
+            return c
+    return candidates[0]  # default as a helpful pointer in error
 
-def ensure_venv(*, force: bool = False) -> None:
+def ensure_venv():
     BIN_DIR.mkdir(parents=True, exist_ok=True)
     BUILD_DIR.mkdir(parents=True, exist_ok=True)
-    VENV_DIR.mkdir(parents=True, exist_ok=True)
-    marker = BUILD_DIR / ".venv_setup_done"
 
-    if marker.exists() and VENV_DIR.exists() and not force:
-        log.info("Virtual environment already set up.")
-        return
-
-    if not online():
-        raise BootstrapError("No Internet connection. Cannot set up virtual environment.")
-
-    log.info("Creating virtual environment at %s ...", VENV_DIR)
-    try:
-        venv.create(VENV_DIR, with_pip=True)
-    except Exception as e:
-        raise BootstrapError(f"Failed to create venv: {e}") from e
-
-    py = venv_python()
-    if not py.exists():
-        # Help the user debug by listing what's actually in Scripts/bin
-        contents = ", ".join(p.name for p in venv_bin_dir().glob("*")) if venv_bin_dir().exists() else ""
-        raise BootstrapError(
-            f"Python executable not found in venv: {py}\n"
-            f"Found in {venv_bin_dir()}: {contents or '(empty)'}"
-        )
-
-    # Upgrade pip & wheel (fatal if this fails)
-    run_cmd([str(py), "-m", "pip", "install", "--upgrade", "pip", "wheel"], shell=False)
-
-    # Install psutil & numpy with a resilient strategy on PyPy+Windows
-    if is_pypy() and is_windows():
-        # Try the canonical installation first (let pip choose a wheel)
+    if not VENV_DIR.exists():
+        info(f"Creating virtual environment at {VENV_DIR} ...")
         try:
-            run_cmd([str(py), "-m", "pip", "install", "--no-cache-dir", "psutil==5.9.7", "numpy"], shell=False)
-        except BootstrapError as e1:
-            log.warning("psutil install (psutil==5.9.7) failed for PyPy on Windows: %s", e1)
-            # Try installing numpy only; psutil may not have a compatible wheel/source on this platform
-            try:
-                run_cmd([str(py), "-m", "pip", "install", "--no-cache-dir", "numpy"], shell=False)
-                log.warning("Installed numpy; psutil not installed (optional). If you need psutil, try installing a compatible wheel manually.")
-            except BootstrapError as e2:
-                log.warning("Failed to install numpy in venv: %s", e2)
-    elif is_pypy():
-        # Non-Windows PyPy: try standard pip install for psutil + numpy
-        try:
-            run_cmd([str(py), "-m", "pip", "install", "--no-cache-dir", "psutil==5.9.7", "numpy"], shell=False)
-        except BootstrapError as e:
-            log.warning("Failed to install psutil/numpy for PyPy: %s. Attempting to install numpy only.", e)
-            try:
-                run_cmd([str(py), "-m", "pip", "install", "--no-cache-dir", "numpy"], shell=False)
-            except BootstrapError as e2:
-                log.warning("Failed to install numpy in venv: %s", e2)
+            venv.create(VENV_DIR, with_pip=True)
+        except Exception as e:
+            exit_err(f"Venv creation failed: {e}")
     else:
-        # CPython: prefer wheels for psutil to avoid compile
-        try:
-            run_cmd([str(py), "-m", "pip", "install", "--no-cache-dir", "--only-binary", ":all:", "psutil==5.9.7", "numpy"], shell=False)
-        except BootstrapError as e:
-            log.warning("Failed to install psutil/numpy using only-binary. Falling back to standard pip: %s", e)
-            try:
-                run_cmd([str(py), "-m", "pip", "install", "--no-cache-dir", "psutil==5.9.7", "numpy"], shell=False)
-            except BootstrapError as e2:
-                log.warning("Failed to install psutil/numpy in venv: %s", e2)
+        info("Virtual environment already set up.")
 
-    # Try installing project requirements, but don't abort bootstrap if they fail
-    req = PROJECT_ROOT / "requirements.txt"
-    if req.exists():
-        try:
-            run_cmd([str(py), "-m", "pip", "install", "-r", str(req), "--upgrade", "--only-binary", ":all:"], shell=False)
-        except BootstrapError as e:
-            log.warning("Failed to install requirements from %s: %s", req, e)
+    py_exe = detect_venv_python()
+    if not py_exe.exists():
+        exit_err(f"Python executable not found in venv: {py_exe}")
 
-    marker.touch()
-    log.info("Virtual environment setup complete.")
+    # Keep pip/wheel fresh; avoid pinning unless needed.
+    run_cmd([str(py_exe), "-m", "pip", "install", "--upgrade", "pip", "wheel"])
 
-# --------------------------------------------------------------------------------------
-# Data scanning & building
-# --------------------------------------------------------------------------------------
+    # If requirements.txt exists, install it. Do NOT force any URL wheels.
+    if REQUIREMENTS.exists():
+        if online():
+            info("Installing dependencies from requirements.txt ...")
+            # Prefer wheels where available, but don't hard fail if an sdist slips in.
+            run_cmd([str(py_exe), "-m", "pip", "install", "-r", str(REQUIREMENTS), "--upgrade"])
+        else:
+            warn("Offline: skipping requirements install.")
 
-def find_locations() -> Dict[str, str]:
+    return py_exe
+
+# ------------------------------------------------------------------------------
+# Data discovery & building
+# ------------------------------------------------------------------------------
+def find_locations():
     """
-    Locate target directories/files starting from the parent of PROJECT_ROOT
-    (so sibling folders are included).
+    Breadth-first scan starting from parent of project to find:
+      Directories: Easy, Normal, Hard
+      Files: Gear.csv, Stats.txt
     """
-    results: Dict[str, str] = {k: "" for k in ["Easy", "Normal", "Hard", "Gear", "Stats"]}
-    targets_dirs = set(TARGET_DIRS)
-    targets_files = set(TARGET_FILES)
+    results = {k: "" for k in ["Easy", "Normal", "Hard", "Gear", "Stats"]}
+    targets_dirs  = set(["Easy", "Normal", "Hard"])
+    targets_files = set(["Gear.csv", "Stats.txt"])
 
+    # Start from parent so sibling dirs are considered.
     base_dir = PROJECT_ROOT.parent if PROJECT_ROOT.parent != PROJECT_ROOT else PROJECT_ROOT
-    q: deque[Path] = deque([base_dir.resolve()])
+    queue = deque([base_dir])
     visited = {str(base_dir.resolve())}
 
-    while q and (targets_dirs or targets_files):
-        cur = q.popleft()
+    while queue and (targets_dirs or targets_files):
+        curr = queue.popleft()
         try:
-            for entry in os.scandir(cur):
-                p = Path(entry.path)
-                if entry.is_dir(follow_symlinks=False):
-                    if entry.name in targets_dirs:
-                        results[entry.name] = str(p.resolve())
-                        targets_dirs.remove(entry.name)
-                    rp = str(p.resolve())
-                    if rp not in visited:
-                        visited.add(rp)
-                        q.append(p)
-                elif entry.is_file(follow_symlinks=False):
-                    if entry.name in targets_files:
-                        key = entry.name.split(".")[0]
-                        results[key] = str(p.resolve())
-                        targets_files.remove(entry.name)
+            for entry in os.scandir(curr):
+                try:
+                    p = Path(entry.path)
+                    if entry.is_dir(follow_symlinks=False):
+                        if entry.name in targets_dirs:
+                            results[entry.name] = str(p.resolve())
+                            targets_dirs.remove(entry.name)
+                        r = str(p.resolve())
+                        if r not in visited:
+                            visited.add(r)
+                            queue.append(p)
+                    elif entry.is_file(follow_symlinks=False):
+                        if entry.name in targets_files:
+                            key = entry.name.split('.')[0]
+                            results[key] = str(p.resolve())
+                            targets_files.remove(entry.name)
+                    if not targets_dirs and not targets_files:
+                        break
+                except Exception:
+                    continue
         except Exception:
             continue
     return results
 
-def song_file_format_ok(path: Path) -> bool:
-    """Quick validation: required keys appear line-started, ignoring BOM/spaces."""
+def file_format_ok(p: Path) -> bool:
+    """
+    Expect lines containing required headers somewhere in the file (BOM tolerant).
+    """
+    reqs = [
+        "Song Name", "Difficulty", "Primary Color", "Secondary Color",
+        "Last Note Time", "Total Notes", "Fever Fill", "Fever Time", "Long Notes"
+    ]
     try:
-        text_lines = path.read_text(encoding="utf-8", errors="replace").splitlines()
-        lines = [ln.lstrip("\ufeff").strip() for ln in text_lines if ln.strip()]
-        return all(any(ln.startswith(k) for ln in lines) for k in SONG_REQUIRED_KEYS)
+        with p.open("r", encoding="utf-8", errors="replace") as f:
+            lines = [ln.lstrip("\ufeff").strip() for ln in f if ln.strip()]
+        return all(any(line.startswith(r) for line in lines) for r in reqs)
     except Exception:
         return False
 
-def parse_song(path: Path) -> Dict[str, str]:
-    fields = SONG_REQUIRED_KEYS
-    result = {f: "0" for f in fields}
+def parse_song(p: Path) -> dict:
+    fields = [
+        "Song Name", "Difficulty", "Primary Color", "Secondary Color",
+        "Last Note Time", "Total Notes", "Fever Fill", "Fever Time", "Long Notes"
+    ]
+    res = {f: "0" for f in fields}
     try:
-        with path.open("r", encoding="utf-8", errors="replace") as f:
-            for raw in f:
-                line = raw.strip()
+        with p.open("r", encoding="utf-8", errors="replace") as f:
+            for line in f:
+                line = line.strip()
                 for field in fields:
                     if line.startswith(field):
-                        result[field] = line[len(field) :].strip(" :\t")
+                        res[field] = line[len(field):].strip(" :\t")
                         break
     except Exception:
         pass
-    return result
+    return res
 
-def tsv_table(header: Iterable[str], rows: Iterable[Iterable[str]]) -> str:
-    out = ["\t".join(map(str, header))]
-    out += ["\t".join(map(str, r)) for r in rows]
+def fmt_table(hdr, rows):
+    out = ["\t".join(str(x) for x in hdr)]
+    out += ["\t".join(str(x) for x in r) for r in rows]
     return "\n".join(out) + "\n"
 
-def build_songs_list(key: str, folder: Path, build_folder: Path, cache: Dict[str, str]) -> None:
+def build_songs_list(key: str, folder_path: str, build_folder: Path, cache: dict):
     """
-    Build a TSV of all valid .txt song files in `folder` and write to build_folder.
-    Accepts 1 or more valid song files (no longer requires >=25).
+    Build a TSV for a given difficulty key. No hard minimum row count:
+    - 0 valid files  -> skip politely (INFO)
+    - ≥1 valid files -> build file
     """
     marker = build_folder / f".songs_build_{key}.done"
     if marker.exists():
-        log.info("Songs build for '%s' already done.", key)
+        info(f"Songs build for '{key}' already done.")
         return
 
-    txts = sorted(folder.glob("*.txt"))
-    header = [
-        "Difficulty",
-        "Song Name",
-        "Primary Color",
-        "Secondary Color",
-        "Total Notes",
-        "Last Note Time",
-        "Fever Fill",
-        "Fever Time",
-        "Long Notes",
-    ]
+    txts = list(Path(folder_path).glob("*.txt"))
+    rows = []
+    hdr  = ["Difficulty", "Song Name", "Primary Color", "Secondary Color",
+            "Total Notes", "Last Note Time", "Fever Fill", "Fever Time", "Long Notes"]
 
-    rows: List[List[str]] = []
     for txt in txts:
-        if not song_file_format_ok(txt):
-            log.debug("Skipping %s (format issue).", txt)
+        if not file_format_ok(txt):
+            warn(f"Skipping {txt} (format issue).")
             continue
-        info = parse_song(txt)
-        if info["Song Name"] == "???" or info["Difficulty"] == "???":
-            log.debug("Skipping %s (missing fields).", txt)
+        info_dict = parse_song(txt)
+        if info_dict["Song Name"] == "???" or info_dict["Difficulty"] == "???":
+            warn(f"Skipping {txt} (missing fields).")
             continue
-        rows.append(
-            [
-                info["Difficulty"],
-                info["Song Name"],
-                info["Primary Color"],
-                info["Secondary Color"],
-                info["Total Notes"],
-                info["Last Note Time"],
-                info["Fever Fill"],
-                info["Fever Time"],
-                info["Long Notes"],
-            ]
-        )
+        rows.append([
+            info_dict["Difficulty"], info_dict["Song Name"],
+            info_dict["Primary Color"], info_dict["Secondary Color"],
+            info_dict["Total Notes"], info_dict["Last Note Time"],
+            info_dict["Fever Fill"], info_dict["Fever Time"], info_dict["Long Notes"]
+        ])
 
     if not rows:
-        log.info("No valid song files found in '%s' for key '%s'.", folder, key)
+        info(f"No valid files found in '{folder_path}' for key '{key}' – skipping build.")
         return
 
-    build_folder.mkdir(parents=True, exist_ok=True)
+    table = fmt_table(hdr, rows)
     out_file = build_folder / f"Songs_Optimizer_Build_{key}.txt"
-    out_file.write_text(tsv_table(header, rows), encoding="utf-8")
-    log.info("Built %s with %d entr%s.", out_file, len(rows), "y" if len(rows) == 1 else "ies")
-
+    out_file.write_text(table, encoding="utf-8")
+    info(f"Built {out_file} with {len(rows)} entries.")
     cache[f"Build_{key}"] = str(out_file.resolve())
-    save_cache(cache)
     marker.touch()
 
-def build_all_songs(cache: Dict[str, str]) -> None:
+def build_all_songs(cache: dict):
     BUILD_DIR.mkdir(parents=True, exist_ok=True)
-    for k in ("Easy", "Normal", "Hard"):
+    for k in ["Easy", "Normal", "Hard"]:
         fp = cache.get(k, "")
         if fp and Path(fp).is_dir():
-            build_songs_list(k, Path(fp), BUILD_DIR, cache)
+            build_songs_list(k, fp, BUILD_DIR, cache)
         else:
-            log.debug("Folder for %s not found in cache/disk.", k)
-
-def cache_data_paths(*, force_rescan: bool = False) -> Dict[str, str]:
-    """
-    Populate cache with discovered data paths and build song lists.
-    Respects a marker to avoid re-scanning unless forced.
-    """
-    marker = BUILD_DIR / ".data_paths_cached"
-    cache = ensure_cache_defaults()
-
-    if marker.exists() and not force_rescan and all(cache.get(k, "") for k in ["Easy", "Normal", "Hard", "Gear", "Stats"]):
-        log.info("Data paths already cached; skipping scan.")
-        return cache
-
-    log.info("Scanning for data paths...")
-    locs = find_locations()
-    cache.update(locs)
+            info(f"Folder for {k} not found in cache/disk.")
     save_cache(cache)
 
-    build_all_songs(cache)
-    marker.touch()
-    return cache
+def cache_data_paths():
+    BUILD_DIR.mkdir(parents=True, exist_ok=True)
+    marker = BUILD_DIR / ".data_paths_cached"
+    cache = load_cache()
+    need_scan = not marker.exists() and not all(cache.get(k, "") for k in ["Easy", "Normal", "Hard", "Gear", "Stats"])
 
-# --------------------------------------------------------------------------------------
-# Optimizer (Manual_Calculator.py exclusively)
-# --------------------------------------------------------------------------------------
+    if need_scan:
+        info("Scanning for data paths...")
+        locs = find_locations()
+        cache.update(locs)
+        save_cache(cache)
+        build_all_songs(cache)
+        marker.touch()
+    else:
+        info("Data paths cached; skipping scan.")
 
-def find_optimizer() -> Optional[Path]:
-    """Prefer Manual_Calculator.py exclusively; fall back to other candidates if present."""
-    for name in OPTIMIZER_CANDIDATES:
-        candidate = PROJECT_ROOT / name
-        if candidate.exists():
-            return candidate
-    return None
+# ------------------------------------------------------------------------------
+# Runner
+# ------------------------------------------------------------------------------
+def run_manual_calculator(py_exe: Path):
+    if not MANUAL_CALC.exists():
+        exit_err("Manual_Calculator.py not found in project root.")
 
-def run_optimizer(py_exe: Path, *, enable_profiling: bool) -> None:
-    script = find_optimizer()
-    if not script:
-        raise BootstrapError("Manual_Calculator.py (or other candidate) not found in project root.")
-    args = [str(py_exe), str(script)]
-    if enable_profiling:
-        args.append("--profile")
-    log.info("Running %s with %s", script.name, py_exe)
-    run_cmd(args, shell=False)
+    info("Launching Manual_Calculator.py ...")
+    run_cmd([str(py_exe), str(MANUAL_CALC)], shell=False)
 
-# --------------------------------------------------------------------------------------
-# PyPy relaunch
-# --------------------------------------------------------------------------------------
+# ------------------------------------------------------------------------------
+# Main
+# ------------------------------------------------------------------------------
+def main():
+    # Interpreter banner
+    impl = sys.implementation.name
+    ver  = sys.version.split()[0]
+    info(f"Interpreter: {sys.executable} | {impl} {ver}")
 
-def ensure_run_on_pypy(*, allow_cpython: bool) -> None:
-    """
-    Relaunch this script under PyPy unless:
-    - already running under PyPy, or
-    - allow_cpython is True.
-    """
-    if is_pypy() or allow_cpython:
-        return
+    # Prepare environment
+    py_exe = ensure_venv()  # creates venv and returns its python (or pypy3) path
+    cache_data_paths()
 
-    pypy = find_pypy_executable() or ensure_pypy_installed()
-    relaunch_with_env(pypy, Path(__file__).resolve(), {"LAUNCHED_WITH_PYPY": "1"})
-
-# --------------------------------------------------------------------------------------
-# CLI & Main
-# --------------------------------------------------------------------------------------
-
-def parse_args() -> argparse.Namespace:
-    p = argparse.ArgumentParser(description="Bootstrap environment and run Manual_Calculator.py.")
-    p.add_argument("--allow-cpython", action="store_true", help="Skip PyPy relaunch and run with current interpreter.")
-    p.add_argument("--force-venv", action="store_true", help="Recreate/repair the virtual environment.")
-    p.add_argument("--force-rescan", action="store_true", help="Force rescanning of data paths.")
-    p.add_argument("--skip-optimizer", action="store_true", help="Do not run the optimizer after setup.")
-    p.add_argument("--profile", action="store_true", help="Enable optimizer profiling (overrides run_config.ini).")
-    p.add_argument("-v", "--verbose", action="store_true", help="Verbose logging.")
-    return p.parse_args()
-
-def main() -> None:
-    args = parse_args()
-    setup_logging(args.verbose)
-
-    log.info("Interpreter: %s | %s %s", sys.executable, sys.implementation.name, platform.python_version())
-
-    ensure_run_on_pypy(allow_cpython=args.allow_cpython or bool(os.environ.get("LAUNCHED_WITH_PYPY")))
-
-    ensure_venv(force=args.force_venv)
-
-    cache = cache_data_paths(force_rescan=args.force_rescan)
-    log.debug("Cache snapshot: %s", json.dumps(cache, indent=2))
-
-    if not args.skip_optimizer:
-        cfg = load_run_config()
-        enable_prof = args.profile or cfg.getboolean("Profiling", "optimizer_profiling", fallback=False)
-        run_optimizer(venv_python(), enable_profiling=enable_prof)
-
-        if enable_prof and PROFILE_FILE.exists():
-            import pstats  # local import
-            log.info("Profiling results (top 20 cumulative):")
-            pstats.Stats(str(PROFILE_FILE)).strip_dirs().sort_stats("cumulative").print_stats(20)
-        elif enable_prof:
-            log.warning("Profiling enabled but no profile produced at %s", PROFILE_FILE)
+    # Run Manual Calculator exclusively
+    run_manual_calculator(py_exe)
 
 if __name__ == "__main__":
-    try:
-        main()
-    except BootstrapError as e:
-        log.error("%s", e)
-        sys.exit(2)
-    except KeyboardInterrupt:
-        log.error("Interrupted.")
-        sys.exit(130)
+    main()
